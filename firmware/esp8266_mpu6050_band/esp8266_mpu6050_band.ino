@@ -43,7 +43,7 @@ IPAddress   targetBroadcastIP;
 #define MPU_ADDR            0x68    // MPU6050 I2C address
 #define SAMPLE_INTERVAL_US  10000   // 10,000 us = 10 ms = 100 Hz
 #define FRAMES_PER_PACKET   10      // 10 frames per UDP packet (100 ms)
-#define OLED_REFRESH_MS     150     // Refresh OLED at ~6.6 Hz outside 100 Hz loop
+#define OLED_REFRESH_MS     1000    // Refresh OLED at 1 Hz to avoid I2C blocking in 100 Hz loop
 
 const uint8_t MY_BAND_ID    = 1;    // Primary Patient Sensing Node (Band 1)
 
@@ -511,6 +511,7 @@ void setup() {
     Serial.print("[WIFI] Connecting to ");
     Serial.println(WIFI_SSID);
     WiFi.mode(WIFI_STA);
+    WiFi.setSleepMode(WIFI_NONE_SLEEP);
     WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
 
     while (WiFi.status() != WL_CONNECTED) {
@@ -560,16 +561,17 @@ void loop() {
 
     // 0. Check physical test/panic button (Must be held continuously for > 2000 ms to prevent false triggers from floating pins)
     static unsigned long buttonHoldStart = 0;
+    static unsigned long lastPanicSentMs = 0;
     if (now > 5000 && digitalRead(PIN_PANIC_BUTTON) == LOW) {
         if (buttonHoldStart == 0) buttonHoldStart = now;
-        if (now - buttonHoldStart >= 2000) {
+        if (now - buttonHoldStart >= 2000 && now - lastPanicSentMs >= 1000) {
             Serial.println("[BUTTON] Confirmed 2s panic button hold on Band 1! Broadcasting to Band 2...");
             currentAlertMode = MODE_SEIZURE_ALARM;
             alertStartTime = now;
             disp_status_str = "MANUAL PANIC";
             sendPeerAlert(3, 100);
             buttonHoldStart = 0;
-            delay(500);
+            lastPanicSentMs = now;
         }
     } else {
         buttonHoldStart = 0;

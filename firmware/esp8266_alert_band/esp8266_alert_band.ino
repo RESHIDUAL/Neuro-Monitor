@@ -125,7 +125,7 @@ struct __attribute__((packed)) KinematicFrame {
 
 #define FRAMES_PER_PACKET   10
 #define SAMPLE_INTERVAL_US  10000   // 100 Hz = 10 ms
-#define OLED_REFRESH_MS     120     // Refresh OLED at ~8 Hz
+#define OLED_REFRESH_MS     1000    // Refresh OLED at 1 Hz to avoid I2C blocking
 
 KinematicFrame packetBuffer[FRAMES_PER_PACKET];
 uint8_t frameIndex = 0;
@@ -491,6 +491,7 @@ void setup() {
     Serial.print("[WIFI] Connecting to ");
     Serial.println(WIFI_SSID);
     WiFi.mode(WIFI_STA);
+    WiFi.setSleepMode(WIFI_NONE_SLEEP);
     WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
 
     while (WiFi.status() != WL_CONNECTED) {
