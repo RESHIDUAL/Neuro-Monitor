@@ -1,0 +1,5 @@
+Component,Constraint,Specification,Status
+ESP32 On-Chip Execution,520 KB total SRAM (320 KB usable DRAM),468.5 KB model + ~35 KB tensor arena,"Engineering Estimate: Statistically fits in DRAM, but on-chip recurrent layer execution is compute and battery intensive without hardware vector acceleration."
+Phone Companion Inference,BLE bridge to mobile app,0.64 ms CPU latency (<10 ms budget),Verified Architecture: Wristband samples IMU and streams via BLE; companion smartphone executes TFLite inference in real time.
+MPU6050 DLPF 100 Hz,DLPF_CFG=4 (21 Hz bandwidth),100 Hz sampling (50 Hz Nyquist rate),Verified Anti-Aliasing: Analog/digital bandwidth (21 Hz) is strictly below 50 Hz Nyquist limit.
+MPU6050 DLPF 16 Hz,DLPF_CFG=4 (21 Hz bandwidth),16 Hz sampling (8 Hz Nyquist rate),"Infeasible on-sensor: Sensor analog filter cannot cut off below 21 Hz, creating aliasing between 8-21 Hz. Requires 100 Hz acquisition with digital anti-aliasing filter before decimation."

@@ -1,0 +1,67 @@
+# ============================================================
+# Neuro Monitor .gitignore
+# ============================================================
+
+# ----- Excluded project folders -----
+data/
+overall context/
+overall context.zip
+scratch/
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+.eggs/
+.venv/
+venv/
+env/
+
+# ----- Jupyter -----
+notebooks/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# ----- Node / React Native -----
+NeuroMonitor App/node_modules/
+NeuroMonitor App/android/.gradle/
+NeuroMonitor App/android/.cxx/
+NeuroMonitor App/android/app/build/
+NeuroMonitor App/android/build/
+NeuroMonitor App/android/app/.cxx/
+NeuroMonitor App/android/local.properties
+node_modules/
+
+# ----- Build artifacts -----
+*.apk
+*.aab
+*.zip
+
+# ----- IDE and OS -----
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+Thumbs.db
+.DS_Store
+
+# ----- Logs and databases -----
+dashboard/server.log
+dashboard/neuro_monitor.db
+dashboard/__pycache__/
+*.log
+
+# ----- Misc -----
+*.docx
+plan.md
+build_nb01.py
+build_nb02.py
+
+# Large preprocessed data arrays (exceed GitHub 100 MB file limit)
+results/v2_pads_all_tasks_100hz.npz
+results/pads_primary_100hz.npz

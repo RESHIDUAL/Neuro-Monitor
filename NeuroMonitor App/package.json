@@ -1,0 +1,30 @@
+{
+  "name": "neuromon",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "dependencies": {
+    "expo": "57.0.34",
+    "expo-asset": "57.0.22",
+    "expo-keep-awake": "57.0.2",
+    "expo-print": "57.0.2",
+    "expo-sharing": "57.0.27",
+    "expo-sqlite": "57.0.7",
+    "expo-status-bar": "57.0.1",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-fast-tflite": "3.0.1",
+    "react-native-nitro-modules": "0.37.2",
+    "react-native-svg": "15.15.4",
+    "react-native-udp": "4.1.7"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.18",
+    "esbuild": "0.25.12",
+    "typescript": "6.0.3"
+  },
+  "scripts": {
+    "start": "expo start --dev-client",
+    "android": "expo run:android"
+  },
+  "private": true
+}

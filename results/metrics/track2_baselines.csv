@@ -1,0 +1,3 @@
+Model,Series_Detected,Seizure_Recall,Seizure_Precision,Macro_F1
+Random Forest (Baseline),26 of 34,0.7647058823529411,1.0,0.9148148148148147
+RMS Threshold Rule (Train-Fitted),16 of 34,0.47058823529411764,0.5714285714285714,0.6879710581851071

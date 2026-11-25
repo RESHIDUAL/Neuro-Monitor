@@ -1,0 +1,1926 @@
+recording_id,subject_id,series_id,split,dataset,task,wrist,cohort_label,window_idx
+0,UEA_TRAIN_PARTICIPANTS,UEA_TR_000,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+0,UEA_TRAIN_PARTICIPANTS,UEA_TR_000,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+0,UEA_TRAIN_PARTICIPANTS,UEA_TR_000,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+0,UEA_TRAIN_PARTICIPANTS,UEA_TR_000,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+0,UEA_TRAIN_PARTICIPANTS,UEA_TR_000,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+0,UEA_TRAIN_PARTICIPANTS,UEA_TR_000,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+0,UEA_TRAIN_PARTICIPANTS,UEA_TR_000,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+1,UEA_TRAIN_PARTICIPANTS,UEA_TR_001,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+1,UEA_TRAIN_PARTICIPANTS,UEA_TR_001,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+1,UEA_TRAIN_PARTICIPANTS,UEA_TR_001,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+1,UEA_TRAIN_PARTICIPANTS,UEA_TR_001,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+1,UEA_TRAIN_PARTICIPANTS,UEA_TR_001,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+1,UEA_TRAIN_PARTICIPANTS,UEA_TR_001,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+1,UEA_TRAIN_PARTICIPANTS,UEA_TR_001,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+2,UEA_TRAIN_PARTICIPANTS,UEA_TR_002,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+2,UEA_TRAIN_PARTICIPANTS,UEA_TR_002,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+2,UEA_TRAIN_PARTICIPANTS,UEA_TR_002,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+2,UEA_TRAIN_PARTICIPANTS,UEA_TR_002,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+2,UEA_TRAIN_PARTICIPANTS,UEA_TR_002,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+2,UEA_TRAIN_PARTICIPANTS,UEA_TR_002,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+2,UEA_TRAIN_PARTICIPANTS,UEA_TR_002,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+3,UEA_TRAIN_PARTICIPANTS,UEA_TR_003,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+3,UEA_TRAIN_PARTICIPANTS,UEA_TR_003,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+3,UEA_TRAIN_PARTICIPANTS,UEA_TR_003,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+3,UEA_TRAIN_PARTICIPANTS,UEA_TR_003,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+3,UEA_TRAIN_PARTICIPANTS,UEA_TR_003,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+3,UEA_TRAIN_PARTICIPANTS,UEA_TR_003,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+3,UEA_TRAIN_PARTICIPANTS,UEA_TR_003,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+4,UEA_TRAIN_PARTICIPANTS,UEA_TR_004,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+4,UEA_TRAIN_PARTICIPANTS,UEA_TR_004,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+4,UEA_TRAIN_PARTICIPANTS,UEA_TR_004,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+4,UEA_TRAIN_PARTICIPANTS,UEA_TR_004,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+4,UEA_TRAIN_PARTICIPANTS,UEA_TR_004,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+4,UEA_TRAIN_PARTICIPANTS,UEA_TR_004,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+4,UEA_TRAIN_PARTICIPANTS,UEA_TR_004,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+5,UEA_TRAIN_PARTICIPANTS,UEA_TR_005,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+5,UEA_TRAIN_PARTICIPANTS,UEA_TR_005,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+5,UEA_TRAIN_PARTICIPANTS,UEA_TR_005,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+5,UEA_TRAIN_PARTICIPANTS,UEA_TR_005,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+5,UEA_TRAIN_PARTICIPANTS,UEA_TR_005,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+5,UEA_TRAIN_PARTICIPANTS,UEA_TR_005,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+5,UEA_TRAIN_PARTICIPANTS,UEA_TR_005,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+6,UEA_TRAIN_PARTICIPANTS,UEA_TR_006,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+6,UEA_TRAIN_PARTICIPANTS,UEA_TR_006,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+6,UEA_TRAIN_PARTICIPANTS,UEA_TR_006,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+6,UEA_TRAIN_PARTICIPANTS,UEA_TR_006,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+6,UEA_TRAIN_PARTICIPANTS,UEA_TR_006,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+6,UEA_TRAIN_PARTICIPANTS,UEA_TR_006,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+6,UEA_TRAIN_PARTICIPANTS,UEA_TR_006,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+7,UEA_TRAIN_PARTICIPANTS,UEA_TR_007,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+7,UEA_TRAIN_PARTICIPANTS,UEA_TR_007,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+7,UEA_TRAIN_PARTICIPANTS,UEA_TR_007,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+7,UEA_TRAIN_PARTICIPANTS,UEA_TR_007,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+7,UEA_TRAIN_PARTICIPANTS,UEA_TR_007,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+7,UEA_TRAIN_PARTICIPANTS,UEA_TR_007,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+7,UEA_TRAIN_PARTICIPANTS,UEA_TR_007,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+8,UEA_TRAIN_PARTICIPANTS,UEA_TR_008,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+8,UEA_TRAIN_PARTICIPANTS,UEA_TR_008,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+8,UEA_TRAIN_PARTICIPANTS,UEA_TR_008,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+8,UEA_TRAIN_PARTICIPANTS,UEA_TR_008,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+8,UEA_TRAIN_PARTICIPANTS,UEA_TR_008,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+8,UEA_TRAIN_PARTICIPANTS,UEA_TR_008,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+8,UEA_TRAIN_PARTICIPANTS,UEA_TR_008,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+9,UEA_TRAIN_PARTICIPANTS,UEA_TR_009,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+9,UEA_TRAIN_PARTICIPANTS,UEA_TR_009,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+9,UEA_TRAIN_PARTICIPANTS,UEA_TR_009,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+9,UEA_TRAIN_PARTICIPANTS,UEA_TR_009,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+9,UEA_TRAIN_PARTICIPANTS,UEA_TR_009,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+9,UEA_TRAIN_PARTICIPANTS,UEA_TR_009,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+9,UEA_TRAIN_PARTICIPANTS,UEA_TR_009,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+10,UEA_TRAIN_PARTICIPANTS,UEA_TR_010,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+10,UEA_TRAIN_PARTICIPANTS,UEA_TR_010,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+10,UEA_TRAIN_PARTICIPANTS,UEA_TR_010,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+10,UEA_TRAIN_PARTICIPANTS,UEA_TR_010,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+10,UEA_TRAIN_PARTICIPANTS,UEA_TR_010,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+10,UEA_TRAIN_PARTICIPANTS,UEA_TR_010,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+10,UEA_TRAIN_PARTICIPANTS,UEA_TR_010,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+11,UEA_TRAIN_PARTICIPANTS,UEA_TR_011,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+11,UEA_TRAIN_PARTICIPANTS,UEA_TR_011,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+11,UEA_TRAIN_PARTICIPANTS,UEA_TR_011,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+11,UEA_TRAIN_PARTICIPANTS,UEA_TR_011,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+11,UEA_TRAIN_PARTICIPANTS,UEA_TR_011,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+11,UEA_TRAIN_PARTICIPANTS,UEA_TR_011,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+11,UEA_TRAIN_PARTICIPANTS,UEA_TR_011,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+12,UEA_TRAIN_PARTICIPANTS,UEA_TR_012,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+12,UEA_TRAIN_PARTICIPANTS,UEA_TR_012,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+12,UEA_TRAIN_PARTICIPANTS,UEA_TR_012,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+12,UEA_TRAIN_PARTICIPANTS,UEA_TR_012,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+12,UEA_TRAIN_PARTICIPANTS,UEA_TR_012,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+12,UEA_TRAIN_PARTICIPANTS,UEA_TR_012,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+12,UEA_TRAIN_PARTICIPANTS,UEA_TR_012,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+13,UEA_TRAIN_PARTICIPANTS,UEA_TR_013,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+13,UEA_TRAIN_PARTICIPANTS,UEA_TR_013,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+13,UEA_TRAIN_PARTICIPANTS,UEA_TR_013,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+13,UEA_TRAIN_PARTICIPANTS,UEA_TR_013,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+13,UEA_TRAIN_PARTICIPANTS,UEA_TR_013,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+13,UEA_TRAIN_PARTICIPANTS,UEA_TR_013,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+13,UEA_TRAIN_PARTICIPANTS,UEA_TR_013,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+14,UEA_TRAIN_PARTICIPANTS,UEA_TR_014,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+14,UEA_TRAIN_PARTICIPANTS,UEA_TR_014,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+14,UEA_TRAIN_PARTICIPANTS,UEA_TR_014,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+14,UEA_TRAIN_PARTICIPANTS,UEA_TR_014,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+14,UEA_TRAIN_PARTICIPANTS,UEA_TR_014,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+14,UEA_TRAIN_PARTICIPANTS,UEA_TR_014,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+14,UEA_TRAIN_PARTICIPANTS,UEA_TR_014,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+15,UEA_TRAIN_PARTICIPANTS,UEA_TR_015,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+15,UEA_TRAIN_PARTICIPANTS,UEA_TR_015,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+15,UEA_TRAIN_PARTICIPANTS,UEA_TR_015,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+15,UEA_TRAIN_PARTICIPANTS,UEA_TR_015,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+15,UEA_TRAIN_PARTICIPANTS,UEA_TR_015,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+15,UEA_TRAIN_PARTICIPANTS,UEA_TR_015,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+15,UEA_TRAIN_PARTICIPANTS,UEA_TR_015,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+16,UEA_TRAIN_PARTICIPANTS,UEA_TR_016,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+16,UEA_TRAIN_PARTICIPANTS,UEA_TR_016,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+16,UEA_TRAIN_PARTICIPANTS,UEA_TR_016,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+16,UEA_TRAIN_PARTICIPANTS,UEA_TR_016,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+16,UEA_TRAIN_PARTICIPANTS,UEA_TR_016,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+16,UEA_TRAIN_PARTICIPANTS,UEA_TR_016,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+16,UEA_TRAIN_PARTICIPANTS,UEA_TR_016,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+17,UEA_TRAIN_PARTICIPANTS,UEA_TR_017,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+17,UEA_TRAIN_PARTICIPANTS,UEA_TR_017,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+17,UEA_TRAIN_PARTICIPANTS,UEA_TR_017,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+17,UEA_TRAIN_PARTICIPANTS,UEA_TR_017,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+17,UEA_TRAIN_PARTICIPANTS,UEA_TR_017,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+17,UEA_TRAIN_PARTICIPANTS,UEA_TR_017,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+17,UEA_TRAIN_PARTICIPANTS,UEA_TR_017,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+18,UEA_TRAIN_PARTICIPANTS,UEA_TR_018,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+18,UEA_TRAIN_PARTICIPANTS,UEA_TR_018,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+18,UEA_TRAIN_PARTICIPANTS,UEA_TR_018,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+18,UEA_TRAIN_PARTICIPANTS,UEA_TR_018,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+18,UEA_TRAIN_PARTICIPANTS,UEA_TR_018,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+18,UEA_TRAIN_PARTICIPANTS,UEA_TR_018,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+18,UEA_TRAIN_PARTICIPANTS,UEA_TR_018,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+19,UEA_TRAIN_PARTICIPANTS,UEA_TR_019,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+19,UEA_TRAIN_PARTICIPANTS,UEA_TR_019,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+19,UEA_TRAIN_PARTICIPANTS,UEA_TR_019,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+19,UEA_TRAIN_PARTICIPANTS,UEA_TR_019,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+19,UEA_TRAIN_PARTICIPANTS,UEA_TR_019,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+19,UEA_TRAIN_PARTICIPANTS,UEA_TR_019,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+19,UEA_TRAIN_PARTICIPANTS,UEA_TR_019,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+20,UEA_TRAIN_PARTICIPANTS,UEA_TR_020,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+20,UEA_TRAIN_PARTICIPANTS,UEA_TR_020,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+20,UEA_TRAIN_PARTICIPANTS,UEA_TR_020,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+20,UEA_TRAIN_PARTICIPANTS,UEA_TR_020,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+20,UEA_TRAIN_PARTICIPANTS,UEA_TR_020,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+20,UEA_TRAIN_PARTICIPANTS,UEA_TR_020,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+20,UEA_TRAIN_PARTICIPANTS,UEA_TR_020,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+21,UEA_TRAIN_PARTICIPANTS,UEA_TR_021,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+21,UEA_TRAIN_PARTICIPANTS,UEA_TR_021,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+21,UEA_TRAIN_PARTICIPANTS,UEA_TR_021,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+21,UEA_TRAIN_PARTICIPANTS,UEA_TR_021,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+21,UEA_TRAIN_PARTICIPANTS,UEA_TR_021,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+21,UEA_TRAIN_PARTICIPANTS,UEA_TR_021,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+21,UEA_TRAIN_PARTICIPANTS,UEA_TR_021,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+22,UEA_TRAIN_PARTICIPANTS,UEA_TR_022,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+22,UEA_TRAIN_PARTICIPANTS,UEA_TR_022,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+22,UEA_TRAIN_PARTICIPANTS,UEA_TR_022,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+22,UEA_TRAIN_PARTICIPANTS,UEA_TR_022,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+22,UEA_TRAIN_PARTICIPANTS,UEA_TR_022,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+22,UEA_TRAIN_PARTICIPANTS,UEA_TR_022,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+22,UEA_TRAIN_PARTICIPANTS,UEA_TR_022,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+23,UEA_TRAIN_PARTICIPANTS,UEA_TR_023,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+23,UEA_TRAIN_PARTICIPANTS,UEA_TR_023,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+23,UEA_TRAIN_PARTICIPANTS,UEA_TR_023,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+23,UEA_TRAIN_PARTICIPANTS,UEA_TR_023,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+23,UEA_TRAIN_PARTICIPANTS,UEA_TR_023,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+23,UEA_TRAIN_PARTICIPANTS,UEA_TR_023,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+23,UEA_TRAIN_PARTICIPANTS,UEA_TR_023,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+24,UEA_TRAIN_PARTICIPANTS,UEA_TR_024,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+24,UEA_TRAIN_PARTICIPANTS,UEA_TR_024,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+24,UEA_TRAIN_PARTICIPANTS,UEA_TR_024,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+24,UEA_TRAIN_PARTICIPANTS,UEA_TR_024,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+24,UEA_TRAIN_PARTICIPANTS,UEA_TR_024,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+24,UEA_TRAIN_PARTICIPANTS,UEA_TR_024,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+24,UEA_TRAIN_PARTICIPANTS,UEA_TR_024,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+25,UEA_TRAIN_PARTICIPANTS,UEA_TR_025,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+25,UEA_TRAIN_PARTICIPANTS,UEA_TR_025,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+25,UEA_TRAIN_PARTICIPANTS,UEA_TR_025,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+25,UEA_TRAIN_PARTICIPANTS,UEA_TR_025,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+25,UEA_TRAIN_PARTICIPANTS,UEA_TR_025,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+25,UEA_TRAIN_PARTICIPANTS,UEA_TR_025,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+25,UEA_TRAIN_PARTICIPANTS,UEA_TR_025,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+26,UEA_TRAIN_PARTICIPANTS,UEA_TR_026,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+26,UEA_TRAIN_PARTICIPANTS,UEA_TR_026,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+26,UEA_TRAIN_PARTICIPANTS,UEA_TR_026,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+26,UEA_TRAIN_PARTICIPANTS,UEA_TR_026,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+26,UEA_TRAIN_PARTICIPANTS,UEA_TR_026,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+26,UEA_TRAIN_PARTICIPANTS,UEA_TR_026,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+26,UEA_TRAIN_PARTICIPANTS,UEA_TR_026,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+27,UEA_TRAIN_PARTICIPANTS,UEA_TR_027,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+27,UEA_TRAIN_PARTICIPANTS,UEA_TR_027,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+27,UEA_TRAIN_PARTICIPANTS,UEA_TR_027,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+27,UEA_TRAIN_PARTICIPANTS,UEA_TR_027,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+27,UEA_TRAIN_PARTICIPANTS,UEA_TR_027,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+27,UEA_TRAIN_PARTICIPANTS,UEA_TR_027,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+27,UEA_TRAIN_PARTICIPANTS,UEA_TR_027,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+28,UEA_TRAIN_PARTICIPANTS,UEA_TR_028,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+28,UEA_TRAIN_PARTICIPANTS,UEA_TR_028,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+28,UEA_TRAIN_PARTICIPANTS,UEA_TR_028,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+28,UEA_TRAIN_PARTICIPANTS,UEA_TR_028,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+28,UEA_TRAIN_PARTICIPANTS,UEA_TR_028,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+28,UEA_TRAIN_PARTICIPANTS,UEA_TR_028,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+28,UEA_TRAIN_PARTICIPANTS,UEA_TR_028,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+29,UEA_TRAIN_PARTICIPANTS,UEA_TR_029,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+29,UEA_TRAIN_PARTICIPANTS,UEA_TR_029,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+29,UEA_TRAIN_PARTICIPANTS,UEA_TR_029,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+29,UEA_TRAIN_PARTICIPANTS,UEA_TR_029,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+29,UEA_TRAIN_PARTICIPANTS,UEA_TR_029,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+29,UEA_TRAIN_PARTICIPANTS,UEA_TR_029,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+29,UEA_TRAIN_PARTICIPANTS,UEA_TR_029,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+30,UEA_TRAIN_PARTICIPANTS,UEA_TR_030,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+30,UEA_TRAIN_PARTICIPANTS,UEA_TR_030,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+30,UEA_TRAIN_PARTICIPANTS,UEA_TR_030,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+30,UEA_TRAIN_PARTICIPANTS,UEA_TR_030,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+30,UEA_TRAIN_PARTICIPANTS,UEA_TR_030,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+30,UEA_TRAIN_PARTICIPANTS,UEA_TR_030,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+30,UEA_TRAIN_PARTICIPANTS,UEA_TR_030,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+31,UEA_TRAIN_PARTICIPANTS,UEA_TR_031,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+31,UEA_TRAIN_PARTICIPANTS,UEA_TR_031,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+31,UEA_TRAIN_PARTICIPANTS,UEA_TR_031,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+31,UEA_TRAIN_PARTICIPANTS,UEA_TR_031,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+31,UEA_TRAIN_PARTICIPANTS,UEA_TR_031,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+31,UEA_TRAIN_PARTICIPANTS,UEA_TR_031,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+31,UEA_TRAIN_PARTICIPANTS,UEA_TR_031,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+32,UEA_TRAIN_PARTICIPANTS,UEA_TR_032,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+32,UEA_TRAIN_PARTICIPANTS,UEA_TR_032,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+32,UEA_TRAIN_PARTICIPANTS,UEA_TR_032,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+32,UEA_TRAIN_PARTICIPANTS,UEA_TR_032,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+32,UEA_TRAIN_PARTICIPANTS,UEA_TR_032,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+32,UEA_TRAIN_PARTICIPANTS,UEA_TR_032,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+32,UEA_TRAIN_PARTICIPANTS,UEA_TR_032,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+33,UEA_TRAIN_PARTICIPANTS,UEA_TR_033,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+33,UEA_TRAIN_PARTICIPANTS,UEA_TR_033,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+33,UEA_TRAIN_PARTICIPANTS,UEA_TR_033,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+33,UEA_TRAIN_PARTICIPANTS,UEA_TR_033,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+33,UEA_TRAIN_PARTICIPANTS,UEA_TR_033,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+33,UEA_TRAIN_PARTICIPANTS,UEA_TR_033,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+33,UEA_TRAIN_PARTICIPANTS,UEA_TR_033,train,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+34,UEA_TRAIN_PARTICIPANTS,UEA_TR_034,train,UEA,WALKING,DominantWrist,Normal,0
+34,UEA_TRAIN_PARTICIPANTS,UEA_TR_034,train,UEA,WALKING,DominantWrist,Normal,1
+34,UEA_TRAIN_PARTICIPANTS,UEA_TR_034,train,UEA,WALKING,DominantWrist,Normal,2
+34,UEA_TRAIN_PARTICIPANTS,UEA_TR_034,train,UEA,WALKING,DominantWrist,Normal,3
+34,UEA_TRAIN_PARTICIPANTS,UEA_TR_034,train,UEA,WALKING,DominantWrist,Normal,4
+34,UEA_TRAIN_PARTICIPANTS,UEA_TR_034,train,UEA,WALKING,DominantWrist,Normal,5
+34,UEA_TRAIN_PARTICIPANTS,UEA_TR_034,train,UEA,WALKING,DominantWrist,Normal,6
+35,UEA_TRAIN_PARTICIPANTS,UEA_TR_035,train,UEA,WALKING,DominantWrist,Normal,0
+35,UEA_TRAIN_PARTICIPANTS,UEA_TR_035,train,UEA,WALKING,DominantWrist,Normal,1
+35,UEA_TRAIN_PARTICIPANTS,UEA_TR_035,train,UEA,WALKING,DominantWrist,Normal,2
+35,UEA_TRAIN_PARTICIPANTS,UEA_TR_035,train,UEA,WALKING,DominantWrist,Normal,3
+35,UEA_TRAIN_PARTICIPANTS,UEA_TR_035,train,UEA,WALKING,DominantWrist,Normal,4
+35,UEA_TRAIN_PARTICIPANTS,UEA_TR_035,train,UEA,WALKING,DominantWrist,Normal,5
+35,UEA_TRAIN_PARTICIPANTS,UEA_TR_035,train,UEA,WALKING,DominantWrist,Normal,6
+36,UEA_TRAIN_PARTICIPANTS,UEA_TR_036,train,UEA,WALKING,DominantWrist,Normal,0
+36,UEA_TRAIN_PARTICIPANTS,UEA_TR_036,train,UEA,WALKING,DominantWrist,Normal,1
+36,UEA_TRAIN_PARTICIPANTS,UEA_TR_036,train,UEA,WALKING,DominantWrist,Normal,2
+36,UEA_TRAIN_PARTICIPANTS,UEA_TR_036,train,UEA,WALKING,DominantWrist,Normal,3
+36,UEA_TRAIN_PARTICIPANTS,UEA_TR_036,train,UEA,WALKING,DominantWrist,Normal,4
+36,UEA_TRAIN_PARTICIPANTS,UEA_TR_036,train,UEA,WALKING,DominantWrist,Normal,5
+36,UEA_TRAIN_PARTICIPANTS,UEA_TR_036,train,UEA,WALKING,DominantWrist,Normal,6
+37,UEA_TRAIN_PARTICIPANTS,UEA_TR_037,train,UEA,WALKING,DominantWrist,Normal,0
+37,UEA_TRAIN_PARTICIPANTS,UEA_TR_037,train,UEA,WALKING,DominantWrist,Normal,1
+37,UEA_TRAIN_PARTICIPANTS,UEA_TR_037,train,UEA,WALKING,DominantWrist,Normal,2
+37,UEA_TRAIN_PARTICIPANTS,UEA_TR_037,train,UEA,WALKING,DominantWrist,Normal,3
+37,UEA_TRAIN_PARTICIPANTS,UEA_TR_037,train,UEA,WALKING,DominantWrist,Normal,4
+37,UEA_TRAIN_PARTICIPANTS,UEA_TR_037,train,UEA,WALKING,DominantWrist,Normal,5
+37,UEA_TRAIN_PARTICIPANTS,UEA_TR_037,train,UEA,WALKING,DominantWrist,Normal,6
+38,UEA_TRAIN_PARTICIPANTS,UEA_TR_038,train,UEA,WALKING,DominantWrist,Normal,0
+38,UEA_TRAIN_PARTICIPANTS,UEA_TR_038,train,UEA,WALKING,DominantWrist,Normal,1
+38,UEA_TRAIN_PARTICIPANTS,UEA_TR_038,train,UEA,WALKING,DominantWrist,Normal,2
+38,UEA_TRAIN_PARTICIPANTS,UEA_TR_038,train,UEA,WALKING,DominantWrist,Normal,3
+38,UEA_TRAIN_PARTICIPANTS,UEA_TR_038,train,UEA,WALKING,DominantWrist,Normal,4
+38,UEA_TRAIN_PARTICIPANTS,UEA_TR_038,train,UEA,WALKING,DominantWrist,Normal,5
+38,UEA_TRAIN_PARTICIPANTS,UEA_TR_038,train,UEA,WALKING,DominantWrist,Normal,6
+39,UEA_TRAIN_PARTICIPANTS,UEA_TR_039,train,UEA,WALKING,DominantWrist,Normal,0
+39,UEA_TRAIN_PARTICIPANTS,UEA_TR_039,train,UEA,WALKING,DominantWrist,Normal,1
+39,UEA_TRAIN_PARTICIPANTS,UEA_TR_039,train,UEA,WALKING,DominantWrist,Normal,2
+39,UEA_TRAIN_PARTICIPANTS,UEA_TR_039,train,UEA,WALKING,DominantWrist,Normal,3
+39,UEA_TRAIN_PARTICIPANTS,UEA_TR_039,train,UEA,WALKING,DominantWrist,Normal,4
+39,UEA_TRAIN_PARTICIPANTS,UEA_TR_039,train,UEA,WALKING,DominantWrist,Normal,5
+39,UEA_TRAIN_PARTICIPANTS,UEA_TR_039,train,UEA,WALKING,DominantWrist,Normal,6
+40,UEA_TRAIN_PARTICIPANTS,UEA_TR_040,train,UEA,WALKING,DominantWrist,Normal,0
+40,UEA_TRAIN_PARTICIPANTS,UEA_TR_040,train,UEA,WALKING,DominantWrist,Normal,1
+40,UEA_TRAIN_PARTICIPANTS,UEA_TR_040,train,UEA,WALKING,DominantWrist,Normal,2
+40,UEA_TRAIN_PARTICIPANTS,UEA_TR_040,train,UEA,WALKING,DominantWrist,Normal,3
+40,UEA_TRAIN_PARTICIPANTS,UEA_TR_040,train,UEA,WALKING,DominantWrist,Normal,4
+40,UEA_TRAIN_PARTICIPANTS,UEA_TR_040,train,UEA,WALKING,DominantWrist,Normal,5
+40,UEA_TRAIN_PARTICIPANTS,UEA_TR_040,train,UEA,WALKING,DominantWrist,Normal,6
+41,UEA_TRAIN_PARTICIPANTS,UEA_TR_041,train,UEA,WALKING,DominantWrist,Normal,0
+41,UEA_TRAIN_PARTICIPANTS,UEA_TR_041,train,UEA,WALKING,DominantWrist,Normal,1
+41,UEA_TRAIN_PARTICIPANTS,UEA_TR_041,train,UEA,WALKING,DominantWrist,Normal,2
+41,UEA_TRAIN_PARTICIPANTS,UEA_TR_041,train,UEA,WALKING,DominantWrist,Normal,3
+41,UEA_TRAIN_PARTICIPANTS,UEA_TR_041,train,UEA,WALKING,DominantWrist,Normal,4
+41,UEA_TRAIN_PARTICIPANTS,UEA_TR_041,train,UEA,WALKING,DominantWrist,Normal,5
+41,UEA_TRAIN_PARTICIPANTS,UEA_TR_041,train,UEA,WALKING,DominantWrist,Normal,6
+42,UEA_TRAIN_PARTICIPANTS,UEA_TR_042,train,UEA,WALKING,DominantWrist,Normal,0
+42,UEA_TRAIN_PARTICIPANTS,UEA_TR_042,train,UEA,WALKING,DominantWrist,Normal,1
+42,UEA_TRAIN_PARTICIPANTS,UEA_TR_042,train,UEA,WALKING,DominantWrist,Normal,2
+42,UEA_TRAIN_PARTICIPANTS,UEA_TR_042,train,UEA,WALKING,DominantWrist,Normal,3
+42,UEA_TRAIN_PARTICIPANTS,UEA_TR_042,train,UEA,WALKING,DominantWrist,Normal,4
+42,UEA_TRAIN_PARTICIPANTS,UEA_TR_042,train,UEA,WALKING,DominantWrist,Normal,5
+42,UEA_TRAIN_PARTICIPANTS,UEA_TR_042,train,UEA,WALKING,DominantWrist,Normal,6
+43,UEA_TRAIN_PARTICIPANTS,UEA_TR_043,train,UEA,WALKING,DominantWrist,Normal,0
+43,UEA_TRAIN_PARTICIPANTS,UEA_TR_043,train,UEA,WALKING,DominantWrist,Normal,1
+43,UEA_TRAIN_PARTICIPANTS,UEA_TR_043,train,UEA,WALKING,DominantWrist,Normal,2
+43,UEA_TRAIN_PARTICIPANTS,UEA_TR_043,train,UEA,WALKING,DominantWrist,Normal,3
+43,UEA_TRAIN_PARTICIPANTS,UEA_TR_043,train,UEA,WALKING,DominantWrist,Normal,4
+43,UEA_TRAIN_PARTICIPANTS,UEA_TR_043,train,UEA,WALKING,DominantWrist,Normal,5
+43,UEA_TRAIN_PARTICIPANTS,UEA_TR_043,train,UEA,WALKING,DominantWrist,Normal,6
+44,UEA_TRAIN_PARTICIPANTS,UEA_TR_044,train,UEA,WALKING,DominantWrist,Normal,0
+44,UEA_TRAIN_PARTICIPANTS,UEA_TR_044,train,UEA,WALKING,DominantWrist,Normal,1
+44,UEA_TRAIN_PARTICIPANTS,UEA_TR_044,train,UEA,WALKING,DominantWrist,Normal,2
+44,UEA_TRAIN_PARTICIPANTS,UEA_TR_044,train,UEA,WALKING,DominantWrist,Normal,3
+44,UEA_TRAIN_PARTICIPANTS,UEA_TR_044,train,UEA,WALKING,DominantWrist,Normal,4
+44,UEA_TRAIN_PARTICIPANTS,UEA_TR_044,train,UEA,WALKING,DominantWrist,Normal,5
+44,UEA_TRAIN_PARTICIPANTS,UEA_TR_044,train,UEA,WALKING,DominantWrist,Normal,6
+45,UEA_TRAIN_PARTICIPANTS,UEA_TR_045,train,UEA,WALKING,DominantWrist,Normal,0
+45,UEA_TRAIN_PARTICIPANTS,UEA_TR_045,train,UEA,WALKING,DominantWrist,Normal,1
+45,UEA_TRAIN_PARTICIPANTS,UEA_TR_045,train,UEA,WALKING,DominantWrist,Normal,2
+45,UEA_TRAIN_PARTICIPANTS,UEA_TR_045,train,UEA,WALKING,DominantWrist,Normal,3
+45,UEA_TRAIN_PARTICIPANTS,UEA_TR_045,train,UEA,WALKING,DominantWrist,Normal,4
+45,UEA_TRAIN_PARTICIPANTS,UEA_TR_045,train,UEA,WALKING,DominantWrist,Normal,5
+45,UEA_TRAIN_PARTICIPANTS,UEA_TR_045,train,UEA,WALKING,DominantWrist,Normal,6
+46,UEA_TRAIN_PARTICIPANTS,UEA_TR_046,train,UEA,WALKING,DominantWrist,Normal,0
+46,UEA_TRAIN_PARTICIPANTS,UEA_TR_046,train,UEA,WALKING,DominantWrist,Normal,1
+46,UEA_TRAIN_PARTICIPANTS,UEA_TR_046,train,UEA,WALKING,DominantWrist,Normal,2
+46,UEA_TRAIN_PARTICIPANTS,UEA_TR_046,train,UEA,WALKING,DominantWrist,Normal,3
+46,UEA_TRAIN_PARTICIPANTS,UEA_TR_046,train,UEA,WALKING,DominantWrist,Normal,4
+46,UEA_TRAIN_PARTICIPANTS,UEA_TR_046,train,UEA,WALKING,DominantWrist,Normal,5
+46,UEA_TRAIN_PARTICIPANTS,UEA_TR_046,train,UEA,WALKING,DominantWrist,Normal,6
+47,UEA_TRAIN_PARTICIPANTS,UEA_TR_047,train,UEA,WALKING,DominantWrist,Normal,0
+47,UEA_TRAIN_PARTICIPANTS,UEA_TR_047,train,UEA,WALKING,DominantWrist,Normal,1
+47,UEA_TRAIN_PARTICIPANTS,UEA_TR_047,train,UEA,WALKING,DominantWrist,Normal,2
+47,UEA_TRAIN_PARTICIPANTS,UEA_TR_047,train,UEA,WALKING,DominantWrist,Normal,3
+47,UEA_TRAIN_PARTICIPANTS,UEA_TR_047,train,UEA,WALKING,DominantWrist,Normal,4
+47,UEA_TRAIN_PARTICIPANTS,UEA_TR_047,train,UEA,WALKING,DominantWrist,Normal,5
+47,UEA_TRAIN_PARTICIPANTS,UEA_TR_047,train,UEA,WALKING,DominantWrist,Normal,6
+48,UEA_TRAIN_PARTICIPANTS,UEA_TR_048,train,UEA,WALKING,DominantWrist,Normal,0
+48,UEA_TRAIN_PARTICIPANTS,UEA_TR_048,train,UEA,WALKING,DominantWrist,Normal,1
+48,UEA_TRAIN_PARTICIPANTS,UEA_TR_048,train,UEA,WALKING,DominantWrist,Normal,2
+48,UEA_TRAIN_PARTICIPANTS,UEA_TR_048,train,UEA,WALKING,DominantWrist,Normal,3
+48,UEA_TRAIN_PARTICIPANTS,UEA_TR_048,train,UEA,WALKING,DominantWrist,Normal,4
+48,UEA_TRAIN_PARTICIPANTS,UEA_TR_048,train,UEA,WALKING,DominantWrist,Normal,5
+48,UEA_TRAIN_PARTICIPANTS,UEA_TR_048,train,UEA,WALKING,DominantWrist,Normal,6
+49,UEA_TRAIN_PARTICIPANTS,UEA_TR_049,train,UEA,WALKING,DominantWrist,Normal,0
+49,UEA_TRAIN_PARTICIPANTS,UEA_TR_049,train,UEA,WALKING,DominantWrist,Normal,1
+49,UEA_TRAIN_PARTICIPANTS,UEA_TR_049,train,UEA,WALKING,DominantWrist,Normal,2
+49,UEA_TRAIN_PARTICIPANTS,UEA_TR_049,train,UEA,WALKING,DominantWrist,Normal,3
+49,UEA_TRAIN_PARTICIPANTS,UEA_TR_049,train,UEA,WALKING,DominantWrist,Normal,4
+49,UEA_TRAIN_PARTICIPANTS,UEA_TR_049,train,UEA,WALKING,DominantWrist,Normal,5
+49,UEA_TRAIN_PARTICIPANTS,UEA_TR_049,train,UEA,WALKING,DominantWrist,Normal,6
+50,UEA_TRAIN_PARTICIPANTS,UEA_TR_050,train,UEA,WALKING,DominantWrist,Normal,0
+50,UEA_TRAIN_PARTICIPANTS,UEA_TR_050,train,UEA,WALKING,DominantWrist,Normal,1
+50,UEA_TRAIN_PARTICIPANTS,UEA_TR_050,train,UEA,WALKING,DominantWrist,Normal,2
+50,UEA_TRAIN_PARTICIPANTS,UEA_TR_050,train,UEA,WALKING,DominantWrist,Normal,3
+50,UEA_TRAIN_PARTICIPANTS,UEA_TR_050,train,UEA,WALKING,DominantWrist,Normal,4
+50,UEA_TRAIN_PARTICIPANTS,UEA_TR_050,train,UEA,WALKING,DominantWrist,Normal,5
+50,UEA_TRAIN_PARTICIPANTS,UEA_TR_050,train,UEA,WALKING,DominantWrist,Normal,6
+51,UEA_TRAIN_PARTICIPANTS,UEA_TR_051,train,UEA,WALKING,DominantWrist,Normal,0
+51,UEA_TRAIN_PARTICIPANTS,UEA_TR_051,train,UEA,WALKING,DominantWrist,Normal,1
+51,UEA_TRAIN_PARTICIPANTS,UEA_TR_051,train,UEA,WALKING,DominantWrist,Normal,2
+51,UEA_TRAIN_PARTICIPANTS,UEA_TR_051,train,UEA,WALKING,DominantWrist,Normal,3
+51,UEA_TRAIN_PARTICIPANTS,UEA_TR_051,train,UEA,WALKING,DominantWrist,Normal,4
+51,UEA_TRAIN_PARTICIPANTS,UEA_TR_051,train,UEA,WALKING,DominantWrist,Normal,5
+51,UEA_TRAIN_PARTICIPANTS,UEA_TR_051,train,UEA,WALKING,DominantWrist,Normal,6
+52,UEA_TRAIN_PARTICIPANTS,UEA_TR_052,train,UEA,WALKING,DominantWrist,Normal,0
+52,UEA_TRAIN_PARTICIPANTS,UEA_TR_052,train,UEA,WALKING,DominantWrist,Normal,1
+52,UEA_TRAIN_PARTICIPANTS,UEA_TR_052,train,UEA,WALKING,DominantWrist,Normal,2
+52,UEA_TRAIN_PARTICIPANTS,UEA_TR_052,train,UEA,WALKING,DominantWrist,Normal,3
+52,UEA_TRAIN_PARTICIPANTS,UEA_TR_052,train,UEA,WALKING,DominantWrist,Normal,4
+52,UEA_TRAIN_PARTICIPANTS,UEA_TR_052,train,UEA,WALKING,DominantWrist,Normal,5
+52,UEA_TRAIN_PARTICIPANTS,UEA_TR_052,train,UEA,WALKING,DominantWrist,Normal,6
+53,UEA_TRAIN_PARTICIPANTS,UEA_TR_053,train,UEA,WALKING,DominantWrist,Normal,0
+53,UEA_TRAIN_PARTICIPANTS,UEA_TR_053,train,UEA,WALKING,DominantWrist,Normal,1
+53,UEA_TRAIN_PARTICIPANTS,UEA_TR_053,train,UEA,WALKING,DominantWrist,Normal,2
+53,UEA_TRAIN_PARTICIPANTS,UEA_TR_053,train,UEA,WALKING,DominantWrist,Normal,3
+53,UEA_TRAIN_PARTICIPANTS,UEA_TR_053,train,UEA,WALKING,DominantWrist,Normal,4
+53,UEA_TRAIN_PARTICIPANTS,UEA_TR_053,train,UEA,WALKING,DominantWrist,Normal,5
+53,UEA_TRAIN_PARTICIPANTS,UEA_TR_053,train,UEA,WALKING,DominantWrist,Normal,6
+54,UEA_TRAIN_PARTICIPANTS,UEA_TR_054,train,UEA,WALKING,DominantWrist,Normal,0
+54,UEA_TRAIN_PARTICIPANTS,UEA_TR_054,train,UEA,WALKING,DominantWrist,Normal,1
+54,UEA_TRAIN_PARTICIPANTS,UEA_TR_054,train,UEA,WALKING,DominantWrist,Normal,2
+54,UEA_TRAIN_PARTICIPANTS,UEA_TR_054,train,UEA,WALKING,DominantWrist,Normal,3
+54,UEA_TRAIN_PARTICIPANTS,UEA_TR_054,train,UEA,WALKING,DominantWrist,Normal,4
+54,UEA_TRAIN_PARTICIPANTS,UEA_TR_054,train,UEA,WALKING,DominantWrist,Normal,5
+54,UEA_TRAIN_PARTICIPANTS,UEA_TR_054,train,UEA,WALKING,DominantWrist,Normal,6
+55,UEA_TRAIN_PARTICIPANTS,UEA_TR_055,train,UEA,WALKING,DominantWrist,Normal,0
+55,UEA_TRAIN_PARTICIPANTS,UEA_TR_055,train,UEA,WALKING,DominantWrist,Normal,1
+55,UEA_TRAIN_PARTICIPANTS,UEA_TR_055,train,UEA,WALKING,DominantWrist,Normal,2
+55,UEA_TRAIN_PARTICIPANTS,UEA_TR_055,train,UEA,WALKING,DominantWrist,Normal,3
+55,UEA_TRAIN_PARTICIPANTS,UEA_TR_055,train,UEA,WALKING,DominantWrist,Normal,4
+55,UEA_TRAIN_PARTICIPANTS,UEA_TR_055,train,UEA,WALKING,DominantWrist,Normal,5
+55,UEA_TRAIN_PARTICIPANTS,UEA_TR_055,train,UEA,WALKING,DominantWrist,Normal,6
+56,UEA_TRAIN_PARTICIPANTS,UEA_TR_056,train,UEA,WALKING,DominantWrist,Normal,0
+56,UEA_TRAIN_PARTICIPANTS,UEA_TR_056,train,UEA,WALKING,DominantWrist,Normal,1
+56,UEA_TRAIN_PARTICIPANTS,UEA_TR_056,train,UEA,WALKING,DominantWrist,Normal,2
+56,UEA_TRAIN_PARTICIPANTS,UEA_TR_056,train,UEA,WALKING,DominantWrist,Normal,3
+56,UEA_TRAIN_PARTICIPANTS,UEA_TR_056,train,UEA,WALKING,DominantWrist,Normal,4
+56,UEA_TRAIN_PARTICIPANTS,UEA_TR_056,train,UEA,WALKING,DominantWrist,Normal,5
+56,UEA_TRAIN_PARTICIPANTS,UEA_TR_056,train,UEA,WALKING,DominantWrist,Normal,6
+57,UEA_TRAIN_PARTICIPANTS,UEA_TR_057,train,UEA,WALKING,DominantWrist,Normal,0
+57,UEA_TRAIN_PARTICIPANTS,UEA_TR_057,train,UEA,WALKING,DominantWrist,Normal,1
+57,UEA_TRAIN_PARTICIPANTS,UEA_TR_057,train,UEA,WALKING,DominantWrist,Normal,2
+57,UEA_TRAIN_PARTICIPANTS,UEA_TR_057,train,UEA,WALKING,DominantWrist,Normal,3
+57,UEA_TRAIN_PARTICIPANTS,UEA_TR_057,train,UEA,WALKING,DominantWrist,Normal,4
+57,UEA_TRAIN_PARTICIPANTS,UEA_TR_057,train,UEA,WALKING,DominantWrist,Normal,5
+57,UEA_TRAIN_PARTICIPANTS,UEA_TR_057,train,UEA,WALKING,DominantWrist,Normal,6
+58,UEA_TRAIN_PARTICIPANTS,UEA_TR_058,train,UEA,WALKING,DominantWrist,Normal,0
+58,UEA_TRAIN_PARTICIPANTS,UEA_TR_058,train,UEA,WALKING,DominantWrist,Normal,1
+58,UEA_TRAIN_PARTICIPANTS,UEA_TR_058,train,UEA,WALKING,DominantWrist,Normal,2
+58,UEA_TRAIN_PARTICIPANTS,UEA_TR_058,train,UEA,WALKING,DominantWrist,Normal,3
+58,UEA_TRAIN_PARTICIPANTS,UEA_TR_058,train,UEA,WALKING,DominantWrist,Normal,4
+58,UEA_TRAIN_PARTICIPANTS,UEA_TR_058,train,UEA,WALKING,DominantWrist,Normal,5
+58,UEA_TRAIN_PARTICIPANTS,UEA_TR_058,train,UEA,WALKING,DominantWrist,Normal,6
+59,UEA_TRAIN_PARTICIPANTS,UEA_TR_059,train,UEA,WALKING,DominantWrist,Normal,0
+59,UEA_TRAIN_PARTICIPANTS,UEA_TR_059,train,UEA,WALKING,DominantWrist,Normal,1
+59,UEA_TRAIN_PARTICIPANTS,UEA_TR_059,train,UEA,WALKING,DominantWrist,Normal,2
+59,UEA_TRAIN_PARTICIPANTS,UEA_TR_059,train,UEA,WALKING,DominantWrist,Normal,3
+59,UEA_TRAIN_PARTICIPANTS,UEA_TR_059,train,UEA,WALKING,DominantWrist,Normal,4
+59,UEA_TRAIN_PARTICIPANTS,UEA_TR_059,train,UEA,WALKING,DominantWrist,Normal,5
+59,UEA_TRAIN_PARTICIPANTS,UEA_TR_059,train,UEA,WALKING,DominantWrist,Normal,6
+60,UEA_TRAIN_PARTICIPANTS,UEA_TR_060,train,UEA,WALKING,DominantWrist,Normal,0
+60,UEA_TRAIN_PARTICIPANTS,UEA_TR_060,train,UEA,WALKING,DominantWrist,Normal,1
+60,UEA_TRAIN_PARTICIPANTS,UEA_TR_060,train,UEA,WALKING,DominantWrist,Normal,2
+60,UEA_TRAIN_PARTICIPANTS,UEA_TR_060,train,UEA,WALKING,DominantWrist,Normal,3
+60,UEA_TRAIN_PARTICIPANTS,UEA_TR_060,train,UEA,WALKING,DominantWrist,Normal,4
+60,UEA_TRAIN_PARTICIPANTS,UEA_TR_060,train,UEA,WALKING,DominantWrist,Normal,5
+60,UEA_TRAIN_PARTICIPANTS,UEA_TR_060,train,UEA,WALKING,DominantWrist,Normal,6
+61,UEA_TRAIN_PARTICIPANTS,UEA_TR_061,train,UEA,WALKING,DominantWrist,Normal,0
+61,UEA_TRAIN_PARTICIPANTS,UEA_TR_061,train,UEA,WALKING,DominantWrist,Normal,1
+61,UEA_TRAIN_PARTICIPANTS,UEA_TR_061,train,UEA,WALKING,DominantWrist,Normal,2
+61,UEA_TRAIN_PARTICIPANTS,UEA_TR_061,train,UEA,WALKING,DominantWrist,Normal,3
+61,UEA_TRAIN_PARTICIPANTS,UEA_TR_061,train,UEA,WALKING,DominantWrist,Normal,4
+61,UEA_TRAIN_PARTICIPANTS,UEA_TR_061,train,UEA,WALKING,DominantWrist,Normal,5
+61,UEA_TRAIN_PARTICIPANTS,UEA_TR_061,train,UEA,WALKING,DominantWrist,Normal,6
+62,UEA_TRAIN_PARTICIPANTS,UEA_TR_062,train,UEA,WALKING,DominantWrist,Normal,0
+62,UEA_TRAIN_PARTICIPANTS,UEA_TR_062,train,UEA,WALKING,DominantWrist,Normal,1
+62,UEA_TRAIN_PARTICIPANTS,UEA_TR_062,train,UEA,WALKING,DominantWrist,Normal,2
+62,UEA_TRAIN_PARTICIPANTS,UEA_TR_062,train,UEA,WALKING,DominantWrist,Normal,3
+62,UEA_TRAIN_PARTICIPANTS,UEA_TR_062,train,UEA,WALKING,DominantWrist,Normal,4
+62,UEA_TRAIN_PARTICIPANTS,UEA_TR_062,train,UEA,WALKING,DominantWrist,Normal,5
+62,UEA_TRAIN_PARTICIPANTS,UEA_TR_062,train,UEA,WALKING,DominantWrist,Normal,6
+63,UEA_TRAIN_PARTICIPANTS,UEA_TR_063,train,UEA,WALKING,DominantWrist,Normal,0
+63,UEA_TRAIN_PARTICIPANTS,UEA_TR_063,train,UEA,WALKING,DominantWrist,Normal,1
+63,UEA_TRAIN_PARTICIPANTS,UEA_TR_063,train,UEA,WALKING,DominantWrist,Normal,2
+63,UEA_TRAIN_PARTICIPANTS,UEA_TR_063,train,UEA,WALKING,DominantWrist,Normal,3
+63,UEA_TRAIN_PARTICIPANTS,UEA_TR_063,train,UEA,WALKING,DominantWrist,Normal,4
+63,UEA_TRAIN_PARTICIPANTS,UEA_TR_063,train,UEA,WALKING,DominantWrist,Normal,5
+63,UEA_TRAIN_PARTICIPANTS,UEA_TR_063,train,UEA,WALKING,DominantWrist,Normal,6
+64,UEA_TRAIN_PARTICIPANTS,UEA_TR_064,train,UEA,WALKING,DominantWrist,Normal,0
+64,UEA_TRAIN_PARTICIPANTS,UEA_TR_064,train,UEA,WALKING,DominantWrist,Normal,1
+64,UEA_TRAIN_PARTICIPANTS,UEA_TR_064,train,UEA,WALKING,DominantWrist,Normal,2
+64,UEA_TRAIN_PARTICIPANTS,UEA_TR_064,train,UEA,WALKING,DominantWrist,Normal,3
+64,UEA_TRAIN_PARTICIPANTS,UEA_TR_064,train,UEA,WALKING,DominantWrist,Normal,4
+64,UEA_TRAIN_PARTICIPANTS,UEA_TR_064,train,UEA,WALKING,DominantWrist,Normal,5
+64,UEA_TRAIN_PARTICIPANTS,UEA_TR_064,train,UEA,WALKING,DominantWrist,Normal,6
+65,UEA_TRAIN_PARTICIPANTS,UEA_TR_065,train,UEA,WALKING,DominantWrist,Normal,0
+65,UEA_TRAIN_PARTICIPANTS,UEA_TR_065,train,UEA,WALKING,DominantWrist,Normal,1
+65,UEA_TRAIN_PARTICIPANTS,UEA_TR_065,train,UEA,WALKING,DominantWrist,Normal,2
+65,UEA_TRAIN_PARTICIPANTS,UEA_TR_065,train,UEA,WALKING,DominantWrist,Normal,3
+65,UEA_TRAIN_PARTICIPANTS,UEA_TR_065,train,UEA,WALKING,DominantWrist,Normal,4
+65,UEA_TRAIN_PARTICIPANTS,UEA_TR_065,train,UEA,WALKING,DominantWrist,Normal,5
+65,UEA_TRAIN_PARTICIPANTS,UEA_TR_065,train,UEA,WALKING,DominantWrist,Normal,6
+66,UEA_TRAIN_PARTICIPANTS,UEA_TR_066,train,UEA,WALKING,DominantWrist,Normal,0
+66,UEA_TRAIN_PARTICIPANTS,UEA_TR_066,train,UEA,WALKING,DominantWrist,Normal,1
+66,UEA_TRAIN_PARTICIPANTS,UEA_TR_066,train,UEA,WALKING,DominantWrist,Normal,2
+66,UEA_TRAIN_PARTICIPANTS,UEA_TR_066,train,UEA,WALKING,DominantWrist,Normal,3
+66,UEA_TRAIN_PARTICIPANTS,UEA_TR_066,train,UEA,WALKING,DominantWrist,Normal,4
+66,UEA_TRAIN_PARTICIPANTS,UEA_TR_066,train,UEA,WALKING,DominantWrist,Normal,5
+66,UEA_TRAIN_PARTICIPANTS,UEA_TR_066,train,UEA,WALKING,DominantWrist,Normal,6
+67,UEA_TRAIN_PARTICIPANTS,UEA_TR_067,train,UEA,WALKING,DominantWrist,Normal,0
+67,UEA_TRAIN_PARTICIPANTS,UEA_TR_067,train,UEA,WALKING,DominantWrist,Normal,1
+67,UEA_TRAIN_PARTICIPANTS,UEA_TR_067,train,UEA,WALKING,DominantWrist,Normal,2
+67,UEA_TRAIN_PARTICIPANTS,UEA_TR_067,train,UEA,WALKING,DominantWrist,Normal,3
+67,UEA_TRAIN_PARTICIPANTS,UEA_TR_067,train,UEA,WALKING,DominantWrist,Normal,4
+67,UEA_TRAIN_PARTICIPANTS,UEA_TR_067,train,UEA,WALKING,DominantWrist,Normal,5
+67,UEA_TRAIN_PARTICIPANTS,UEA_TR_067,train,UEA,WALKING,DominantWrist,Normal,6
+68,UEA_TRAIN_PARTICIPANTS,UEA_TR_068,train,UEA,WALKING,DominantWrist,Normal,0
+68,UEA_TRAIN_PARTICIPANTS,UEA_TR_068,train,UEA,WALKING,DominantWrist,Normal,1
+68,UEA_TRAIN_PARTICIPANTS,UEA_TR_068,train,UEA,WALKING,DominantWrist,Normal,2
+68,UEA_TRAIN_PARTICIPANTS,UEA_TR_068,train,UEA,WALKING,DominantWrist,Normal,3
+68,UEA_TRAIN_PARTICIPANTS,UEA_TR_068,train,UEA,WALKING,DominantWrist,Normal,4
+68,UEA_TRAIN_PARTICIPANTS,UEA_TR_068,train,UEA,WALKING,DominantWrist,Normal,5
+68,UEA_TRAIN_PARTICIPANTS,UEA_TR_068,train,UEA,WALKING,DominantWrist,Normal,6
+69,UEA_TRAIN_PARTICIPANTS,UEA_TR_069,train,UEA,WALKING,DominantWrist,Normal,0
+69,UEA_TRAIN_PARTICIPANTS,UEA_TR_069,train,UEA,WALKING,DominantWrist,Normal,1
+69,UEA_TRAIN_PARTICIPANTS,UEA_TR_069,train,UEA,WALKING,DominantWrist,Normal,2
+69,UEA_TRAIN_PARTICIPANTS,UEA_TR_069,train,UEA,WALKING,DominantWrist,Normal,3
+69,UEA_TRAIN_PARTICIPANTS,UEA_TR_069,train,UEA,WALKING,DominantWrist,Normal,4
+69,UEA_TRAIN_PARTICIPANTS,UEA_TR_069,train,UEA,WALKING,DominantWrist,Normal,5
+69,UEA_TRAIN_PARTICIPANTS,UEA_TR_069,train,UEA,WALKING,DominantWrist,Normal,6
+70,UEA_TRAIN_PARTICIPANTS,UEA_TR_070,train,UEA,WALKING,DominantWrist,Normal,0
+70,UEA_TRAIN_PARTICIPANTS,UEA_TR_070,train,UEA,WALKING,DominantWrist,Normal,1
+70,UEA_TRAIN_PARTICIPANTS,UEA_TR_070,train,UEA,WALKING,DominantWrist,Normal,2
+70,UEA_TRAIN_PARTICIPANTS,UEA_TR_070,train,UEA,WALKING,DominantWrist,Normal,3
+70,UEA_TRAIN_PARTICIPANTS,UEA_TR_070,train,UEA,WALKING,DominantWrist,Normal,4
+70,UEA_TRAIN_PARTICIPANTS,UEA_TR_070,train,UEA,WALKING,DominantWrist,Normal,5
+70,UEA_TRAIN_PARTICIPANTS,UEA_TR_070,train,UEA,WALKING,DominantWrist,Normal,6
+71,UEA_TRAIN_PARTICIPANTS,UEA_TR_071,train,UEA,RUNNING,DominantWrist,Normal,0
+71,UEA_TRAIN_PARTICIPANTS,UEA_TR_071,train,UEA,RUNNING,DominantWrist,Normal,1
+71,UEA_TRAIN_PARTICIPANTS,UEA_TR_071,train,UEA,RUNNING,DominantWrist,Normal,2
+71,UEA_TRAIN_PARTICIPANTS,UEA_TR_071,train,UEA,RUNNING,DominantWrist,Normal,3
+71,UEA_TRAIN_PARTICIPANTS,UEA_TR_071,train,UEA,RUNNING,DominantWrist,Normal,4
+71,UEA_TRAIN_PARTICIPANTS,UEA_TR_071,train,UEA,RUNNING,DominantWrist,Normal,5
+71,UEA_TRAIN_PARTICIPANTS,UEA_TR_071,train,UEA,RUNNING,DominantWrist,Normal,6
+72,UEA_TRAIN_PARTICIPANTS,UEA_TR_072,train,UEA,RUNNING,DominantWrist,Normal,0
+72,UEA_TRAIN_PARTICIPANTS,UEA_TR_072,train,UEA,RUNNING,DominantWrist,Normal,1
+72,UEA_TRAIN_PARTICIPANTS,UEA_TR_072,train,UEA,RUNNING,DominantWrist,Normal,2
+72,UEA_TRAIN_PARTICIPANTS,UEA_TR_072,train,UEA,RUNNING,DominantWrist,Normal,3
+72,UEA_TRAIN_PARTICIPANTS,UEA_TR_072,train,UEA,RUNNING,DominantWrist,Normal,4
+72,UEA_TRAIN_PARTICIPANTS,UEA_TR_072,train,UEA,RUNNING,DominantWrist,Normal,5
+72,UEA_TRAIN_PARTICIPANTS,UEA_TR_072,train,UEA,RUNNING,DominantWrist,Normal,6
+73,UEA_TRAIN_PARTICIPANTS,UEA_TR_073,train,UEA,RUNNING,DominantWrist,Normal,0
+73,UEA_TRAIN_PARTICIPANTS,UEA_TR_073,train,UEA,RUNNING,DominantWrist,Normal,1
+73,UEA_TRAIN_PARTICIPANTS,UEA_TR_073,train,UEA,RUNNING,DominantWrist,Normal,2
+73,UEA_TRAIN_PARTICIPANTS,UEA_TR_073,train,UEA,RUNNING,DominantWrist,Normal,3
+73,UEA_TRAIN_PARTICIPANTS,UEA_TR_073,train,UEA,RUNNING,DominantWrist,Normal,4
+73,UEA_TRAIN_PARTICIPANTS,UEA_TR_073,train,UEA,RUNNING,DominantWrist,Normal,5
+73,UEA_TRAIN_PARTICIPANTS,UEA_TR_073,train,UEA,RUNNING,DominantWrist,Normal,6
+74,UEA_TRAIN_PARTICIPANTS,UEA_TR_074,train,UEA,RUNNING,DominantWrist,Normal,0
+74,UEA_TRAIN_PARTICIPANTS,UEA_TR_074,train,UEA,RUNNING,DominantWrist,Normal,1
+74,UEA_TRAIN_PARTICIPANTS,UEA_TR_074,train,UEA,RUNNING,DominantWrist,Normal,2
+74,UEA_TRAIN_PARTICIPANTS,UEA_TR_074,train,UEA,RUNNING,DominantWrist,Normal,3
+74,UEA_TRAIN_PARTICIPANTS,UEA_TR_074,train,UEA,RUNNING,DominantWrist,Normal,4
+74,UEA_TRAIN_PARTICIPANTS,UEA_TR_074,train,UEA,RUNNING,DominantWrist,Normal,5
+74,UEA_TRAIN_PARTICIPANTS,UEA_TR_074,train,UEA,RUNNING,DominantWrist,Normal,6
+75,UEA_TRAIN_PARTICIPANTS,UEA_TR_075,train,UEA,RUNNING,DominantWrist,Normal,0
+75,UEA_TRAIN_PARTICIPANTS,UEA_TR_075,train,UEA,RUNNING,DominantWrist,Normal,1
+75,UEA_TRAIN_PARTICIPANTS,UEA_TR_075,train,UEA,RUNNING,DominantWrist,Normal,2
+75,UEA_TRAIN_PARTICIPANTS,UEA_TR_075,train,UEA,RUNNING,DominantWrist,Normal,3
+75,UEA_TRAIN_PARTICIPANTS,UEA_TR_075,train,UEA,RUNNING,DominantWrist,Normal,4
+75,UEA_TRAIN_PARTICIPANTS,UEA_TR_075,train,UEA,RUNNING,DominantWrist,Normal,5
+75,UEA_TRAIN_PARTICIPANTS,UEA_TR_075,train,UEA,RUNNING,DominantWrist,Normal,6
+76,UEA_TRAIN_PARTICIPANTS,UEA_TR_076,train,UEA,RUNNING,DominantWrist,Normal,0
+76,UEA_TRAIN_PARTICIPANTS,UEA_TR_076,train,UEA,RUNNING,DominantWrist,Normal,1
+76,UEA_TRAIN_PARTICIPANTS,UEA_TR_076,train,UEA,RUNNING,DominantWrist,Normal,2
+76,UEA_TRAIN_PARTICIPANTS,UEA_TR_076,train,UEA,RUNNING,DominantWrist,Normal,3
+76,UEA_TRAIN_PARTICIPANTS,UEA_TR_076,train,UEA,RUNNING,DominantWrist,Normal,4
+76,UEA_TRAIN_PARTICIPANTS,UEA_TR_076,train,UEA,RUNNING,DominantWrist,Normal,5
+76,UEA_TRAIN_PARTICIPANTS,UEA_TR_076,train,UEA,RUNNING,DominantWrist,Normal,6
+77,UEA_TRAIN_PARTICIPANTS,UEA_TR_077,train,UEA,RUNNING,DominantWrist,Normal,0
+77,UEA_TRAIN_PARTICIPANTS,UEA_TR_077,train,UEA,RUNNING,DominantWrist,Normal,1
+77,UEA_TRAIN_PARTICIPANTS,UEA_TR_077,train,UEA,RUNNING,DominantWrist,Normal,2
+77,UEA_TRAIN_PARTICIPANTS,UEA_TR_077,train,UEA,RUNNING,DominantWrist,Normal,3
+77,UEA_TRAIN_PARTICIPANTS,UEA_TR_077,train,UEA,RUNNING,DominantWrist,Normal,4
+77,UEA_TRAIN_PARTICIPANTS,UEA_TR_077,train,UEA,RUNNING,DominantWrist,Normal,5
+77,UEA_TRAIN_PARTICIPANTS,UEA_TR_077,train,UEA,RUNNING,DominantWrist,Normal,6
+78,UEA_TRAIN_PARTICIPANTS,UEA_TR_078,train,UEA,RUNNING,DominantWrist,Normal,0
+78,UEA_TRAIN_PARTICIPANTS,UEA_TR_078,train,UEA,RUNNING,DominantWrist,Normal,1
+78,UEA_TRAIN_PARTICIPANTS,UEA_TR_078,train,UEA,RUNNING,DominantWrist,Normal,2
+78,UEA_TRAIN_PARTICIPANTS,UEA_TR_078,train,UEA,RUNNING,DominantWrist,Normal,3
+78,UEA_TRAIN_PARTICIPANTS,UEA_TR_078,train,UEA,RUNNING,DominantWrist,Normal,4
+78,UEA_TRAIN_PARTICIPANTS,UEA_TR_078,train,UEA,RUNNING,DominantWrist,Normal,5
+78,UEA_TRAIN_PARTICIPANTS,UEA_TR_078,train,UEA,RUNNING,DominantWrist,Normal,6
+79,UEA_TRAIN_PARTICIPANTS,UEA_TR_079,train,UEA,RUNNING,DominantWrist,Normal,0
+79,UEA_TRAIN_PARTICIPANTS,UEA_TR_079,train,UEA,RUNNING,DominantWrist,Normal,1
+79,UEA_TRAIN_PARTICIPANTS,UEA_TR_079,train,UEA,RUNNING,DominantWrist,Normal,2
+79,UEA_TRAIN_PARTICIPANTS,UEA_TR_079,train,UEA,RUNNING,DominantWrist,Normal,3
+79,UEA_TRAIN_PARTICIPANTS,UEA_TR_079,train,UEA,RUNNING,DominantWrist,Normal,4
+79,UEA_TRAIN_PARTICIPANTS,UEA_TR_079,train,UEA,RUNNING,DominantWrist,Normal,5
+79,UEA_TRAIN_PARTICIPANTS,UEA_TR_079,train,UEA,RUNNING,DominantWrist,Normal,6
+80,UEA_TRAIN_PARTICIPANTS,UEA_TR_080,train,UEA,RUNNING,DominantWrist,Normal,0
+80,UEA_TRAIN_PARTICIPANTS,UEA_TR_080,train,UEA,RUNNING,DominantWrist,Normal,1
+80,UEA_TRAIN_PARTICIPANTS,UEA_TR_080,train,UEA,RUNNING,DominantWrist,Normal,2
+80,UEA_TRAIN_PARTICIPANTS,UEA_TR_080,train,UEA,RUNNING,DominantWrist,Normal,3
+80,UEA_TRAIN_PARTICIPANTS,UEA_TR_080,train,UEA,RUNNING,DominantWrist,Normal,4
+80,UEA_TRAIN_PARTICIPANTS,UEA_TR_080,train,UEA,RUNNING,DominantWrist,Normal,5
+80,UEA_TRAIN_PARTICIPANTS,UEA_TR_080,train,UEA,RUNNING,DominantWrist,Normal,6
+81,UEA_TRAIN_PARTICIPANTS,UEA_TR_081,train,UEA,RUNNING,DominantWrist,Normal,0
+81,UEA_TRAIN_PARTICIPANTS,UEA_TR_081,train,UEA,RUNNING,DominantWrist,Normal,1
+81,UEA_TRAIN_PARTICIPANTS,UEA_TR_081,train,UEA,RUNNING,DominantWrist,Normal,2
+81,UEA_TRAIN_PARTICIPANTS,UEA_TR_081,train,UEA,RUNNING,DominantWrist,Normal,3
+81,UEA_TRAIN_PARTICIPANTS,UEA_TR_081,train,UEA,RUNNING,DominantWrist,Normal,4
+81,UEA_TRAIN_PARTICIPANTS,UEA_TR_081,train,UEA,RUNNING,DominantWrist,Normal,5
+81,UEA_TRAIN_PARTICIPANTS,UEA_TR_081,train,UEA,RUNNING,DominantWrist,Normal,6
+82,UEA_TRAIN_PARTICIPANTS,UEA_TR_082,train,UEA,RUNNING,DominantWrist,Normal,0
+82,UEA_TRAIN_PARTICIPANTS,UEA_TR_082,train,UEA,RUNNING,DominantWrist,Normal,1
+82,UEA_TRAIN_PARTICIPANTS,UEA_TR_082,train,UEA,RUNNING,DominantWrist,Normal,2
+82,UEA_TRAIN_PARTICIPANTS,UEA_TR_082,train,UEA,RUNNING,DominantWrist,Normal,3
+82,UEA_TRAIN_PARTICIPANTS,UEA_TR_082,train,UEA,RUNNING,DominantWrist,Normal,4
+82,UEA_TRAIN_PARTICIPANTS,UEA_TR_082,train,UEA,RUNNING,DominantWrist,Normal,5
+82,UEA_TRAIN_PARTICIPANTS,UEA_TR_082,train,UEA,RUNNING,DominantWrist,Normal,6
+83,UEA_TRAIN_PARTICIPANTS,UEA_TR_083,train,UEA,RUNNING,DominantWrist,Normal,0
+83,UEA_TRAIN_PARTICIPANTS,UEA_TR_083,train,UEA,RUNNING,DominantWrist,Normal,1
+83,UEA_TRAIN_PARTICIPANTS,UEA_TR_083,train,UEA,RUNNING,DominantWrist,Normal,2
+83,UEA_TRAIN_PARTICIPANTS,UEA_TR_083,train,UEA,RUNNING,DominantWrist,Normal,3
+83,UEA_TRAIN_PARTICIPANTS,UEA_TR_083,train,UEA,RUNNING,DominantWrist,Normal,4
+83,UEA_TRAIN_PARTICIPANTS,UEA_TR_083,train,UEA,RUNNING,DominantWrist,Normal,5
+83,UEA_TRAIN_PARTICIPANTS,UEA_TR_083,train,UEA,RUNNING,DominantWrist,Normal,6
+84,UEA_TRAIN_PARTICIPANTS,UEA_TR_084,train,UEA,RUNNING,DominantWrist,Normal,0
+84,UEA_TRAIN_PARTICIPANTS,UEA_TR_084,train,UEA,RUNNING,DominantWrist,Normal,1
+84,UEA_TRAIN_PARTICIPANTS,UEA_TR_084,train,UEA,RUNNING,DominantWrist,Normal,2
+84,UEA_TRAIN_PARTICIPANTS,UEA_TR_084,train,UEA,RUNNING,DominantWrist,Normal,3
+84,UEA_TRAIN_PARTICIPANTS,UEA_TR_084,train,UEA,RUNNING,DominantWrist,Normal,4
+84,UEA_TRAIN_PARTICIPANTS,UEA_TR_084,train,UEA,RUNNING,DominantWrist,Normal,5
+84,UEA_TRAIN_PARTICIPANTS,UEA_TR_084,train,UEA,RUNNING,DominantWrist,Normal,6
+85,UEA_TRAIN_PARTICIPANTS,UEA_TR_085,train,UEA,RUNNING,DominantWrist,Normal,0
+85,UEA_TRAIN_PARTICIPANTS,UEA_TR_085,train,UEA,RUNNING,DominantWrist,Normal,1
+85,UEA_TRAIN_PARTICIPANTS,UEA_TR_085,train,UEA,RUNNING,DominantWrist,Normal,2
+85,UEA_TRAIN_PARTICIPANTS,UEA_TR_085,train,UEA,RUNNING,DominantWrist,Normal,3
+85,UEA_TRAIN_PARTICIPANTS,UEA_TR_085,train,UEA,RUNNING,DominantWrist,Normal,4
+85,UEA_TRAIN_PARTICIPANTS,UEA_TR_085,train,UEA,RUNNING,DominantWrist,Normal,5
+85,UEA_TRAIN_PARTICIPANTS,UEA_TR_085,train,UEA,RUNNING,DominantWrist,Normal,6
+86,UEA_TRAIN_PARTICIPANTS,UEA_TR_086,train,UEA,RUNNING,DominantWrist,Normal,0
+86,UEA_TRAIN_PARTICIPANTS,UEA_TR_086,train,UEA,RUNNING,DominantWrist,Normal,1
+86,UEA_TRAIN_PARTICIPANTS,UEA_TR_086,train,UEA,RUNNING,DominantWrist,Normal,2
+86,UEA_TRAIN_PARTICIPANTS,UEA_TR_086,train,UEA,RUNNING,DominantWrist,Normal,3
+86,UEA_TRAIN_PARTICIPANTS,UEA_TR_086,train,UEA,RUNNING,DominantWrist,Normal,4
+86,UEA_TRAIN_PARTICIPANTS,UEA_TR_086,train,UEA,RUNNING,DominantWrist,Normal,5
+86,UEA_TRAIN_PARTICIPANTS,UEA_TR_086,train,UEA,RUNNING,DominantWrist,Normal,6
+87,UEA_TRAIN_PARTICIPANTS,UEA_TR_087,train,UEA,RUNNING,DominantWrist,Normal,0
+87,UEA_TRAIN_PARTICIPANTS,UEA_TR_087,train,UEA,RUNNING,DominantWrist,Normal,1
+87,UEA_TRAIN_PARTICIPANTS,UEA_TR_087,train,UEA,RUNNING,DominantWrist,Normal,2
+87,UEA_TRAIN_PARTICIPANTS,UEA_TR_087,train,UEA,RUNNING,DominantWrist,Normal,3
+87,UEA_TRAIN_PARTICIPANTS,UEA_TR_087,train,UEA,RUNNING,DominantWrist,Normal,4
+87,UEA_TRAIN_PARTICIPANTS,UEA_TR_087,train,UEA,RUNNING,DominantWrist,Normal,5
+87,UEA_TRAIN_PARTICIPANTS,UEA_TR_087,train,UEA,RUNNING,DominantWrist,Normal,6
+88,UEA_TRAIN_PARTICIPANTS,UEA_TR_088,train,UEA,RUNNING,DominantWrist,Normal,0
+88,UEA_TRAIN_PARTICIPANTS,UEA_TR_088,train,UEA,RUNNING,DominantWrist,Normal,1
+88,UEA_TRAIN_PARTICIPANTS,UEA_TR_088,train,UEA,RUNNING,DominantWrist,Normal,2
+88,UEA_TRAIN_PARTICIPANTS,UEA_TR_088,train,UEA,RUNNING,DominantWrist,Normal,3
+88,UEA_TRAIN_PARTICIPANTS,UEA_TR_088,train,UEA,RUNNING,DominantWrist,Normal,4
+88,UEA_TRAIN_PARTICIPANTS,UEA_TR_088,train,UEA,RUNNING,DominantWrist,Normal,5
+88,UEA_TRAIN_PARTICIPANTS,UEA_TR_088,train,UEA,RUNNING,DominantWrist,Normal,6
+89,UEA_TRAIN_PARTICIPANTS,UEA_TR_089,train,UEA,RUNNING,DominantWrist,Normal,0
+89,UEA_TRAIN_PARTICIPANTS,UEA_TR_089,train,UEA,RUNNING,DominantWrist,Normal,1
+89,UEA_TRAIN_PARTICIPANTS,UEA_TR_089,train,UEA,RUNNING,DominantWrist,Normal,2
+89,UEA_TRAIN_PARTICIPANTS,UEA_TR_089,train,UEA,RUNNING,DominantWrist,Normal,3
+89,UEA_TRAIN_PARTICIPANTS,UEA_TR_089,train,UEA,RUNNING,DominantWrist,Normal,4
+89,UEA_TRAIN_PARTICIPANTS,UEA_TR_089,train,UEA,RUNNING,DominantWrist,Normal,5
+89,UEA_TRAIN_PARTICIPANTS,UEA_TR_089,train,UEA,RUNNING,DominantWrist,Normal,6
+90,UEA_TRAIN_PARTICIPANTS,UEA_TR_090,train,UEA,RUNNING,DominantWrist,Normal,0
+90,UEA_TRAIN_PARTICIPANTS,UEA_TR_090,train,UEA,RUNNING,DominantWrist,Normal,1
+90,UEA_TRAIN_PARTICIPANTS,UEA_TR_090,train,UEA,RUNNING,DominantWrist,Normal,2
+90,UEA_TRAIN_PARTICIPANTS,UEA_TR_090,train,UEA,RUNNING,DominantWrist,Normal,3
+90,UEA_TRAIN_PARTICIPANTS,UEA_TR_090,train,UEA,RUNNING,DominantWrist,Normal,4
+90,UEA_TRAIN_PARTICIPANTS,UEA_TR_090,train,UEA,RUNNING,DominantWrist,Normal,5
+90,UEA_TRAIN_PARTICIPANTS,UEA_TR_090,train,UEA,RUNNING,DominantWrist,Normal,6
+91,UEA_TRAIN_PARTICIPANTS,UEA_TR_091,train,UEA,RUNNING,DominantWrist,Normal,0
+91,UEA_TRAIN_PARTICIPANTS,UEA_TR_091,train,UEA,RUNNING,DominantWrist,Normal,1
+91,UEA_TRAIN_PARTICIPANTS,UEA_TR_091,train,UEA,RUNNING,DominantWrist,Normal,2
+91,UEA_TRAIN_PARTICIPANTS,UEA_TR_091,train,UEA,RUNNING,DominantWrist,Normal,3
+91,UEA_TRAIN_PARTICIPANTS,UEA_TR_091,train,UEA,RUNNING,DominantWrist,Normal,4
+91,UEA_TRAIN_PARTICIPANTS,UEA_TR_091,train,UEA,RUNNING,DominantWrist,Normal,5
+91,UEA_TRAIN_PARTICIPANTS,UEA_TR_091,train,UEA,RUNNING,DominantWrist,Normal,6
+92,UEA_TRAIN_PARTICIPANTS,UEA_TR_092,train,UEA,RUNNING,DominantWrist,Normal,0
+92,UEA_TRAIN_PARTICIPANTS,UEA_TR_092,train,UEA,RUNNING,DominantWrist,Normal,1
+92,UEA_TRAIN_PARTICIPANTS,UEA_TR_092,train,UEA,RUNNING,DominantWrist,Normal,2
+92,UEA_TRAIN_PARTICIPANTS,UEA_TR_092,train,UEA,RUNNING,DominantWrist,Normal,3
+92,UEA_TRAIN_PARTICIPANTS,UEA_TR_092,train,UEA,RUNNING,DominantWrist,Normal,4
+92,UEA_TRAIN_PARTICIPANTS,UEA_TR_092,train,UEA,RUNNING,DominantWrist,Normal,5
+92,UEA_TRAIN_PARTICIPANTS,UEA_TR_092,train,UEA,RUNNING,DominantWrist,Normal,6
+93,UEA_TRAIN_PARTICIPANTS,UEA_TR_093,train,UEA,RUNNING,DominantWrist,Normal,0
+93,UEA_TRAIN_PARTICIPANTS,UEA_TR_093,train,UEA,RUNNING,DominantWrist,Normal,1
+93,UEA_TRAIN_PARTICIPANTS,UEA_TR_093,train,UEA,RUNNING,DominantWrist,Normal,2
+93,UEA_TRAIN_PARTICIPANTS,UEA_TR_093,train,UEA,RUNNING,DominantWrist,Normal,3
+93,UEA_TRAIN_PARTICIPANTS,UEA_TR_093,train,UEA,RUNNING,DominantWrist,Normal,4
+93,UEA_TRAIN_PARTICIPANTS,UEA_TR_093,train,UEA,RUNNING,DominantWrist,Normal,5
+93,UEA_TRAIN_PARTICIPANTS,UEA_TR_093,train,UEA,RUNNING,DominantWrist,Normal,6
+94,UEA_TRAIN_PARTICIPANTS,UEA_TR_094,train,UEA,RUNNING,DominantWrist,Normal,0
+94,UEA_TRAIN_PARTICIPANTS,UEA_TR_094,train,UEA,RUNNING,DominantWrist,Normal,1
+94,UEA_TRAIN_PARTICIPANTS,UEA_TR_094,train,UEA,RUNNING,DominantWrist,Normal,2
+94,UEA_TRAIN_PARTICIPANTS,UEA_TR_094,train,UEA,RUNNING,DominantWrist,Normal,3
+94,UEA_TRAIN_PARTICIPANTS,UEA_TR_094,train,UEA,RUNNING,DominantWrist,Normal,4
+94,UEA_TRAIN_PARTICIPANTS,UEA_TR_094,train,UEA,RUNNING,DominantWrist,Normal,5
+94,UEA_TRAIN_PARTICIPANTS,UEA_TR_094,train,UEA,RUNNING,DominantWrist,Normal,6
+95,UEA_TRAIN_PARTICIPANTS,UEA_TR_095,train,UEA,RUNNING,DominantWrist,Normal,0
+95,UEA_TRAIN_PARTICIPANTS,UEA_TR_095,train,UEA,RUNNING,DominantWrist,Normal,1
+95,UEA_TRAIN_PARTICIPANTS,UEA_TR_095,train,UEA,RUNNING,DominantWrist,Normal,2
+95,UEA_TRAIN_PARTICIPANTS,UEA_TR_095,train,UEA,RUNNING,DominantWrist,Normal,3
+95,UEA_TRAIN_PARTICIPANTS,UEA_TR_095,train,UEA,RUNNING,DominantWrist,Normal,4
+95,UEA_TRAIN_PARTICIPANTS,UEA_TR_095,train,UEA,RUNNING,DominantWrist,Normal,5
+95,UEA_TRAIN_PARTICIPANTS,UEA_TR_095,train,UEA,RUNNING,DominantWrist,Normal,6
+96,UEA_TRAIN_PARTICIPANTS,UEA_TR_096,train,UEA,RUNNING,DominantWrist,Normal,0
+96,UEA_TRAIN_PARTICIPANTS,UEA_TR_096,train,UEA,RUNNING,DominantWrist,Normal,1
+96,UEA_TRAIN_PARTICIPANTS,UEA_TR_096,train,UEA,RUNNING,DominantWrist,Normal,2
+96,UEA_TRAIN_PARTICIPANTS,UEA_TR_096,train,UEA,RUNNING,DominantWrist,Normal,3
+96,UEA_TRAIN_PARTICIPANTS,UEA_TR_096,train,UEA,RUNNING,DominantWrist,Normal,4
+96,UEA_TRAIN_PARTICIPANTS,UEA_TR_096,train,UEA,RUNNING,DominantWrist,Normal,5
+96,UEA_TRAIN_PARTICIPANTS,UEA_TR_096,train,UEA,RUNNING,DominantWrist,Normal,6
+97,UEA_TRAIN_PARTICIPANTS,UEA_TR_097,train,UEA,RUNNING,DominantWrist,Normal,0
+97,UEA_TRAIN_PARTICIPANTS,UEA_TR_097,train,UEA,RUNNING,DominantWrist,Normal,1
+97,UEA_TRAIN_PARTICIPANTS,UEA_TR_097,train,UEA,RUNNING,DominantWrist,Normal,2
+97,UEA_TRAIN_PARTICIPANTS,UEA_TR_097,train,UEA,RUNNING,DominantWrist,Normal,3
+97,UEA_TRAIN_PARTICIPANTS,UEA_TR_097,train,UEA,RUNNING,DominantWrist,Normal,4
+97,UEA_TRAIN_PARTICIPANTS,UEA_TR_097,train,UEA,RUNNING,DominantWrist,Normal,5
+97,UEA_TRAIN_PARTICIPANTS,UEA_TR_097,train,UEA,RUNNING,DominantWrist,Normal,6
+98,UEA_TRAIN_PARTICIPANTS,UEA_TR_098,train,UEA,RUNNING,DominantWrist,Normal,0
+98,UEA_TRAIN_PARTICIPANTS,UEA_TR_098,train,UEA,RUNNING,DominantWrist,Normal,1
+98,UEA_TRAIN_PARTICIPANTS,UEA_TR_098,train,UEA,RUNNING,DominantWrist,Normal,2
+98,UEA_TRAIN_PARTICIPANTS,UEA_TR_098,train,UEA,RUNNING,DominantWrist,Normal,3
+98,UEA_TRAIN_PARTICIPANTS,UEA_TR_098,train,UEA,RUNNING,DominantWrist,Normal,4
+98,UEA_TRAIN_PARTICIPANTS,UEA_TR_098,train,UEA,RUNNING,DominantWrist,Normal,5
+98,UEA_TRAIN_PARTICIPANTS,UEA_TR_098,train,UEA,RUNNING,DominantWrist,Normal,6
+99,UEA_TRAIN_PARTICIPANTS,UEA_TR_099,train,UEA,RUNNING,DominantWrist,Normal,0
+99,UEA_TRAIN_PARTICIPANTS,UEA_TR_099,train,UEA,RUNNING,DominantWrist,Normal,1
+99,UEA_TRAIN_PARTICIPANTS,UEA_TR_099,train,UEA,RUNNING,DominantWrist,Normal,2
+99,UEA_TRAIN_PARTICIPANTS,UEA_TR_099,train,UEA,RUNNING,DominantWrist,Normal,3
+99,UEA_TRAIN_PARTICIPANTS,UEA_TR_099,train,UEA,RUNNING,DominantWrist,Normal,4
+99,UEA_TRAIN_PARTICIPANTS,UEA_TR_099,train,UEA,RUNNING,DominantWrist,Normal,5
+99,UEA_TRAIN_PARTICIPANTS,UEA_TR_099,train,UEA,RUNNING,DominantWrist,Normal,6
+100,UEA_TRAIN_PARTICIPANTS,UEA_TR_100,train,UEA,RUNNING,DominantWrist,Normal,0
+100,UEA_TRAIN_PARTICIPANTS,UEA_TR_100,train,UEA,RUNNING,DominantWrist,Normal,1
+100,UEA_TRAIN_PARTICIPANTS,UEA_TR_100,train,UEA,RUNNING,DominantWrist,Normal,2
+100,UEA_TRAIN_PARTICIPANTS,UEA_TR_100,train,UEA,RUNNING,DominantWrist,Normal,3
+100,UEA_TRAIN_PARTICIPANTS,UEA_TR_100,train,UEA,RUNNING,DominantWrist,Normal,4
+100,UEA_TRAIN_PARTICIPANTS,UEA_TR_100,train,UEA,RUNNING,DominantWrist,Normal,5
+100,UEA_TRAIN_PARTICIPANTS,UEA_TR_100,train,UEA,RUNNING,DominantWrist,Normal,6
+101,UEA_TRAIN_PARTICIPANTS,UEA_TR_101,train,UEA,RUNNING,DominantWrist,Normal,0
+101,UEA_TRAIN_PARTICIPANTS,UEA_TR_101,train,UEA,RUNNING,DominantWrist,Normal,1
+101,UEA_TRAIN_PARTICIPANTS,UEA_TR_101,train,UEA,RUNNING,DominantWrist,Normal,2
+101,UEA_TRAIN_PARTICIPANTS,UEA_TR_101,train,UEA,RUNNING,DominantWrist,Normal,3
+101,UEA_TRAIN_PARTICIPANTS,UEA_TR_101,train,UEA,RUNNING,DominantWrist,Normal,4
+101,UEA_TRAIN_PARTICIPANTS,UEA_TR_101,train,UEA,RUNNING,DominantWrist,Normal,5
+101,UEA_TRAIN_PARTICIPANTS,UEA_TR_101,train,UEA,RUNNING,DominantWrist,Normal,6
+102,UEA_TRAIN_PARTICIPANTS,UEA_TR_102,train,UEA,RUNNING,DominantWrist,Normal,0
+102,UEA_TRAIN_PARTICIPANTS,UEA_TR_102,train,UEA,RUNNING,DominantWrist,Normal,1
+102,UEA_TRAIN_PARTICIPANTS,UEA_TR_102,train,UEA,RUNNING,DominantWrist,Normal,2
+102,UEA_TRAIN_PARTICIPANTS,UEA_TR_102,train,UEA,RUNNING,DominantWrist,Normal,3
+102,UEA_TRAIN_PARTICIPANTS,UEA_TR_102,train,UEA,RUNNING,DominantWrist,Normal,4
+102,UEA_TRAIN_PARTICIPANTS,UEA_TR_102,train,UEA,RUNNING,DominantWrist,Normal,5
+102,UEA_TRAIN_PARTICIPANTS,UEA_TR_102,train,UEA,RUNNING,DominantWrist,Normal,6
+103,UEA_TRAIN_PARTICIPANTS,UEA_TR_103,train,UEA,RUNNING,DominantWrist,Normal,0
+103,UEA_TRAIN_PARTICIPANTS,UEA_TR_103,train,UEA,RUNNING,DominantWrist,Normal,1
+103,UEA_TRAIN_PARTICIPANTS,UEA_TR_103,train,UEA,RUNNING,DominantWrist,Normal,2
+103,UEA_TRAIN_PARTICIPANTS,UEA_TR_103,train,UEA,RUNNING,DominantWrist,Normal,3
+103,UEA_TRAIN_PARTICIPANTS,UEA_TR_103,train,UEA,RUNNING,DominantWrist,Normal,4
+103,UEA_TRAIN_PARTICIPANTS,UEA_TR_103,train,UEA,RUNNING,DominantWrist,Normal,5
+103,UEA_TRAIN_PARTICIPANTS,UEA_TR_103,train,UEA,RUNNING,DominantWrist,Normal,6
+104,UEA_TRAIN_PARTICIPANTS,UEA_TR_104,train,UEA,RUNNING,DominantWrist,Normal,0
+104,UEA_TRAIN_PARTICIPANTS,UEA_TR_104,train,UEA,RUNNING,DominantWrist,Normal,1
+104,UEA_TRAIN_PARTICIPANTS,UEA_TR_104,train,UEA,RUNNING,DominantWrist,Normal,2
+104,UEA_TRAIN_PARTICIPANTS,UEA_TR_104,train,UEA,RUNNING,DominantWrist,Normal,3
+104,UEA_TRAIN_PARTICIPANTS,UEA_TR_104,train,UEA,RUNNING,DominantWrist,Normal,4
+104,UEA_TRAIN_PARTICIPANTS,UEA_TR_104,train,UEA,RUNNING,DominantWrist,Normal,5
+104,UEA_TRAIN_PARTICIPANTS,UEA_TR_104,train,UEA,RUNNING,DominantWrist,Normal,6
+105,UEA_TRAIN_PARTICIPANTS,UEA_TR_105,train,UEA,RUNNING,DominantWrist,Normal,0
+105,UEA_TRAIN_PARTICIPANTS,UEA_TR_105,train,UEA,RUNNING,DominantWrist,Normal,1
+105,UEA_TRAIN_PARTICIPANTS,UEA_TR_105,train,UEA,RUNNING,DominantWrist,Normal,2
+105,UEA_TRAIN_PARTICIPANTS,UEA_TR_105,train,UEA,RUNNING,DominantWrist,Normal,3
+105,UEA_TRAIN_PARTICIPANTS,UEA_TR_105,train,UEA,RUNNING,DominantWrist,Normal,4
+105,UEA_TRAIN_PARTICIPANTS,UEA_TR_105,train,UEA,RUNNING,DominantWrist,Normal,5
+105,UEA_TRAIN_PARTICIPANTS,UEA_TR_105,train,UEA,RUNNING,DominantWrist,Normal,6
+106,UEA_TRAIN_PARTICIPANTS,UEA_TR_106,train,UEA,RUNNING,DominantWrist,Normal,0
+106,UEA_TRAIN_PARTICIPANTS,UEA_TR_106,train,UEA,RUNNING,DominantWrist,Normal,1
+106,UEA_TRAIN_PARTICIPANTS,UEA_TR_106,train,UEA,RUNNING,DominantWrist,Normal,2
+106,UEA_TRAIN_PARTICIPANTS,UEA_TR_106,train,UEA,RUNNING,DominantWrist,Normal,3
+106,UEA_TRAIN_PARTICIPANTS,UEA_TR_106,train,UEA,RUNNING,DominantWrist,Normal,4
+106,UEA_TRAIN_PARTICIPANTS,UEA_TR_106,train,UEA,RUNNING,DominantWrist,Normal,5
+106,UEA_TRAIN_PARTICIPANTS,UEA_TR_106,train,UEA,RUNNING,DominantWrist,Normal,6
+107,UEA_TRAIN_PARTICIPANTS,UEA_TR_107,train,UEA,SAWING,DominantWrist,Normal,0
+107,UEA_TRAIN_PARTICIPANTS,UEA_TR_107,train,UEA,SAWING,DominantWrist,Normal,1
+107,UEA_TRAIN_PARTICIPANTS,UEA_TR_107,train,UEA,SAWING,DominantWrist,Normal,2
+107,UEA_TRAIN_PARTICIPANTS,UEA_TR_107,train,UEA,SAWING,DominantWrist,Normal,3
+107,UEA_TRAIN_PARTICIPANTS,UEA_TR_107,train,UEA,SAWING,DominantWrist,Normal,4
+107,UEA_TRAIN_PARTICIPANTS,UEA_TR_107,train,UEA,SAWING,DominantWrist,Normal,5
+107,UEA_TRAIN_PARTICIPANTS,UEA_TR_107,train,UEA,SAWING,DominantWrist,Normal,6
+108,UEA_TRAIN_PARTICIPANTS,UEA_TR_108,train,UEA,SAWING,DominantWrist,Normal,0
+108,UEA_TRAIN_PARTICIPANTS,UEA_TR_108,train,UEA,SAWING,DominantWrist,Normal,1
+108,UEA_TRAIN_PARTICIPANTS,UEA_TR_108,train,UEA,SAWING,DominantWrist,Normal,2
+108,UEA_TRAIN_PARTICIPANTS,UEA_TR_108,train,UEA,SAWING,DominantWrist,Normal,3
+108,UEA_TRAIN_PARTICIPANTS,UEA_TR_108,train,UEA,SAWING,DominantWrist,Normal,4
+108,UEA_TRAIN_PARTICIPANTS,UEA_TR_108,train,UEA,SAWING,DominantWrist,Normal,5
+108,UEA_TRAIN_PARTICIPANTS,UEA_TR_108,train,UEA,SAWING,DominantWrist,Normal,6
+109,UEA_TRAIN_PARTICIPANTS,UEA_TR_109,train,UEA,SAWING,DominantWrist,Normal,0
+109,UEA_TRAIN_PARTICIPANTS,UEA_TR_109,train,UEA,SAWING,DominantWrist,Normal,1
+109,UEA_TRAIN_PARTICIPANTS,UEA_TR_109,train,UEA,SAWING,DominantWrist,Normal,2
+109,UEA_TRAIN_PARTICIPANTS,UEA_TR_109,train,UEA,SAWING,DominantWrist,Normal,3
+109,UEA_TRAIN_PARTICIPANTS,UEA_TR_109,train,UEA,SAWING,DominantWrist,Normal,4
+109,UEA_TRAIN_PARTICIPANTS,UEA_TR_109,train,UEA,SAWING,DominantWrist,Normal,5
+109,UEA_TRAIN_PARTICIPANTS,UEA_TR_109,train,UEA,SAWING,DominantWrist,Normal,6
+110,UEA_TRAIN_PARTICIPANTS,UEA_TR_110,train,UEA,SAWING,DominantWrist,Normal,0
+110,UEA_TRAIN_PARTICIPANTS,UEA_TR_110,train,UEA,SAWING,DominantWrist,Normal,1
+110,UEA_TRAIN_PARTICIPANTS,UEA_TR_110,train,UEA,SAWING,DominantWrist,Normal,2
+110,UEA_TRAIN_PARTICIPANTS,UEA_TR_110,train,UEA,SAWING,DominantWrist,Normal,3
+110,UEA_TRAIN_PARTICIPANTS,UEA_TR_110,train,UEA,SAWING,DominantWrist,Normal,4
+110,UEA_TRAIN_PARTICIPANTS,UEA_TR_110,train,UEA,SAWING,DominantWrist,Normal,5
+110,UEA_TRAIN_PARTICIPANTS,UEA_TR_110,train,UEA,SAWING,DominantWrist,Normal,6
+111,UEA_TRAIN_PARTICIPANTS,UEA_TR_111,train,UEA,SAWING,DominantWrist,Normal,0
+111,UEA_TRAIN_PARTICIPANTS,UEA_TR_111,train,UEA,SAWING,DominantWrist,Normal,1
+111,UEA_TRAIN_PARTICIPANTS,UEA_TR_111,train,UEA,SAWING,DominantWrist,Normal,2
+111,UEA_TRAIN_PARTICIPANTS,UEA_TR_111,train,UEA,SAWING,DominantWrist,Normal,3
+111,UEA_TRAIN_PARTICIPANTS,UEA_TR_111,train,UEA,SAWING,DominantWrist,Normal,4
+111,UEA_TRAIN_PARTICIPANTS,UEA_TR_111,train,UEA,SAWING,DominantWrist,Normal,5
+111,UEA_TRAIN_PARTICIPANTS,UEA_TR_111,train,UEA,SAWING,DominantWrist,Normal,6
+112,UEA_TRAIN_PARTICIPANTS,UEA_TR_112,train,UEA,SAWING,DominantWrist,Normal,0
+112,UEA_TRAIN_PARTICIPANTS,UEA_TR_112,train,UEA,SAWING,DominantWrist,Normal,1
+112,UEA_TRAIN_PARTICIPANTS,UEA_TR_112,train,UEA,SAWING,DominantWrist,Normal,2
+112,UEA_TRAIN_PARTICIPANTS,UEA_TR_112,train,UEA,SAWING,DominantWrist,Normal,3
+112,UEA_TRAIN_PARTICIPANTS,UEA_TR_112,train,UEA,SAWING,DominantWrist,Normal,4
+112,UEA_TRAIN_PARTICIPANTS,UEA_TR_112,train,UEA,SAWING,DominantWrist,Normal,5
+112,UEA_TRAIN_PARTICIPANTS,UEA_TR_112,train,UEA,SAWING,DominantWrist,Normal,6
+113,UEA_TRAIN_PARTICIPANTS,UEA_TR_113,train,UEA,SAWING,DominantWrist,Normal,0
+113,UEA_TRAIN_PARTICIPANTS,UEA_TR_113,train,UEA,SAWING,DominantWrist,Normal,1
+113,UEA_TRAIN_PARTICIPANTS,UEA_TR_113,train,UEA,SAWING,DominantWrist,Normal,2
+113,UEA_TRAIN_PARTICIPANTS,UEA_TR_113,train,UEA,SAWING,DominantWrist,Normal,3
+113,UEA_TRAIN_PARTICIPANTS,UEA_TR_113,train,UEA,SAWING,DominantWrist,Normal,4
+113,UEA_TRAIN_PARTICIPANTS,UEA_TR_113,train,UEA,SAWING,DominantWrist,Normal,5
+113,UEA_TRAIN_PARTICIPANTS,UEA_TR_113,train,UEA,SAWING,DominantWrist,Normal,6
+114,UEA_TRAIN_PARTICIPANTS,UEA_TR_114,train,UEA,SAWING,DominantWrist,Normal,0
+114,UEA_TRAIN_PARTICIPANTS,UEA_TR_114,train,UEA,SAWING,DominantWrist,Normal,1
+114,UEA_TRAIN_PARTICIPANTS,UEA_TR_114,train,UEA,SAWING,DominantWrist,Normal,2
+114,UEA_TRAIN_PARTICIPANTS,UEA_TR_114,train,UEA,SAWING,DominantWrist,Normal,3
+114,UEA_TRAIN_PARTICIPANTS,UEA_TR_114,train,UEA,SAWING,DominantWrist,Normal,4
+114,UEA_TRAIN_PARTICIPANTS,UEA_TR_114,train,UEA,SAWING,DominantWrist,Normal,5
+114,UEA_TRAIN_PARTICIPANTS,UEA_TR_114,train,UEA,SAWING,DominantWrist,Normal,6
+115,UEA_TRAIN_PARTICIPANTS,UEA_TR_115,train,UEA,SAWING,DominantWrist,Normal,0
+115,UEA_TRAIN_PARTICIPANTS,UEA_TR_115,train,UEA,SAWING,DominantWrist,Normal,1
+115,UEA_TRAIN_PARTICIPANTS,UEA_TR_115,train,UEA,SAWING,DominantWrist,Normal,2
+115,UEA_TRAIN_PARTICIPANTS,UEA_TR_115,train,UEA,SAWING,DominantWrist,Normal,3
+115,UEA_TRAIN_PARTICIPANTS,UEA_TR_115,train,UEA,SAWING,DominantWrist,Normal,4
+115,UEA_TRAIN_PARTICIPANTS,UEA_TR_115,train,UEA,SAWING,DominantWrist,Normal,5
+115,UEA_TRAIN_PARTICIPANTS,UEA_TR_115,train,UEA,SAWING,DominantWrist,Normal,6
+116,UEA_TRAIN_PARTICIPANTS,UEA_TR_116,train,UEA,SAWING,DominantWrist,Normal,0
+116,UEA_TRAIN_PARTICIPANTS,UEA_TR_116,train,UEA,SAWING,DominantWrist,Normal,1
+116,UEA_TRAIN_PARTICIPANTS,UEA_TR_116,train,UEA,SAWING,DominantWrist,Normal,2
+116,UEA_TRAIN_PARTICIPANTS,UEA_TR_116,train,UEA,SAWING,DominantWrist,Normal,3
+116,UEA_TRAIN_PARTICIPANTS,UEA_TR_116,train,UEA,SAWING,DominantWrist,Normal,4
+116,UEA_TRAIN_PARTICIPANTS,UEA_TR_116,train,UEA,SAWING,DominantWrist,Normal,5
+116,UEA_TRAIN_PARTICIPANTS,UEA_TR_116,train,UEA,SAWING,DominantWrist,Normal,6
+117,UEA_TRAIN_PARTICIPANTS,UEA_TR_117,train,UEA,SAWING,DominantWrist,Normal,0
+117,UEA_TRAIN_PARTICIPANTS,UEA_TR_117,train,UEA,SAWING,DominantWrist,Normal,1
+117,UEA_TRAIN_PARTICIPANTS,UEA_TR_117,train,UEA,SAWING,DominantWrist,Normal,2
+117,UEA_TRAIN_PARTICIPANTS,UEA_TR_117,train,UEA,SAWING,DominantWrist,Normal,3
+117,UEA_TRAIN_PARTICIPANTS,UEA_TR_117,train,UEA,SAWING,DominantWrist,Normal,4
+117,UEA_TRAIN_PARTICIPANTS,UEA_TR_117,train,UEA,SAWING,DominantWrist,Normal,5
+117,UEA_TRAIN_PARTICIPANTS,UEA_TR_117,train,UEA,SAWING,DominantWrist,Normal,6
+118,UEA_TRAIN_PARTICIPANTS,UEA_TR_118,train,UEA,SAWING,DominantWrist,Normal,0
+118,UEA_TRAIN_PARTICIPANTS,UEA_TR_118,train,UEA,SAWING,DominantWrist,Normal,1
+118,UEA_TRAIN_PARTICIPANTS,UEA_TR_118,train,UEA,SAWING,DominantWrist,Normal,2
+118,UEA_TRAIN_PARTICIPANTS,UEA_TR_118,train,UEA,SAWING,DominantWrist,Normal,3
+118,UEA_TRAIN_PARTICIPANTS,UEA_TR_118,train,UEA,SAWING,DominantWrist,Normal,4
+118,UEA_TRAIN_PARTICIPANTS,UEA_TR_118,train,UEA,SAWING,DominantWrist,Normal,5
+118,UEA_TRAIN_PARTICIPANTS,UEA_TR_118,train,UEA,SAWING,DominantWrist,Normal,6
+119,UEA_TRAIN_PARTICIPANTS,UEA_TR_119,train,UEA,SAWING,DominantWrist,Normal,0
+119,UEA_TRAIN_PARTICIPANTS,UEA_TR_119,train,UEA,SAWING,DominantWrist,Normal,1
+119,UEA_TRAIN_PARTICIPANTS,UEA_TR_119,train,UEA,SAWING,DominantWrist,Normal,2
+119,UEA_TRAIN_PARTICIPANTS,UEA_TR_119,train,UEA,SAWING,DominantWrist,Normal,3
+119,UEA_TRAIN_PARTICIPANTS,UEA_TR_119,train,UEA,SAWING,DominantWrist,Normal,4
+119,UEA_TRAIN_PARTICIPANTS,UEA_TR_119,train,UEA,SAWING,DominantWrist,Normal,5
+119,UEA_TRAIN_PARTICIPANTS,UEA_TR_119,train,UEA,SAWING,DominantWrist,Normal,6
+120,UEA_TRAIN_PARTICIPANTS,UEA_TR_120,train,UEA,SAWING,DominantWrist,Normal,0
+120,UEA_TRAIN_PARTICIPANTS,UEA_TR_120,train,UEA,SAWING,DominantWrist,Normal,1
+120,UEA_TRAIN_PARTICIPANTS,UEA_TR_120,train,UEA,SAWING,DominantWrist,Normal,2
+120,UEA_TRAIN_PARTICIPANTS,UEA_TR_120,train,UEA,SAWING,DominantWrist,Normal,3
+120,UEA_TRAIN_PARTICIPANTS,UEA_TR_120,train,UEA,SAWING,DominantWrist,Normal,4
+120,UEA_TRAIN_PARTICIPANTS,UEA_TR_120,train,UEA,SAWING,DominantWrist,Normal,5
+120,UEA_TRAIN_PARTICIPANTS,UEA_TR_120,train,UEA,SAWING,DominantWrist,Normal,6
+121,UEA_TRAIN_PARTICIPANTS,UEA_TR_121,train,UEA,SAWING,DominantWrist,Normal,0
+121,UEA_TRAIN_PARTICIPANTS,UEA_TR_121,train,UEA,SAWING,DominantWrist,Normal,1
+121,UEA_TRAIN_PARTICIPANTS,UEA_TR_121,train,UEA,SAWING,DominantWrist,Normal,2
+121,UEA_TRAIN_PARTICIPANTS,UEA_TR_121,train,UEA,SAWING,DominantWrist,Normal,3
+121,UEA_TRAIN_PARTICIPANTS,UEA_TR_121,train,UEA,SAWING,DominantWrist,Normal,4
+121,UEA_TRAIN_PARTICIPANTS,UEA_TR_121,train,UEA,SAWING,DominantWrist,Normal,5
+121,UEA_TRAIN_PARTICIPANTS,UEA_TR_121,train,UEA,SAWING,DominantWrist,Normal,6
+122,UEA_TRAIN_PARTICIPANTS,UEA_TR_122,train,UEA,SAWING,DominantWrist,Normal,0
+122,UEA_TRAIN_PARTICIPANTS,UEA_TR_122,train,UEA,SAWING,DominantWrist,Normal,1
+122,UEA_TRAIN_PARTICIPANTS,UEA_TR_122,train,UEA,SAWING,DominantWrist,Normal,2
+122,UEA_TRAIN_PARTICIPANTS,UEA_TR_122,train,UEA,SAWING,DominantWrist,Normal,3
+122,UEA_TRAIN_PARTICIPANTS,UEA_TR_122,train,UEA,SAWING,DominantWrist,Normal,4
+122,UEA_TRAIN_PARTICIPANTS,UEA_TR_122,train,UEA,SAWING,DominantWrist,Normal,5
+122,UEA_TRAIN_PARTICIPANTS,UEA_TR_122,train,UEA,SAWING,DominantWrist,Normal,6
+123,UEA_TRAIN_PARTICIPANTS,UEA_TR_123,train,UEA,SAWING,DominantWrist,Normal,0
+123,UEA_TRAIN_PARTICIPANTS,UEA_TR_123,train,UEA,SAWING,DominantWrist,Normal,1
+123,UEA_TRAIN_PARTICIPANTS,UEA_TR_123,train,UEA,SAWING,DominantWrist,Normal,2
+123,UEA_TRAIN_PARTICIPANTS,UEA_TR_123,train,UEA,SAWING,DominantWrist,Normal,3
+123,UEA_TRAIN_PARTICIPANTS,UEA_TR_123,train,UEA,SAWING,DominantWrist,Normal,4
+123,UEA_TRAIN_PARTICIPANTS,UEA_TR_123,train,UEA,SAWING,DominantWrist,Normal,5
+123,UEA_TRAIN_PARTICIPANTS,UEA_TR_123,train,UEA,SAWING,DominantWrist,Normal,6
+124,UEA_TRAIN_PARTICIPANTS,UEA_TR_124,train,UEA,SAWING,DominantWrist,Normal,0
+124,UEA_TRAIN_PARTICIPANTS,UEA_TR_124,train,UEA,SAWING,DominantWrist,Normal,1
+124,UEA_TRAIN_PARTICIPANTS,UEA_TR_124,train,UEA,SAWING,DominantWrist,Normal,2
+124,UEA_TRAIN_PARTICIPANTS,UEA_TR_124,train,UEA,SAWING,DominantWrist,Normal,3
+124,UEA_TRAIN_PARTICIPANTS,UEA_TR_124,train,UEA,SAWING,DominantWrist,Normal,4
+124,UEA_TRAIN_PARTICIPANTS,UEA_TR_124,train,UEA,SAWING,DominantWrist,Normal,5
+124,UEA_TRAIN_PARTICIPANTS,UEA_TR_124,train,UEA,SAWING,DominantWrist,Normal,6
+125,UEA_TRAIN_PARTICIPANTS,UEA_TR_125,train,UEA,SAWING,DominantWrist,Normal,0
+125,UEA_TRAIN_PARTICIPANTS,UEA_TR_125,train,UEA,SAWING,DominantWrist,Normal,1
+125,UEA_TRAIN_PARTICIPANTS,UEA_TR_125,train,UEA,SAWING,DominantWrist,Normal,2
+125,UEA_TRAIN_PARTICIPANTS,UEA_TR_125,train,UEA,SAWING,DominantWrist,Normal,3
+125,UEA_TRAIN_PARTICIPANTS,UEA_TR_125,train,UEA,SAWING,DominantWrist,Normal,4
+125,UEA_TRAIN_PARTICIPANTS,UEA_TR_125,train,UEA,SAWING,DominantWrist,Normal,5
+125,UEA_TRAIN_PARTICIPANTS,UEA_TR_125,train,UEA,SAWING,DominantWrist,Normal,6
+126,UEA_TRAIN_PARTICIPANTS,UEA_TR_126,train,UEA,SAWING,DominantWrist,Normal,0
+126,UEA_TRAIN_PARTICIPANTS,UEA_TR_126,train,UEA,SAWING,DominantWrist,Normal,1
+126,UEA_TRAIN_PARTICIPANTS,UEA_TR_126,train,UEA,SAWING,DominantWrist,Normal,2
+126,UEA_TRAIN_PARTICIPANTS,UEA_TR_126,train,UEA,SAWING,DominantWrist,Normal,3
+126,UEA_TRAIN_PARTICIPANTS,UEA_TR_126,train,UEA,SAWING,DominantWrist,Normal,4
+126,UEA_TRAIN_PARTICIPANTS,UEA_TR_126,train,UEA,SAWING,DominantWrist,Normal,5
+126,UEA_TRAIN_PARTICIPANTS,UEA_TR_126,train,UEA,SAWING,DominantWrist,Normal,6
+127,UEA_TRAIN_PARTICIPANTS,UEA_TR_127,train,UEA,SAWING,DominantWrist,Normal,0
+127,UEA_TRAIN_PARTICIPANTS,UEA_TR_127,train,UEA,SAWING,DominantWrist,Normal,1
+127,UEA_TRAIN_PARTICIPANTS,UEA_TR_127,train,UEA,SAWING,DominantWrist,Normal,2
+127,UEA_TRAIN_PARTICIPANTS,UEA_TR_127,train,UEA,SAWING,DominantWrist,Normal,3
+127,UEA_TRAIN_PARTICIPANTS,UEA_TR_127,train,UEA,SAWING,DominantWrist,Normal,4
+127,UEA_TRAIN_PARTICIPANTS,UEA_TR_127,train,UEA,SAWING,DominantWrist,Normal,5
+127,UEA_TRAIN_PARTICIPANTS,UEA_TR_127,train,UEA,SAWING,DominantWrist,Normal,6
+128,UEA_TRAIN_PARTICIPANTS,UEA_TR_128,train,UEA,SAWING,DominantWrist,Normal,0
+128,UEA_TRAIN_PARTICIPANTS,UEA_TR_128,train,UEA,SAWING,DominantWrist,Normal,1
+128,UEA_TRAIN_PARTICIPANTS,UEA_TR_128,train,UEA,SAWING,DominantWrist,Normal,2
+128,UEA_TRAIN_PARTICIPANTS,UEA_TR_128,train,UEA,SAWING,DominantWrist,Normal,3
+128,UEA_TRAIN_PARTICIPANTS,UEA_TR_128,train,UEA,SAWING,DominantWrist,Normal,4
+128,UEA_TRAIN_PARTICIPANTS,UEA_TR_128,train,UEA,SAWING,DominantWrist,Normal,5
+128,UEA_TRAIN_PARTICIPANTS,UEA_TR_128,train,UEA,SAWING,DominantWrist,Normal,6
+129,UEA_TRAIN_PARTICIPANTS,UEA_TR_129,train,UEA,SAWING,DominantWrist,Normal,0
+129,UEA_TRAIN_PARTICIPANTS,UEA_TR_129,train,UEA,SAWING,DominantWrist,Normal,1
+129,UEA_TRAIN_PARTICIPANTS,UEA_TR_129,train,UEA,SAWING,DominantWrist,Normal,2
+129,UEA_TRAIN_PARTICIPANTS,UEA_TR_129,train,UEA,SAWING,DominantWrist,Normal,3
+129,UEA_TRAIN_PARTICIPANTS,UEA_TR_129,train,UEA,SAWING,DominantWrist,Normal,4
+129,UEA_TRAIN_PARTICIPANTS,UEA_TR_129,train,UEA,SAWING,DominantWrist,Normal,5
+129,UEA_TRAIN_PARTICIPANTS,UEA_TR_129,train,UEA,SAWING,DominantWrist,Normal,6
+130,UEA_TRAIN_PARTICIPANTS,UEA_TR_130,train,UEA,SAWING,DominantWrist,Normal,0
+130,UEA_TRAIN_PARTICIPANTS,UEA_TR_130,train,UEA,SAWING,DominantWrist,Normal,1
+130,UEA_TRAIN_PARTICIPANTS,UEA_TR_130,train,UEA,SAWING,DominantWrist,Normal,2
+130,UEA_TRAIN_PARTICIPANTS,UEA_TR_130,train,UEA,SAWING,DominantWrist,Normal,3
+130,UEA_TRAIN_PARTICIPANTS,UEA_TR_130,train,UEA,SAWING,DominantWrist,Normal,4
+130,UEA_TRAIN_PARTICIPANTS,UEA_TR_130,train,UEA,SAWING,DominantWrist,Normal,5
+130,UEA_TRAIN_PARTICIPANTS,UEA_TR_130,train,UEA,SAWING,DominantWrist,Normal,6
+131,UEA_TRAIN_PARTICIPANTS,UEA_TR_131,train,UEA,SAWING,DominantWrist,Normal,0
+131,UEA_TRAIN_PARTICIPANTS,UEA_TR_131,train,UEA,SAWING,DominantWrist,Normal,1
+131,UEA_TRAIN_PARTICIPANTS,UEA_TR_131,train,UEA,SAWING,DominantWrist,Normal,2
+131,UEA_TRAIN_PARTICIPANTS,UEA_TR_131,train,UEA,SAWING,DominantWrist,Normal,3
+131,UEA_TRAIN_PARTICIPANTS,UEA_TR_131,train,UEA,SAWING,DominantWrist,Normal,4
+131,UEA_TRAIN_PARTICIPANTS,UEA_TR_131,train,UEA,SAWING,DominantWrist,Normal,5
+131,UEA_TRAIN_PARTICIPANTS,UEA_TR_131,train,UEA,SAWING,DominantWrist,Normal,6
+132,UEA_TRAIN_PARTICIPANTS,UEA_TR_132,train,UEA,SAWING,DominantWrist,Normal,0
+132,UEA_TRAIN_PARTICIPANTS,UEA_TR_132,train,UEA,SAWING,DominantWrist,Normal,1
+132,UEA_TRAIN_PARTICIPANTS,UEA_TR_132,train,UEA,SAWING,DominantWrist,Normal,2
+132,UEA_TRAIN_PARTICIPANTS,UEA_TR_132,train,UEA,SAWING,DominantWrist,Normal,3
+132,UEA_TRAIN_PARTICIPANTS,UEA_TR_132,train,UEA,SAWING,DominantWrist,Normal,4
+132,UEA_TRAIN_PARTICIPANTS,UEA_TR_132,train,UEA,SAWING,DominantWrist,Normal,5
+132,UEA_TRAIN_PARTICIPANTS,UEA_TR_132,train,UEA,SAWING,DominantWrist,Normal,6
+133,UEA_TRAIN_PARTICIPANTS,UEA_TR_133,train,UEA,SAWING,DominantWrist,Normal,0
+133,UEA_TRAIN_PARTICIPANTS,UEA_TR_133,train,UEA,SAWING,DominantWrist,Normal,1
+133,UEA_TRAIN_PARTICIPANTS,UEA_TR_133,train,UEA,SAWING,DominantWrist,Normal,2
+133,UEA_TRAIN_PARTICIPANTS,UEA_TR_133,train,UEA,SAWING,DominantWrist,Normal,3
+133,UEA_TRAIN_PARTICIPANTS,UEA_TR_133,train,UEA,SAWING,DominantWrist,Normal,4
+133,UEA_TRAIN_PARTICIPANTS,UEA_TR_133,train,UEA,SAWING,DominantWrist,Normal,5
+133,UEA_TRAIN_PARTICIPANTS,UEA_TR_133,train,UEA,SAWING,DominantWrist,Normal,6
+134,UEA_TRAIN_PARTICIPANTS,UEA_TR_134,train,UEA,SAWING,DominantWrist,Normal,0
+134,UEA_TRAIN_PARTICIPANTS,UEA_TR_134,train,UEA,SAWING,DominantWrist,Normal,1
+134,UEA_TRAIN_PARTICIPANTS,UEA_TR_134,train,UEA,SAWING,DominantWrist,Normal,2
+134,UEA_TRAIN_PARTICIPANTS,UEA_TR_134,train,UEA,SAWING,DominantWrist,Normal,3
+134,UEA_TRAIN_PARTICIPANTS,UEA_TR_134,train,UEA,SAWING,DominantWrist,Normal,4
+134,UEA_TRAIN_PARTICIPANTS,UEA_TR_134,train,UEA,SAWING,DominantWrist,Normal,5
+134,UEA_TRAIN_PARTICIPANTS,UEA_TR_134,train,UEA,SAWING,DominantWrist,Normal,6
+135,UEA_TRAIN_PARTICIPANTS,UEA_TR_135,train,UEA,SAWING,DominantWrist,Normal,0
+135,UEA_TRAIN_PARTICIPANTS,UEA_TR_135,train,UEA,SAWING,DominantWrist,Normal,1
+135,UEA_TRAIN_PARTICIPANTS,UEA_TR_135,train,UEA,SAWING,DominantWrist,Normal,2
+135,UEA_TRAIN_PARTICIPANTS,UEA_TR_135,train,UEA,SAWING,DominantWrist,Normal,3
+135,UEA_TRAIN_PARTICIPANTS,UEA_TR_135,train,UEA,SAWING,DominantWrist,Normal,4
+135,UEA_TRAIN_PARTICIPANTS,UEA_TR_135,train,UEA,SAWING,DominantWrist,Normal,5
+135,UEA_TRAIN_PARTICIPANTS,UEA_TR_135,train,UEA,SAWING,DominantWrist,Normal,6
+136,UEA_TRAIN_PARTICIPANTS,UEA_TR_136,train,UEA,SAWING,DominantWrist,Normal,0
+136,UEA_TRAIN_PARTICIPANTS,UEA_TR_136,train,UEA,SAWING,DominantWrist,Normal,1
+136,UEA_TRAIN_PARTICIPANTS,UEA_TR_136,train,UEA,SAWING,DominantWrist,Normal,2
+136,UEA_TRAIN_PARTICIPANTS,UEA_TR_136,train,UEA,SAWING,DominantWrist,Normal,3
+136,UEA_TRAIN_PARTICIPANTS,UEA_TR_136,train,UEA,SAWING,DominantWrist,Normal,4
+136,UEA_TRAIN_PARTICIPANTS,UEA_TR_136,train,UEA,SAWING,DominantWrist,Normal,5
+136,UEA_TRAIN_PARTICIPANTS,UEA_TR_136,train,UEA,SAWING,DominantWrist,Normal,6
+137,UEA_TEST_PARTICIPANTS,UEA_TE_000,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+137,UEA_TEST_PARTICIPANTS,UEA_TE_000,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+137,UEA_TEST_PARTICIPANTS,UEA_TE_000,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+137,UEA_TEST_PARTICIPANTS,UEA_TE_000,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+137,UEA_TEST_PARTICIPANTS,UEA_TE_000,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+137,UEA_TEST_PARTICIPANTS,UEA_TE_000,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+137,UEA_TEST_PARTICIPANTS,UEA_TE_000,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+138,UEA_TEST_PARTICIPANTS,UEA_TE_001,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+138,UEA_TEST_PARTICIPANTS,UEA_TE_001,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+138,UEA_TEST_PARTICIPANTS,UEA_TE_001,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+138,UEA_TEST_PARTICIPANTS,UEA_TE_001,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+138,UEA_TEST_PARTICIPANTS,UEA_TE_001,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+138,UEA_TEST_PARTICIPANTS,UEA_TE_001,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+138,UEA_TEST_PARTICIPANTS,UEA_TE_001,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+139,UEA_TEST_PARTICIPANTS,UEA_TE_002,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+139,UEA_TEST_PARTICIPANTS,UEA_TE_002,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+139,UEA_TEST_PARTICIPANTS,UEA_TE_002,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+139,UEA_TEST_PARTICIPANTS,UEA_TE_002,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+139,UEA_TEST_PARTICIPANTS,UEA_TE_002,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+139,UEA_TEST_PARTICIPANTS,UEA_TE_002,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+139,UEA_TEST_PARTICIPANTS,UEA_TE_002,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+140,UEA_TEST_PARTICIPANTS,UEA_TE_003,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+140,UEA_TEST_PARTICIPANTS,UEA_TE_003,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+140,UEA_TEST_PARTICIPANTS,UEA_TE_003,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+140,UEA_TEST_PARTICIPANTS,UEA_TE_003,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+140,UEA_TEST_PARTICIPANTS,UEA_TE_003,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+140,UEA_TEST_PARTICIPANTS,UEA_TE_003,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+140,UEA_TEST_PARTICIPANTS,UEA_TE_003,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+141,UEA_TEST_PARTICIPANTS,UEA_TE_004,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+141,UEA_TEST_PARTICIPANTS,UEA_TE_004,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+141,UEA_TEST_PARTICIPANTS,UEA_TE_004,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+141,UEA_TEST_PARTICIPANTS,UEA_TE_004,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+141,UEA_TEST_PARTICIPANTS,UEA_TE_004,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+141,UEA_TEST_PARTICIPANTS,UEA_TE_004,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+141,UEA_TEST_PARTICIPANTS,UEA_TE_004,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+142,UEA_TEST_PARTICIPANTS,UEA_TE_005,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+142,UEA_TEST_PARTICIPANTS,UEA_TE_005,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+142,UEA_TEST_PARTICIPANTS,UEA_TE_005,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+142,UEA_TEST_PARTICIPANTS,UEA_TE_005,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+142,UEA_TEST_PARTICIPANTS,UEA_TE_005,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+142,UEA_TEST_PARTICIPANTS,UEA_TE_005,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+142,UEA_TEST_PARTICIPANTS,UEA_TE_005,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+143,UEA_TEST_PARTICIPANTS,UEA_TE_006,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+143,UEA_TEST_PARTICIPANTS,UEA_TE_006,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+143,UEA_TEST_PARTICIPANTS,UEA_TE_006,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+143,UEA_TEST_PARTICIPANTS,UEA_TE_006,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+143,UEA_TEST_PARTICIPANTS,UEA_TE_006,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+143,UEA_TEST_PARTICIPANTS,UEA_TE_006,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+143,UEA_TEST_PARTICIPANTS,UEA_TE_006,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+144,UEA_TEST_PARTICIPANTS,UEA_TE_007,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+144,UEA_TEST_PARTICIPANTS,UEA_TE_007,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+144,UEA_TEST_PARTICIPANTS,UEA_TE_007,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+144,UEA_TEST_PARTICIPANTS,UEA_TE_007,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+144,UEA_TEST_PARTICIPANTS,UEA_TE_007,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+144,UEA_TEST_PARTICIPANTS,UEA_TE_007,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+144,UEA_TEST_PARTICIPANTS,UEA_TE_007,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+145,UEA_TEST_PARTICIPANTS,UEA_TE_008,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+145,UEA_TEST_PARTICIPANTS,UEA_TE_008,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+145,UEA_TEST_PARTICIPANTS,UEA_TE_008,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+145,UEA_TEST_PARTICIPANTS,UEA_TE_008,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+145,UEA_TEST_PARTICIPANTS,UEA_TE_008,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+145,UEA_TEST_PARTICIPANTS,UEA_TE_008,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+145,UEA_TEST_PARTICIPANTS,UEA_TE_008,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+146,UEA_TEST_PARTICIPANTS,UEA_TE_009,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+146,UEA_TEST_PARTICIPANTS,UEA_TE_009,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+146,UEA_TEST_PARTICIPANTS,UEA_TE_009,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+146,UEA_TEST_PARTICIPANTS,UEA_TE_009,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+146,UEA_TEST_PARTICIPANTS,UEA_TE_009,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+146,UEA_TEST_PARTICIPANTS,UEA_TE_009,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+146,UEA_TEST_PARTICIPANTS,UEA_TE_009,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+147,UEA_TEST_PARTICIPANTS,UEA_TE_010,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+147,UEA_TEST_PARTICIPANTS,UEA_TE_010,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+147,UEA_TEST_PARTICIPANTS,UEA_TE_010,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+147,UEA_TEST_PARTICIPANTS,UEA_TE_010,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+147,UEA_TEST_PARTICIPANTS,UEA_TE_010,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+147,UEA_TEST_PARTICIPANTS,UEA_TE_010,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+147,UEA_TEST_PARTICIPANTS,UEA_TE_010,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+148,UEA_TEST_PARTICIPANTS,UEA_TE_011,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+148,UEA_TEST_PARTICIPANTS,UEA_TE_011,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+148,UEA_TEST_PARTICIPANTS,UEA_TE_011,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+148,UEA_TEST_PARTICIPANTS,UEA_TE_011,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+148,UEA_TEST_PARTICIPANTS,UEA_TE_011,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+148,UEA_TEST_PARTICIPANTS,UEA_TE_011,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+148,UEA_TEST_PARTICIPANTS,UEA_TE_011,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+149,UEA_TEST_PARTICIPANTS,UEA_TE_012,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+149,UEA_TEST_PARTICIPANTS,UEA_TE_012,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+149,UEA_TEST_PARTICIPANTS,UEA_TE_012,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+149,UEA_TEST_PARTICIPANTS,UEA_TE_012,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+149,UEA_TEST_PARTICIPANTS,UEA_TE_012,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+149,UEA_TEST_PARTICIPANTS,UEA_TE_012,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+149,UEA_TEST_PARTICIPANTS,UEA_TE_012,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+150,UEA_TEST_PARTICIPANTS,UEA_TE_013,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+150,UEA_TEST_PARTICIPANTS,UEA_TE_013,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+150,UEA_TEST_PARTICIPANTS,UEA_TE_013,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+150,UEA_TEST_PARTICIPANTS,UEA_TE_013,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+150,UEA_TEST_PARTICIPANTS,UEA_TE_013,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+150,UEA_TEST_PARTICIPANTS,UEA_TE_013,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+150,UEA_TEST_PARTICIPANTS,UEA_TE_013,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+151,UEA_TEST_PARTICIPANTS,UEA_TE_014,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+151,UEA_TEST_PARTICIPANTS,UEA_TE_014,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+151,UEA_TEST_PARTICIPANTS,UEA_TE_014,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+151,UEA_TEST_PARTICIPANTS,UEA_TE_014,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+151,UEA_TEST_PARTICIPANTS,UEA_TE_014,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+151,UEA_TEST_PARTICIPANTS,UEA_TE_014,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+151,UEA_TEST_PARTICIPANTS,UEA_TE_014,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+152,UEA_TEST_PARTICIPANTS,UEA_TE_015,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+152,UEA_TEST_PARTICIPANTS,UEA_TE_015,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+152,UEA_TEST_PARTICIPANTS,UEA_TE_015,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+152,UEA_TEST_PARTICIPANTS,UEA_TE_015,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+152,UEA_TEST_PARTICIPANTS,UEA_TE_015,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+152,UEA_TEST_PARTICIPANTS,UEA_TE_015,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+152,UEA_TEST_PARTICIPANTS,UEA_TE_015,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+153,UEA_TEST_PARTICIPANTS,UEA_TE_016,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+153,UEA_TEST_PARTICIPANTS,UEA_TE_016,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+153,UEA_TEST_PARTICIPANTS,UEA_TE_016,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+153,UEA_TEST_PARTICIPANTS,UEA_TE_016,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+153,UEA_TEST_PARTICIPANTS,UEA_TE_016,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+153,UEA_TEST_PARTICIPANTS,UEA_TE_016,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+153,UEA_TEST_PARTICIPANTS,UEA_TE_016,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+154,UEA_TEST_PARTICIPANTS,UEA_TE_017,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+154,UEA_TEST_PARTICIPANTS,UEA_TE_017,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+154,UEA_TEST_PARTICIPANTS,UEA_TE_017,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+154,UEA_TEST_PARTICIPANTS,UEA_TE_017,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+154,UEA_TEST_PARTICIPANTS,UEA_TE_017,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+154,UEA_TEST_PARTICIPANTS,UEA_TE_017,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+154,UEA_TEST_PARTICIPANTS,UEA_TE_017,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+155,UEA_TEST_PARTICIPANTS,UEA_TE_018,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+155,UEA_TEST_PARTICIPANTS,UEA_TE_018,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+155,UEA_TEST_PARTICIPANTS,UEA_TE_018,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+155,UEA_TEST_PARTICIPANTS,UEA_TE_018,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+155,UEA_TEST_PARTICIPANTS,UEA_TE_018,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+155,UEA_TEST_PARTICIPANTS,UEA_TE_018,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+155,UEA_TEST_PARTICIPANTS,UEA_TE_018,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+156,UEA_TEST_PARTICIPANTS,UEA_TE_019,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+156,UEA_TEST_PARTICIPANTS,UEA_TE_019,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+156,UEA_TEST_PARTICIPANTS,UEA_TE_019,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+156,UEA_TEST_PARTICIPANTS,UEA_TE_019,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+156,UEA_TEST_PARTICIPANTS,UEA_TE_019,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+156,UEA_TEST_PARTICIPANTS,UEA_TE_019,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+156,UEA_TEST_PARTICIPANTS,UEA_TE_019,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+157,UEA_TEST_PARTICIPANTS,UEA_TE_020,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+157,UEA_TEST_PARTICIPANTS,UEA_TE_020,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+157,UEA_TEST_PARTICIPANTS,UEA_TE_020,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+157,UEA_TEST_PARTICIPANTS,UEA_TE_020,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+157,UEA_TEST_PARTICIPANTS,UEA_TE_020,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+157,UEA_TEST_PARTICIPANTS,UEA_TE_020,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+157,UEA_TEST_PARTICIPANTS,UEA_TE_020,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+158,UEA_TEST_PARTICIPANTS,UEA_TE_021,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+158,UEA_TEST_PARTICIPANTS,UEA_TE_021,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+158,UEA_TEST_PARTICIPANTS,UEA_TE_021,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+158,UEA_TEST_PARTICIPANTS,UEA_TE_021,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+158,UEA_TEST_PARTICIPANTS,UEA_TE_021,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+158,UEA_TEST_PARTICIPANTS,UEA_TE_021,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+158,UEA_TEST_PARTICIPANTS,UEA_TE_021,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+159,UEA_TEST_PARTICIPANTS,UEA_TE_022,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+159,UEA_TEST_PARTICIPANTS,UEA_TE_022,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+159,UEA_TEST_PARTICIPANTS,UEA_TE_022,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+159,UEA_TEST_PARTICIPANTS,UEA_TE_022,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+159,UEA_TEST_PARTICIPANTS,UEA_TE_022,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+159,UEA_TEST_PARTICIPANTS,UEA_TE_022,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+159,UEA_TEST_PARTICIPANTS,UEA_TE_022,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+160,UEA_TEST_PARTICIPANTS,UEA_TE_023,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+160,UEA_TEST_PARTICIPANTS,UEA_TE_023,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+160,UEA_TEST_PARTICIPANTS,UEA_TE_023,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+160,UEA_TEST_PARTICIPANTS,UEA_TE_023,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+160,UEA_TEST_PARTICIPANTS,UEA_TE_023,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+160,UEA_TEST_PARTICIPANTS,UEA_TE_023,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+160,UEA_TEST_PARTICIPANTS,UEA_TE_023,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+161,UEA_TEST_PARTICIPANTS,UEA_TE_024,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+161,UEA_TEST_PARTICIPANTS,UEA_TE_024,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+161,UEA_TEST_PARTICIPANTS,UEA_TE_024,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+161,UEA_TEST_PARTICIPANTS,UEA_TE_024,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+161,UEA_TEST_PARTICIPANTS,UEA_TE_024,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+161,UEA_TEST_PARTICIPANTS,UEA_TE_024,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+161,UEA_TEST_PARTICIPANTS,UEA_TE_024,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+162,UEA_TEST_PARTICIPANTS,UEA_TE_025,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+162,UEA_TEST_PARTICIPANTS,UEA_TE_025,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+162,UEA_TEST_PARTICIPANTS,UEA_TE_025,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+162,UEA_TEST_PARTICIPANTS,UEA_TE_025,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+162,UEA_TEST_PARTICIPANTS,UEA_TE_025,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+162,UEA_TEST_PARTICIPANTS,UEA_TE_025,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+162,UEA_TEST_PARTICIPANTS,UEA_TE_025,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+163,UEA_TEST_PARTICIPANTS,UEA_TE_026,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+163,UEA_TEST_PARTICIPANTS,UEA_TE_026,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+163,UEA_TEST_PARTICIPANTS,UEA_TE_026,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+163,UEA_TEST_PARTICIPANTS,UEA_TE_026,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+163,UEA_TEST_PARTICIPANTS,UEA_TE_026,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+163,UEA_TEST_PARTICIPANTS,UEA_TE_026,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+163,UEA_TEST_PARTICIPANTS,UEA_TE_026,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+164,UEA_TEST_PARTICIPANTS,UEA_TE_027,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+164,UEA_TEST_PARTICIPANTS,UEA_TE_027,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+164,UEA_TEST_PARTICIPANTS,UEA_TE_027,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+164,UEA_TEST_PARTICIPANTS,UEA_TE_027,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+164,UEA_TEST_PARTICIPANTS,UEA_TE_027,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+164,UEA_TEST_PARTICIPANTS,UEA_TE_027,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+164,UEA_TEST_PARTICIPANTS,UEA_TE_027,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+165,UEA_TEST_PARTICIPANTS,UEA_TE_028,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+165,UEA_TEST_PARTICIPANTS,UEA_TE_028,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+165,UEA_TEST_PARTICIPANTS,UEA_TE_028,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+165,UEA_TEST_PARTICIPANTS,UEA_TE_028,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+165,UEA_TEST_PARTICIPANTS,UEA_TE_028,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+165,UEA_TEST_PARTICIPANTS,UEA_TE_028,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+165,UEA_TEST_PARTICIPANTS,UEA_TE_028,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+166,UEA_TEST_PARTICIPANTS,UEA_TE_029,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+166,UEA_TEST_PARTICIPANTS,UEA_TE_029,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+166,UEA_TEST_PARTICIPANTS,UEA_TE_029,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+166,UEA_TEST_PARTICIPANTS,UEA_TE_029,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+166,UEA_TEST_PARTICIPANTS,UEA_TE_029,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+166,UEA_TEST_PARTICIPANTS,UEA_TE_029,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+166,UEA_TEST_PARTICIPANTS,UEA_TE_029,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+167,UEA_TEST_PARTICIPANTS,UEA_TE_030,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+167,UEA_TEST_PARTICIPANTS,UEA_TE_030,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+167,UEA_TEST_PARTICIPANTS,UEA_TE_030,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+167,UEA_TEST_PARTICIPANTS,UEA_TE_030,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+167,UEA_TEST_PARTICIPANTS,UEA_TE_030,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+167,UEA_TEST_PARTICIPANTS,UEA_TE_030,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+167,UEA_TEST_PARTICIPANTS,UEA_TE_030,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+168,UEA_TEST_PARTICIPANTS,UEA_TE_031,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+168,UEA_TEST_PARTICIPANTS,UEA_TE_031,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+168,UEA_TEST_PARTICIPANTS,UEA_TE_031,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+168,UEA_TEST_PARTICIPANTS,UEA_TE_031,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+168,UEA_TEST_PARTICIPANTS,UEA_TE_031,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+168,UEA_TEST_PARTICIPANTS,UEA_TE_031,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+168,UEA_TEST_PARTICIPANTS,UEA_TE_031,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+169,UEA_TEST_PARTICIPANTS,UEA_TE_032,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+169,UEA_TEST_PARTICIPANTS,UEA_TE_032,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+169,UEA_TEST_PARTICIPANTS,UEA_TE_032,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+169,UEA_TEST_PARTICIPANTS,UEA_TE_032,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+169,UEA_TEST_PARTICIPANTS,UEA_TE_032,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+169,UEA_TEST_PARTICIPANTS,UEA_TE_032,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+169,UEA_TEST_PARTICIPANTS,UEA_TE_032,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+170,UEA_TEST_PARTICIPANTS,UEA_TE_033,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),0
+170,UEA_TEST_PARTICIPANTS,UEA_TE_033,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),1
+170,UEA_TEST_PARTICIPANTS,UEA_TE_033,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),2
+170,UEA_TEST_PARTICIPANTS,UEA_TE_033,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),3
+170,UEA_TEST_PARTICIPANTS,UEA_TE_033,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),4
+170,UEA_TEST_PARTICIPANTS,UEA_TE_033,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),5
+170,UEA_TEST_PARTICIPANTS,UEA_TE_033,test,UEA,EPILEPSY,DominantWrist,Seizure-like (simulated),6
+171,UEA_TEST_PARTICIPANTS,UEA_TE_034,test,UEA,WALKING,DominantWrist,Normal,0
+171,UEA_TEST_PARTICIPANTS,UEA_TE_034,test,UEA,WALKING,DominantWrist,Normal,1
+171,UEA_TEST_PARTICIPANTS,UEA_TE_034,test,UEA,WALKING,DominantWrist,Normal,2
+171,UEA_TEST_PARTICIPANTS,UEA_TE_034,test,UEA,WALKING,DominantWrist,Normal,3
+171,UEA_TEST_PARTICIPANTS,UEA_TE_034,test,UEA,WALKING,DominantWrist,Normal,4
+171,UEA_TEST_PARTICIPANTS,UEA_TE_034,test,UEA,WALKING,DominantWrist,Normal,5
+171,UEA_TEST_PARTICIPANTS,UEA_TE_034,test,UEA,WALKING,DominantWrist,Normal,6
+172,UEA_TEST_PARTICIPANTS,UEA_TE_035,test,UEA,WALKING,DominantWrist,Normal,0
+172,UEA_TEST_PARTICIPANTS,UEA_TE_035,test,UEA,WALKING,DominantWrist,Normal,1
+172,UEA_TEST_PARTICIPANTS,UEA_TE_035,test,UEA,WALKING,DominantWrist,Normal,2
+172,UEA_TEST_PARTICIPANTS,UEA_TE_035,test,UEA,WALKING,DominantWrist,Normal,3
+172,UEA_TEST_PARTICIPANTS,UEA_TE_035,test,UEA,WALKING,DominantWrist,Normal,4
+172,UEA_TEST_PARTICIPANTS,UEA_TE_035,test,UEA,WALKING,DominantWrist,Normal,5
+172,UEA_TEST_PARTICIPANTS,UEA_TE_035,test,UEA,WALKING,DominantWrist,Normal,6
+173,UEA_TEST_PARTICIPANTS,UEA_TE_036,test,UEA,WALKING,DominantWrist,Normal,0
+173,UEA_TEST_PARTICIPANTS,UEA_TE_036,test,UEA,WALKING,DominantWrist,Normal,1
+173,UEA_TEST_PARTICIPANTS,UEA_TE_036,test,UEA,WALKING,DominantWrist,Normal,2
+173,UEA_TEST_PARTICIPANTS,UEA_TE_036,test,UEA,WALKING,DominantWrist,Normal,3
+173,UEA_TEST_PARTICIPANTS,UEA_TE_036,test,UEA,WALKING,DominantWrist,Normal,4
+173,UEA_TEST_PARTICIPANTS,UEA_TE_036,test,UEA,WALKING,DominantWrist,Normal,5
+173,UEA_TEST_PARTICIPANTS,UEA_TE_036,test,UEA,WALKING,DominantWrist,Normal,6
+174,UEA_TEST_PARTICIPANTS,UEA_TE_037,test,UEA,WALKING,DominantWrist,Normal,0
+174,UEA_TEST_PARTICIPANTS,UEA_TE_037,test,UEA,WALKING,DominantWrist,Normal,1
+174,UEA_TEST_PARTICIPANTS,UEA_TE_037,test,UEA,WALKING,DominantWrist,Normal,2
+174,UEA_TEST_PARTICIPANTS,UEA_TE_037,test,UEA,WALKING,DominantWrist,Normal,3
+174,UEA_TEST_PARTICIPANTS,UEA_TE_037,test,UEA,WALKING,DominantWrist,Normal,4
+174,UEA_TEST_PARTICIPANTS,UEA_TE_037,test,UEA,WALKING,DominantWrist,Normal,5
+174,UEA_TEST_PARTICIPANTS,UEA_TE_037,test,UEA,WALKING,DominantWrist,Normal,6
+175,UEA_TEST_PARTICIPANTS,UEA_TE_038,test,UEA,WALKING,DominantWrist,Normal,0
+175,UEA_TEST_PARTICIPANTS,UEA_TE_038,test,UEA,WALKING,DominantWrist,Normal,1
+175,UEA_TEST_PARTICIPANTS,UEA_TE_038,test,UEA,WALKING,DominantWrist,Normal,2
+175,UEA_TEST_PARTICIPANTS,UEA_TE_038,test,UEA,WALKING,DominantWrist,Normal,3
+175,UEA_TEST_PARTICIPANTS,UEA_TE_038,test,UEA,WALKING,DominantWrist,Normal,4
+175,UEA_TEST_PARTICIPANTS,UEA_TE_038,test,UEA,WALKING,DominantWrist,Normal,5
+175,UEA_TEST_PARTICIPANTS,UEA_TE_038,test,UEA,WALKING,DominantWrist,Normal,6
+176,UEA_TEST_PARTICIPANTS,UEA_TE_039,test,UEA,WALKING,DominantWrist,Normal,0
+176,UEA_TEST_PARTICIPANTS,UEA_TE_039,test,UEA,WALKING,DominantWrist,Normal,1
+176,UEA_TEST_PARTICIPANTS,UEA_TE_039,test,UEA,WALKING,DominantWrist,Normal,2
+176,UEA_TEST_PARTICIPANTS,UEA_TE_039,test,UEA,WALKING,DominantWrist,Normal,3
+176,UEA_TEST_PARTICIPANTS,UEA_TE_039,test,UEA,WALKING,DominantWrist,Normal,4
+176,UEA_TEST_PARTICIPANTS,UEA_TE_039,test,UEA,WALKING,DominantWrist,Normal,5
+176,UEA_TEST_PARTICIPANTS,UEA_TE_039,test,UEA,WALKING,DominantWrist,Normal,6
+177,UEA_TEST_PARTICIPANTS,UEA_TE_040,test,UEA,WALKING,DominantWrist,Normal,0
+177,UEA_TEST_PARTICIPANTS,UEA_TE_040,test,UEA,WALKING,DominantWrist,Normal,1
+177,UEA_TEST_PARTICIPANTS,UEA_TE_040,test,UEA,WALKING,DominantWrist,Normal,2
+177,UEA_TEST_PARTICIPANTS,UEA_TE_040,test,UEA,WALKING,DominantWrist,Normal,3
+177,UEA_TEST_PARTICIPANTS,UEA_TE_040,test,UEA,WALKING,DominantWrist,Normal,4
+177,UEA_TEST_PARTICIPANTS,UEA_TE_040,test,UEA,WALKING,DominantWrist,Normal,5
+177,UEA_TEST_PARTICIPANTS,UEA_TE_040,test,UEA,WALKING,DominantWrist,Normal,6
+178,UEA_TEST_PARTICIPANTS,UEA_TE_041,test,UEA,WALKING,DominantWrist,Normal,0
+178,UEA_TEST_PARTICIPANTS,UEA_TE_041,test,UEA,WALKING,DominantWrist,Normal,1
+178,UEA_TEST_PARTICIPANTS,UEA_TE_041,test,UEA,WALKING,DominantWrist,Normal,2
+178,UEA_TEST_PARTICIPANTS,UEA_TE_041,test,UEA,WALKING,DominantWrist,Normal,3
+178,UEA_TEST_PARTICIPANTS,UEA_TE_041,test,UEA,WALKING,DominantWrist,Normal,4
+178,UEA_TEST_PARTICIPANTS,UEA_TE_041,test,UEA,WALKING,DominantWrist,Normal,5
+178,UEA_TEST_PARTICIPANTS,UEA_TE_041,test,UEA,WALKING,DominantWrist,Normal,6
+179,UEA_TEST_PARTICIPANTS,UEA_TE_042,test,UEA,WALKING,DominantWrist,Normal,0
+179,UEA_TEST_PARTICIPANTS,UEA_TE_042,test,UEA,WALKING,DominantWrist,Normal,1
+179,UEA_TEST_PARTICIPANTS,UEA_TE_042,test,UEA,WALKING,DominantWrist,Normal,2
+179,UEA_TEST_PARTICIPANTS,UEA_TE_042,test,UEA,WALKING,DominantWrist,Normal,3
+179,UEA_TEST_PARTICIPANTS,UEA_TE_042,test,UEA,WALKING,DominantWrist,Normal,4
+179,UEA_TEST_PARTICIPANTS,UEA_TE_042,test,UEA,WALKING,DominantWrist,Normal,5
+179,UEA_TEST_PARTICIPANTS,UEA_TE_042,test,UEA,WALKING,DominantWrist,Normal,6
+180,UEA_TEST_PARTICIPANTS,UEA_TE_043,test,UEA,WALKING,DominantWrist,Normal,0
+180,UEA_TEST_PARTICIPANTS,UEA_TE_043,test,UEA,WALKING,DominantWrist,Normal,1
+180,UEA_TEST_PARTICIPANTS,UEA_TE_043,test,UEA,WALKING,DominantWrist,Normal,2
+180,UEA_TEST_PARTICIPANTS,UEA_TE_043,test,UEA,WALKING,DominantWrist,Normal,3
+180,UEA_TEST_PARTICIPANTS,UEA_TE_043,test,UEA,WALKING,DominantWrist,Normal,4
+180,UEA_TEST_PARTICIPANTS,UEA_TE_043,test,UEA,WALKING,DominantWrist,Normal,5
+180,UEA_TEST_PARTICIPANTS,UEA_TE_043,test,UEA,WALKING,DominantWrist,Normal,6
+181,UEA_TEST_PARTICIPANTS,UEA_TE_044,test,UEA,WALKING,DominantWrist,Normal,0
+181,UEA_TEST_PARTICIPANTS,UEA_TE_044,test,UEA,WALKING,DominantWrist,Normal,1
+181,UEA_TEST_PARTICIPANTS,UEA_TE_044,test,UEA,WALKING,DominantWrist,Normal,2
+181,UEA_TEST_PARTICIPANTS,UEA_TE_044,test,UEA,WALKING,DominantWrist,Normal,3
+181,UEA_TEST_PARTICIPANTS,UEA_TE_044,test,UEA,WALKING,DominantWrist,Normal,4
+181,UEA_TEST_PARTICIPANTS,UEA_TE_044,test,UEA,WALKING,DominantWrist,Normal,5
+181,UEA_TEST_PARTICIPANTS,UEA_TE_044,test,UEA,WALKING,DominantWrist,Normal,6
+182,UEA_TEST_PARTICIPANTS,UEA_TE_045,test,UEA,WALKING,DominantWrist,Normal,0
+182,UEA_TEST_PARTICIPANTS,UEA_TE_045,test,UEA,WALKING,DominantWrist,Normal,1
+182,UEA_TEST_PARTICIPANTS,UEA_TE_045,test,UEA,WALKING,DominantWrist,Normal,2
+182,UEA_TEST_PARTICIPANTS,UEA_TE_045,test,UEA,WALKING,DominantWrist,Normal,3
+182,UEA_TEST_PARTICIPANTS,UEA_TE_045,test,UEA,WALKING,DominantWrist,Normal,4
+182,UEA_TEST_PARTICIPANTS,UEA_TE_045,test,UEA,WALKING,DominantWrist,Normal,5
+182,UEA_TEST_PARTICIPANTS,UEA_TE_045,test,UEA,WALKING,DominantWrist,Normal,6
+183,UEA_TEST_PARTICIPANTS,UEA_TE_046,test,UEA,WALKING,DominantWrist,Normal,0
+183,UEA_TEST_PARTICIPANTS,UEA_TE_046,test,UEA,WALKING,DominantWrist,Normal,1
+183,UEA_TEST_PARTICIPANTS,UEA_TE_046,test,UEA,WALKING,DominantWrist,Normal,2
+183,UEA_TEST_PARTICIPANTS,UEA_TE_046,test,UEA,WALKING,DominantWrist,Normal,3
+183,UEA_TEST_PARTICIPANTS,UEA_TE_046,test,UEA,WALKING,DominantWrist,Normal,4
+183,UEA_TEST_PARTICIPANTS,UEA_TE_046,test,UEA,WALKING,DominantWrist,Normal,5
+183,UEA_TEST_PARTICIPANTS,UEA_TE_046,test,UEA,WALKING,DominantWrist,Normal,6
+184,UEA_TEST_PARTICIPANTS,UEA_TE_047,test,UEA,WALKING,DominantWrist,Normal,0
+184,UEA_TEST_PARTICIPANTS,UEA_TE_047,test,UEA,WALKING,DominantWrist,Normal,1
+184,UEA_TEST_PARTICIPANTS,UEA_TE_047,test,UEA,WALKING,DominantWrist,Normal,2
+184,UEA_TEST_PARTICIPANTS,UEA_TE_047,test,UEA,WALKING,DominantWrist,Normal,3
+184,UEA_TEST_PARTICIPANTS,UEA_TE_047,test,UEA,WALKING,DominantWrist,Normal,4
+184,UEA_TEST_PARTICIPANTS,UEA_TE_047,test,UEA,WALKING,DominantWrist,Normal,5
+184,UEA_TEST_PARTICIPANTS,UEA_TE_047,test,UEA,WALKING,DominantWrist,Normal,6
+185,UEA_TEST_PARTICIPANTS,UEA_TE_048,test,UEA,WALKING,DominantWrist,Normal,0
+185,UEA_TEST_PARTICIPANTS,UEA_TE_048,test,UEA,WALKING,DominantWrist,Normal,1
+185,UEA_TEST_PARTICIPANTS,UEA_TE_048,test,UEA,WALKING,DominantWrist,Normal,2
+185,UEA_TEST_PARTICIPANTS,UEA_TE_048,test,UEA,WALKING,DominantWrist,Normal,3
+185,UEA_TEST_PARTICIPANTS,UEA_TE_048,test,UEA,WALKING,DominantWrist,Normal,4
+185,UEA_TEST_PARTICIPANTS,UEA_TE_048,test,UEA,WALKING,DominantWrist,Normal,5
+185,UEA_TEST_PARTICIPANTS,UEA_TE_048,test,UEA,WALKING,DominantWrist,Normal,6
+186,UEA_TEST_PARTICIPANTS,UEA_TE_049,test,UEA,WALKING,DominantWrist,Normal,0
+186,UEA_TEST_PARTICIPANTS,UEA_TE_049,test,UEA,WALKING,DominantWrist,Normal,1
+186,UEA_TEST_PARTICIPANTS,UEA_TE_049,test,UEA,WALKING,DominantWrist,Normal,2
+186,UEA_TEST_PARTICIPANTS,UEA_TE_049,test,UEA,WALKING,DominantWrist,Normal,3
+186,UEA_TEST_PARTICIPANTS,UEA_TE_049,test,UEA,WALKING,DominantWrist,Normal,4
+186,UEA_TEST_PARTICIPANTS,UEA_TE_049,test,UEA,WALKING,DominantWrist,Normal,5
+186,UEA_TEST_PARTICIPANTS,UEA_TE_049,test,UEA,WALKING,DominantWrist,Normal,6
+187,UEA_TEST_PARTICIPANTS,UEA_TE_050,test,UEA,WALKING,DominantWrist,Normal,0
+187,UEA_TEST_PARTICIPANTS,UEA_TE_050,test,UEA,WALKING,DominantWrist,Normal,1
+187,UEA_TEST_PARTICIPANTS,UEA_TE_050,test,UEA,WALKING,DominantWrist,Normal,2
+187,UEA_TEST_PARTICIPANTS,UEA_TE_050,test,UEA,WALKING,DominantWrist,Normal,3
+187,UEA_TEST_PARTICIPANTS,UEA_TE_050,test,UEA,WALKING,DominantWrist,Normal,4
+187,UEA_TEST_PARTICIPANTS,UEA_TE_050,test,UEA,WALKING,DominantWrist,Normal,5
+187,UEA_TEST_PARTICIPANTS,UEA_TE_050,test,UEA,WALKING,DominantWrist,Normal,6
+188,UEA_TEST_PARTICIPANTS,UEA_TE_051,test,UEA,WALKING,DominantWrist,Normal,0
+188,UEA_TEST_PARTICIPANTS,UEA_TE_051,test,UEA,WALKING,DominantWrist,Normal,1
+188,UEA_TEST_PARTICIPANTS,UEA_TE_051,test,UEA,WALKING,DominantWrist,Normal,2
+188,UEA_TEST_PARTICIPANTS,UEA_TE_051,test,UEA,WALKING,DominantWrist,Normal,3
+188,UEA_TEST_PARTICIPANTS,UEA_TE_051,test,UEA,WALKING,DominantWrist,Normal,4
+188,UEA_TEST_PARTICIPANTS,UEA_TE_051,test,UEA,WALKING,DominantWrist,Normal,5
+188,UEA_TEST_PARTICIPANTS,UEA_TE_051,test,UEA,WALKING,DominantWrist,Normal,6
+189,UEA_TEST_PARTICIPANTS,UEA_TE_052,test,UEA,WALKING,DominantWrist,Normal,0
+189,UEA_TEST_PARTICIPANTS,UEA_TE_052,test,UEA,WALKING,DominantWrist,Normal,1
+189,UEA_TEST_PARTICIPANTS,UEA_TE_052,test,UEA,WALKING,DominantWrist,Normal,2
+189,UEA_TEST_PARTICIPANTS,UEA_TE_052,test,UEA,WALKING,DominantWrist,Normal,3
+189,UEA_TEST_PARTICIPANTS,UEA_TE_052,test,UEA,WALKING,DominantWrist,Normal,4
+189,UEA_TEST_PARTICIPANTS,UEA_TE_052,test,UEA,WALKING,DominantWrist,Normal,5
+189,UEA_TEST_PARTICIPANTS,UEA_TE_052,test,UEA,WALKING,DominantWrist,Normal,6
+190,UEA_TEST_PARTICIPANTS,UEA_TE_053,test,UEA,WALKING,DominantWrist,Normal,0
+190,UEA_TEST_PARTICIPANTS,UEA_TE_053,test,UEA,WALKING,DominantWrist,Normal,1
+190,UEA_TEST_PARTICIPANTS,UEA_TE_053,test,UEA,WALKING,DominantWrist,Normal,2
+190,UEA_TEST_PARTICIPANTS,UEA_TE_053,test,UEA,WALKING,DominantWrist,Normal,3
+190,UEA_TEST_PARTICIPANTS,UEA_TE_053,test,UEA,WALKING,DominantWrist,Normal,4
+190,UEA_TEST_PARTICIPANTS,UEA_TE_053,test,UEA,WALKING,DominantWrist,Normal,5
+190,UEA_TEST_PARTICIPANTS,UEA_TE_053,test,UEA,WALKING,DominantWrist,Normal,6
+191,UEA_TEST_PARTICIPANTS,UEA_TE_054,test,UEA,WALKING,DominantWrist,Normal,0
+191,UEA_TEST_PARTICIPANTS,UEA_TE_054,test,UEA,WALKING,DominantWrist,Normal,1
+191,UEA_TEST_PARTICIPANTS,UEA_TE_054,test,UEA,WALKING,DominantWrist,Normal,2
+191,UEA_TEST_PARTICIPANTS,UEA_TE_054,test,UEA,WALKING,DominantWrist,Normal,3
+191,UEA_TEST_PARTICIPANTS,UEA_TE_054,test,UEA,WALKING,DominantWrist,Normal,4
+191,UEA_TEST_PARTICIPANTS,UEA_TE_054,test,UEA,WALKING,DominantWrist,Normal,5
+191,UEA_TEST_PARTICIPANTS,UEA_TE_054,test,UEA,WALKING,DominantWrist,Normal,6
+192,UEA_TEST_PARTICIPANTS,UEA_TE_055,test,UEA,WALKING,DominantWrist,Normal,0
+192,UEA_TEST_PARTICIPANTS,UEA_TE_055,test,UEA,WALKING,DominantWrist,Normal,1
+192,UEA_TEST_PARTICIPANTS,UEA_TE_055,test,UEA,WALKING,DominantWrist,Normal,2
+192,UEA_TEST_PARTICIPANTS,UEA_TE_055,test,UEA,WALKING,DominantWrist,Normal,3
+192,UEA_TEST_PARTICIPANTS,UEA_TE_055,test,UEA,WALKING,DominantWrist,Normal,4
+192,UEA_TEST_PARTICIPANTS,UEA_TE_055,test,UEA,WALKING,DominantWrist,Normal,5
+192,UEA_TEST_PARTICIPANTS,UEA_TE_055,test,UEA,WALKING,DominantWrist,Normal,6
+193,UEA_TEST_PARTICIPANTS,UEA_TE_056,test,UEA,WALKING,DominantWrist,Normal,0
+193,UEA_TEST_PARTICIPANTS,UEA_TE_056,test,UEA,WALKING,DominantWrist,Normal,1
+193,UEA_TEST_PARTICIPANTS,UEA_TE_056,test,UEA,WALKING,DominantWrist,Normal,2
+193,UEA_TEST_PARTICIPANTS,UEA_TE_056,test,UEA,WALKING,DominantWrist,Normal,3
+193,UEA_TEST_PARTICIPANTS,UEA_TE_056,test,UEA,WALKING,DominantWrist,Normal,4
+193,UEA_TEST_PARTICIPANTS,UEA_TE_056,test,UEA,WALKING,DominantWrist,Normal,5
+193,UEA_TEST_PARTICIPANTS,UEA_TE_056,test,UEA,WALKING,DominantWrist,Normal,6
+194,UEA_TEST_PARTICIPANTS,UEA_TE_057,test,UEA,WALKING,DominantWrist,Normal,0
+194,UEA_TEST_PARTICIPANTS,UEA_TE_057,test,UEA,WALKING,DominantWrist,Normal,1
+194,UEA_TEST_PARTICIPANTS,UEA_TE_057,test,UEA,WALKING,DominantWrist,Normal,2
+194,UEA_TEST_PARTICIPANTS,UEA_TE_057,test,UEA,WALKING,DominantWrist,Normal,3
+194,UEA_TEST_PARTICIPANTS,UEA_TE_057,test,UEA,WALKING,DominantWrist,Normal,4
+194,UEA_TEST_PARTICIPANTS,UEA_TE_057,test,UEA,WALKING,DominantWrist,Normal,5
+194,UEA_TEST_PARTICIPANTS,UEA_TE_057,test,UEA,WALKING,DominantWrist,Normal,6
+195,UEA_TEST_PARTICIPANTS,UEA_TE_058,test,UEA,WALKING,DominantWrist,Normal,0
+195,UEA_TEST_PARTICIPANTS,UEA_TE_058,test,UEA,WALKING,DominantWrist,Normal,1
+195,UEA_TEST_PARTICIPANTS,UEA_TE_058,test,UEA,WALKING,DominantWrist,Normal,2
+195,UEA_TEST_PARTICIPANTS,UEA_TE_058,test,UEA,WALKING,DominantWrist,Normal,3
+195,UEA_TEST_PARTICIPANTS,UEA_TE_058,test,UEA,WALKING,DominantWrist,Normal,4
+195,UEA_TEST_PARTICIPANTS,UEA_TE_058,test,UEA,WALKING,DominantWrist,Normal,5
+195,UEA_TEST_PARTICIPANTS,UEA_TE_058,test,UEA,WALKING,DominantWrist,Normal,6
+196,UEA_TEST_PARTICIPANTS,UEA_TE_059,test,UEA,WALKING,DominantWrist,Normal,0
+196,UEA_TEST_PARTICIPANTS,UEA_TE_059,test,UEA,WALKING,DominantWrist,Normal,1
+196,UEA_TEST_PARTICIPANTS,UEA_TE_059,test,UEA,WALKING,DominantWrist,Normal,2
+196,UEA_TEST_PARTICIPANTS,UEA_TE_059,test,UEA,WALKING,DominantWrist,Normal,3
+196,UEA_TEST_PARTICIPANTS,UEA_TE_059,test,UEA,WALKING,DominantWrist,Normal,4
+196,UEA_TEST_PARTICIPANTS,UEA_TE_059,test,UEA,WALKING,DominantWrist,Normal,5
+196,UEA_TEST_PARTICIPANTS,UEA_TE_059,test,UEA,WALKING,DominantWrist,Normal,6
+197,UEA_TEST_PARTICIPANTS,UEA_TE_060,test,UEA,WALKING,DominantWrist,Normal,0
+197,UEA_TEST_PARTICIPANTS,UEA_TE_060,test,UEA,WALKING,DominantWrist,Normal,1
+197,UEA_TEST_PARTICIPANTS,UEA_TE_060,test,UEA,WALKING,DominantWrist,Normal,2
+197,UEA_TEST_PARTICIPANTS,UEA_TE_060,test,UEA,WALKING,DominantWrist,Normal,3
+197,UEA_TEST_PARTICIPANTS,UEA_TE_060,test,UEA,WALKING,DominantWrist,Normal,4
+197,UEA_TEST_PARTICIPANTS,UEA_TE_060,test,UEA,WALKING,DominantWrist,Normal,5
+197,UEA_TEST_PARTICIPANTS,UEA_TE_060,test,UEA,WALKING,DominantWrist,Normal,6
+198,UEA_TEST_PARTICIPANTS,UEA_TE_061,test,UEA,WALKING,DominantWrist,Normal,0
+198,UEA_TEST_PARTICIPANTS,UEA_TE_061,test,UEA,WALKING,DominantWrist,Normal,1
+198,UEA_TEST_PARTICIPANTS,UEA_TE_061,test,UEA,WALKING,DominantWrist,Normal,2
+198,UEA_TEST_PARTICIPANTS,UEA_TE_061,test,UEA,WALKING,DominantWrist,Normal,3
+198,UEA_TEST_PARTICIPANTS,UEA_TE_061,test,UEA,WALKING,DominantWrist,Normal,4
+198,UEA_TEST_PARTICIPANTS,UEA_TE_061,test,UEA,WALKING,DominantWrist,Normal,5
+198,UEA_TEST_PARTICIPANTS,UEA_TE_061,test,UEA,WALKING,DominantWrist,Normal,6
+199,UEA_TEST_PARTICIPANTS,UEA_TE_062,test,UEA,WALKING,DominantWrist,Normal,0
+199,UEA_TEST_PARTICIPANTS,UEA_TE_062,test,UEA,WALKING,DominantWrist,Normal,1
+199,UEA_TEST_PARTICIPANTS,UEA_TE_062,test,UEA,WALKING,DominantWrist,Normal,2
+199,UEA_TEST_PARTICIPANTS,UEA_TE_062,test,UEA,WALKING,DominantWrist,Normal,3
+199,UEA_TEST_PARTICIPANTS,UEA_TE_062,test,UEA,WALKING,DominantWrist,Normal,4
+199,UEA_TEST_PARTICIPANTS,UEA_TE_062,test,UEA,WALKING,DominantWrist,Normal,5
+199,UEA_TEST_PARTICIPANTS,UEA_TE_062,test,UEA,WALKING,DominantWrist,Normal,6
+200,UEA_TEST_PARTICIPANTS,UEA_TE_063,test,UEA,WALKING,DominantWrist,Normal,0
+200,UEA_TEST_PARTICIPANTS,UEA_TE_063,test,UEA,WALKING,DominantWrist,Normal,1
+200,UEA_TEST_PARTICIPANTS,UEA_TE_063,test,UEA,WALKING,DominantWrist,Normal,2
+200,UEA_TEST_PARTICIPANTS,UEA_TE_063,test,UEA,WALKING,DominantWrist,Normal,3
+200,UEA_TEST_PARTICIPANTS,UEA_TE_063,test,UEA,WALKING,DominantWrist,Normal,4
+200,UEA_TEST_PARTICIPANTS,UEA_TE_063,test,UEA,WALKING,DominantWrist,Normal,5
+200,UEA_TEST_PARTICIPANTS,UEA_TE_063,test,UEA,WALKING,DominantWrist,Normal,6
+201,UEA_TEST_PARTICIPANTS,UEA_TE_064,test,UEA,WALKING,DominantWrist,Normal,0
+201,UEA_TEST_PARTICIPANTS,UEA_TE_064,test,UEA,WALKING,DominantWrist,Normal,1
+201,UEA_TEST_PARTICIPANTS,UEA_TE_064,test,UEA,WALKING,DominantWrist,Normal,2
+201,UEA_TEST_PARTICIPANTS,UEA_TE_064,test,UEA,WALKING,DominantWrist,Normal,3
+201,UEA_TEST_PARTICIPANTS,UEA_TE_064,test,UEA,WALKING,DominantWrist,Normal,4
+201,UEA_TEST_PARTICIPANTS,UEA_TE_064,test,UEA,WALKING,DominantWrist,Normal,5
+201,UEA_TEST_PARTICIPANTS,UEA_TE_064,test,UEA,WALKING,DominantWrist,Normal,6
+202,UEA_TEST_PARTICIPANTS,UEA_TE_065,test,UEA,WALKING,DominantWrist,Normal,0
+202,UEA_TEST_PARTICIPANTS,UEA_TE_065,test,UEA,WALKING,DominantWrist,Normal,1
+202,UEA_TEST_PARTICIPANTS,UEA_TE_065,test,UEA,WALKING,DominantWrist,Normal,2
+202,UEA_TEST_PARTICIPANTS,UEA_TE_065,test,UEA,WALKING,DominantWrist,Normal,3
+202,UEA_TEST_PARTICIPANTS,UEA_TE_065,test,UEA,WALKING,DominantWrist,Normal,4
+202,UEA_TEST_PARTICIPANTS,UEA_TE_065,test,UEA,WALKING,DominantWrist,Normal,5
+202,UEA_TEST_PARTICIPANTS,UEA_TE_065,test,UEA,WALKING,DominantWrist,Normal,6
+203,UEA_TEST_PARTICIPANTS,UEA_TE_066,test,UEA,WALKING,DominantWrist,Normal,0
+203,UEA_TEST_PARTICIPANTS,UEA_TE_066,test,UEA,WALKING,DominantWrist,Normal,1
+203,UEA_TEST_PARTICIPANTS,UEA_TE_066,test,UEA,WALKING,DominantWrist,Normal,2
+203,UEA_TEST_PARTICIPANTS,UEA_TE_066,test,UEA,WALKING,DominantWrist,Normal,3
+203,UEA_TEST_PARTICIPANTS,UEA_TE_066,test,UEA,WALKING,DominantWrist,Normal,4
+203,UEA_TEST_PARTICIPANTS,UEA_TE_066,test,UEA,WALKING,DominantWrist,Normal,5
+203,UEA_TEST_PARTICIPANTS,UEA_TE_066,test,UEA,WALKING,DominantWrist,Normal,6
+204,UEA_TEST_PARTICIPANTS,UEA_TE_067,test,UEA,WALKING,DominantWrist,Normal,0
+204,UEA_TEST_PARTICIPANTS,UEA_TE_067,test,UEA,WALKING,DominantWrist,Normal,1
+204,UEA_TEST_PARTICIPANTS,UEA_TE_067,test,UEA,WALKING,DominantWrist,Normal,2
+204,UEA_TEST_PARTICIPANTS,UEA_TE_067,test,UEA,WALKING,DominantWrist,Normal,3
+204,UEA_TEST_PARTICIPANTS,UEA_TE_067,test,UEA,WALKING,DominantWrist,Normal,4
+204,UEA_TEST_PARTICIPANTS,UEA_TE_067,test,UEA,WALKING,DominantWrist,Normal,5
+204,UEA_TEST_PARTICIPANTS,UEA_TE_067,test,UEA,WALKING,DominantWrist,Normal,6
+205,UEA_TEST_PARTICIPANTS,UEA_TE_068,test,UEA,WALKING,DominantWrist,Normal,0
+205,UEA_TEST_PARTICIPANTS,UEA_TE_068,test,UEA,WALKING,DominantWrist,Normal,1
+205,UEA_TEST_PARTICIPANTS,UEA_TE_068,test,UEA,WALKING,DominantWrist,Normal,2
+205,UEA_TEST_PARTICIPANTS,UEA_TE_068,test,UEA,WALKING,DominantWrist,Normal,3
+205,UEA_TEST_PARTICIPANTS,UEA_TE_068,test,UEA,WALKING,DominantWrist,Normal,4
+205,UEA_TEST_PARTICIPANTS,UEA_TE_068,test,UEA,WALKING,DominantWrist,Normal,5
+205,UEA_TEST_PARTICIPANTS,UEA_TE_068,test,UEA,WALKING,DominantWrist,Normal,6
+206,UEA_TEST_PARTICIPANTS,UEA_TE_069,test,UEA,WALKING,DominantWrist,Normal,0
+206,UEA_TEST_PARTICIPANTS,UEA_TE_069,test,UEA,WALKING,DominantWrist,Normal,1
+206,UEA_TEST_PARTICIPANTS,UEA_TE_069,test,UEA,WALKING,DominantWrist,Normal,2
+206,UEA_TEST_PARTICIPANTS,UEA_TE_069,test,UEA,WALKING,DominantWrist,Normal,3
+206,UEA_TEST_PARTICIPANTS,UEA_TE_069,test,UEA,WALKING,DominantWrist,Normal,4
+206,UEA_TEST_PARTICIPANTS,UEA_TE_069,test,UEA,WALKING,DominantWrist,Normal,5
+206,UEA_TEST_PARTICIPANTS,UEA_TE_069,test,UEA,WALKING,DominantWrist,Normal,6
+207,UEA_TEST_PARTICIPANTS,UEA_TE_070,test,UEA,WALKING,DominantWrist,Normal,0
+207,UEA_TEST_PARTICIPANTS,UEA_TE_070,test,UEA,WALKING,DominantWrist,Normal,1
+207,UEA_TEST_PARTICIPANTS,UEA_TE_070,test,UEA,WALKING,DominantWrist,Normal,2
+207,UEA_TEST_PARTICIPANTS,UEA_TE_070,test,UEA,WALKING,DominantWrist,Normal,3
+207,UEA_TEST_PARTICIPANTS,UEA_TE_070,test,UEA,WALKING,DominantWrist,Normal,4
+207,UEA_TEST_PARTICIPANTS,UEA_TE_070,test,UEA,WALKING,DominantWrist,Normal,5
+207,UEA_TEST_PARTICIPANTS,UEA_TE_070,test,UEA,WALKING,DominantWrist,Normal,6
+208,UEA_TEST_PARTICIPANTS,UEA_TE_071,test,UEA,RUNNING,DominantWrist,Normal,0
+208,UEA_TEST_PARTICIPANTS,UEA_TE_071,test,UEA,RUNNING,DominantWrist,Normal,1
+208,UEA_TEST_PARTICIPANTS,UEA_TE_071,test,UEA,RUNNING,DominantWrist,Normal,2
+208,UEA_TEST_PARTICIPANTS,UEA_TE_071,test,UEA,RUNNING,DominantWrist,Normal,3
+208,UEA_TEST_PARTICIPANTS,UEA_TE_071,test,UEA,RUNNING,DominantWrist,Normal,4
+208,UEA_TEST_PARTICIPANTS,UEA_TE_071,test,UEA,RUNNING,DominantWrist,Normal,5
+208,UEA_TEST_PARTICIPANTS,UEA_TE_071,test,UEA,RUNNING,DominantWrist,Normal,6
+209,UEA_TEST_PARTICIPANTS,UEA_TE_072,test,UEA,RUNNING,DominantWrist,Normal,0
+209,UEA_TEST_PARTICIPANTS,UEA_TE_072,test,UEA,RUNNING,DominantWrist,Normal,1
+209,UEA_TEST_PARTICIPANTS,UEA_TE_072,test,UEA,RUNNING,DominantWrist,Normal,2
+209,UEA_TEST_PARTICIPANTS,UEA_TE_072,test,UEA,RUNNING,DominantWrist,Normal,3
+209,UEA_TEST_PARTICIPANTS,UEA_TE_072,test,UEA,RUNNING,DominantWrist,Normal,4
+209,UEA_TEST_PARTICIPANTS,UEA_TE_072,test,UEA,RUNNING,DominantWrist,Normal,5
+209,UEA_TEST_PARTICIPANTS,UEA_TE_072,test,UEA,RUNNING,DominantWrist,Normal,6
+210,UEA_TEST_PARTICIPANTS,UEA_TE_073,test,UEA,RUNNING,DominantWrist,Normal,0
+210,UEA_TEST_PARTICIPANTS,UEA_TE_073,test,UEA,RUNNING,DominantWrist,Normal,1
+210,UEA_TEST_PARTICIPANTS,UEA_TE_073,test,UEA,RUNNING,DominantWrist,Normal,2
+210,UEA_TEST_PARTICIPANTS,UEA_TE_073,test,UEA,RUNNING,DominantWrist,Normal,3
+210,UEA_TEST_PARTICIPANTS,UEA_TE_073,test,UEA,RUNNING,DominantWrist,Normal,4
+210,UEA_TEST_PARTICIPANTS,UEA_TE_073,test,UEA,RUNNING,DominantWrist,Normal,5
+210,UEA_TEST_PARTICIPANTS,UEA_TE_073,test,UEA,RUNNING,DominantWrist,Normal,6
+211,UEA_TEST_PARTICIPANTS,UEA_TE_074,test,UEA,RUNNING,DominantWrist,Normal,0
+211,UEA_TEST_PARTICIPANTS,UEA_TE_074,test,UEA,RUNNING,DominantWrist,Normal,1
+211,UEA_TEST_PARTICIPANTS,UEA_TE_074,test,UEA,RUNNING,DominantWrist,Normal,2
+211,UEA_TEST_PARTICIPANTS,UEA_TE_074,test,UEA,RUNNING,DominantWrist,Normal,3
+211,UEA_TEST_PARTICIPANTS,UEA_TE_074,test,UEA,RUNNING,DominantWrist,Normal,4
+211,UEA_TEST_PARTICIPANTS,UEA_TE_074,test,UEA,RUNNING,DominantWrist,Normal,5
+211,UEA_TEST_PARTICIPANTS,UEA_TE_074,test,UEA,RUNNING,DominantWrist,Normal,6
+212,UEA_TEST_PARTICIPANTS,UEA_TE_075,test,UEA,RUNNING,DominantWrist,Normal,0
+212,UEA_TEST_PARTICIPANTS,UEA_TE_075,test,UEA,RUNNING,DominantWrist,Normal,1
+212,UEA_TEST_PARTICIPANTS,UEA_TE_075,test,UEA,RUNNING,DominantWrist,Normal,2
+212,UEA_TEST_PARTICIPANTS,UEA_TE_075,test,UEA,RUNNING,DominantWrist,Normal,3
+212,UEA_TEST_PARTICIPANTS,UEA_TE_075,test,UEA,RUNNING,DominantWrist,Normal,4
+212,UEA_TEST_PARTICIPANTS,UEA_TE_075,test,UEA,RUNNING,DominantWrist,Normal,5
+212,UEA_TEST_PARTICIPANTS,UEA_TE_075,test,UEA,RUNNING,DominantWrist,Normal,6
+213,UEA_TEST_PARTICIPANTS,UEA_TE_076,test,UEA,RUNNING,DominantWrist,Normal,0
+213,UEA_TEST_PARTICIPANTS,UEA_TE_076,test,UEA,RUNNING,DominantWrist,Normal,1
+213,UEA_TEST_PARTICIPANTS,UEA_TE_076,test,UEA,RUNNING,DominantWrist,Normal,2
+213,UEA_TEST_PARTICIPANTS,UEA_TE_076,test,UEA,RUNNING,DominantWrist,Normal,3
+213,UEA_TEST_PARTICIPANTS,UEA_TE_076,test,UEA,RUNNING,DominantWrist,Normal,4
+213,UEA_TEST_PARTICIPANTS,UEA_TE_076,test,UEA,RUNNING,DominantWrist,Normal,5
+213,UEA_TEST_PARTICIPANTS,UEA_TE_076,test,UEA,RUNNING,DominantWrist,Normal,6
+214,UEA_TEST_PARTICIPANTS,UEA_TE_077,test,UEA,RUNNING,DominantWrist,Normal,0
+214,UEA_TEST_PARTICIPANTS,UEA_TE_077,test,UEA,RUNNING,DominantWrist,Normal,1
+214,UEA_TEST_PARTICIPANTS,UEA_TE_077,test,UEA,RUNNING,DominantWrist,Normal,2
+214,UEA_TEST_PARTICIPANTS,UEA_TE_077,test,UEA,RUNNING,DominantWrist,Normal,3
+214,UEA_TEST_PARTICIPANTS,UEA_TE_077,test,UEA,RUNNING,DominantWrist,Normal,4
+214,UEA_TEST_PARTICIPANTS,UEA_TE_077,test,UEA,RUNNING,DominantWrist,Normal,5
+214,UEA_TEST_PARTICIPANTS,UEA_TE_077,test,UEA,RUNNING,DominantWrist,Normal,6
+215,UEA_TEST_PARTICIPANTS,UEA_TE_078,test,UEA,RUNNING,DominantWrist,Normal,0
+215,UEA_TEST_PARTICIPANTS,UEA_TE_078,test,UEA,RUNNING,DominantWrist,Normal,1
+215,UEA_TEST_PARTICIPANTS,UEA_TE_078,test,UEA,RUNNING,DominantWrist,Normal,2
+215,UEA_TEST_PARTICIPANTS,UEA_TE_078,test,UEA,RUNNING,DominantWrist,Normal,3
+215,UEA_TEST_PARTICIPANTS,UEA_TE_078,test,UEA,RUNNING,DominantWrist,Normal,4
+215,UEA_TEST_PARTICIPANTS,UEA_TE_078,test,UEA,RUNNING,DominantWrist,Normal,5
+215,UEA_TEST_PARTICIPANTS,UEA_TE_078,test,UEA,RUNNING,DominantWrist,Normal,6
+216,UEA_TEST_PARTICIPANTS,UEA_TE_079,test,UEA,RUNNING,DominantWrist,Normal,0
+216,UEA_TEST_PARTICIPANTS,UEA_TE_079,test,UEA,RUNNING,DominantWrist,Normal,1
+216,UEA_TEST_PARTICIPANTS,UEA_TE_079,test,UEA,RUNNING,DominantWrist,Normal,2
+216,UEA_TEST_PARTICIPANTS,UEA_TE_079,test,UEA,RUNNING,DominantWrist,Normal,3
+216,UEA_TEST_PARTICIPANTS,UEA_TE_079,test,UEA,RUNNING,DominantWrist,Normal,4
+216,UEA_TEST_PARTICIPANTS,UEA_TE_079,test,UEA,RUNNING,DominantWrist,Normal,5
+216,UEA_TEST_PARTICIPANTS,UEA_TE_079,test,UEA,RUNNING,DominantWrist,Normal,6
+217,UEA_TEST_PARTICIPANTS,UEA_TE_080,test,UEA,RUNNING,DominantWrist,Normal,0
+217,UEA_TEST_PARTICIPANTS,UEA_TE_080,test,UEA,RUNNING,DominantWrist,Normal,1
+217,UEA_TEST_PARTICIPANTS,UEA_TE_080,test,UEA,RUNNING,DominantWrist,Normal,2
+217,UEA_TEST_PARTICIPANTS,UEA_TE_080,test,UEA,RUNNING,DominantWrist,Normal,3
+217,UEA_TEST_PARTICIPANTS,UEA_TE_080,test,UEA,RUNNING,DominantWrist,Normal,4
+217,UEA_TEST_PARTICIPANTS,UEA_TE_080,test,UEA,RUNNING,DominantWrist,Normal,5
+217,UEA_TEST_PARTICIPANTS,UEA_TE_080,test,UEA,RUNNING,DominantWrist,Normal,6
+218,UEA_TEST_PARTICIPANTS,UEA_TE_081,test,UEA,RUNNING,DominantWrist,Normal,0
+218,UEA_TEST_PARTICIPANTS,UEA_TE_081,test,UEA,RUNNING,DominantWrist,Normal,1
+218,UEA_TEST_PARTICIPANTS,UEA_TE_081,test,UEA,RUNNING,DominantWrist,Normal,2
+218,UEA_TEST_PARTICIPANTS,UEA_TE_081,test,UEA,RUNNING,DominantWrist,Normal,3
+218,UEA_TEST_PARTICIPANTS,UEA_TE_081,test,UEA,RUNNING,DominantWrist,Normal,4
+218,UEA_TEST_PARTICIPANTS,UEA_TE_081,test,UEA,RUNNING,DominantWrist,Normal,5
+218,UEA_TEST_PARTICIPANTS,UEA_TE_081,test,UEA,RUNNING,DominantWrist,Normal,6
+219,UEA_TEST_PARTICIPANTS,UEA_TE_082,test,UEA,RUNNING,DominantWrist,Normal,0
+219,UEA_TEST_PARTICIPANTS,UEA_TE_082,test,UEA,RUNNING,DominantWrist,Normal,1
+219,UEA_TEST_PARTICIPANTS,UEA_TE_082,test,UEA,RUNNING,DominantWrist,Normal,2
+219,UEA_TEST_PARTICIPANTS,UEA_TE_082,test,UEA,RUNNING,DominantWrist,Normal,3
+219,UEA_TEST_PARTICIPANTS,UEA_TE_082,test,UEA,RUNNING,DominantWrist,Normal,4
+219,UEA_TEST_PARTICIPANTS,UEA_TE_082,test,UEA,RUNNING,DominantWrist,Normal,5
+219,UEA_TEST_PARTICIPANTS,UEA_TE_082,test,UEA,RUNNING,DominantWrist,Normal,6
+220,UEA_TEST_PARTICIPANTS,UEA_TE_083,test,UEA,RUNNING,DominantWrist,Normal,0
+220,UEA_TEST_PARTICIPANTS,UEA_TE_083,test,UEA,RUNNING,DominantWrist,Normal,1
+220,UEA_TEST_PARTICIPANTS,UEA_TE_083,test,UEA,RUNNING,DominantWrist,Normal,2
+220,UEA_TEST_PARTICIPANTS,UEA_TE_083,test,UEA,RUNNING,DominantWrist,Normal,3
+220,UEA_TEST_PARTICIPANTS,UEA_TE_083,test,UEA,RUNNING,DominantWrist,Normal,4
+220,UEA_TEST_PARTICIPANTS,UEA_TE_083,test,UEA,RUNNING,DominantWrist,Normal,5
+220,UEA_TEST_PARTICIPANTS,UEA_TE_083,test,UEA,RUNNING,DominantWrist,Normal,6
+221,UEA_TEST_PARTICIPANTS,UEA_TE_084,test,UEA,RUNNING,DominantWrist,Normal,0
+221,UEA_TEST_PARTICIPANTS,UEA_TE_084,test,UEA,RUNNING,DominantWrist,Normal,1
+221,UEA_TEST_PARTICIPANTS,UEA_TE_084,test,UEA,RUNNING,DominantWrist,Normal,2
+221,UEA_TEST_PARTICIPANTS,UEA_TE_084,test,UEA,RUNNING,DominantWrist,Normal,3
+221,UEA_TEST_PARTICIPANTS,UEA_TE_084,test,UEA,RUNNING,DominantWrist,Normal,4
+221,UEA_TEST_PARTICIPANTS,UEA_TE_084,test,UEA,RUNNING,DominantWrist,Normal,5
+221,UEA_TEST_PARTICIPANTS,UEA_TE_084,test,UEA,RUNNING,DominantWrist,Normal,6
+222,UEA_TEST_PARTICIPANTS,UEA_TE_085,test,UEA,RUNNING,DominantWrist,Normal,0
+222,UEA_TEST_PARTICIPANTS,UEA_TE_085,test,UEA,RUNNING,DominantWrist,Normal,1
+222,UEA_TEST_PARTICIPANTS,UEA_TE_085,test,UEA,RUNNING,DominantWrist,Normal,2
+222,UEA_TEST_PARTICIPANTS,UEA_TE_085,test,UEA,RUNNING,DominantWrist,Normal,3
+222,UEA_TEST_PARTICIPANTS,UEA_TE_085,test,UEA,RUNNING,DominantWrist,Normal,4
+222,UEA_TEST_PARTICIPANTS,UEA_TE_085,test,UEA,RUNNING,DominantWrist,Normal,5
+222,UEA_TEST_PARTICIPANTS,UEA_TE_085,test,UEA,RUNNING,DominantWrist,Normal,6
+223,UEA_TEST_PARTICIPANTS,UEA_TE_086,test,UEA,RUNNING,DominantWrist,Normal,0
+223,UEA_TEST_PARTICIPANTS,UEA_TE_086,test,UEA,RUNNING,DominantWrist,Normal,1
+223,UEA_TEST_PARTICIPANTS,UEA_TE_086,test,UEA,RUNNING,DominantWrist,Normal,2
+223,UEA_TEST_PARTICIPANTS,UEA_TE_086,test,UEA,RUNNING,DominantWrist,Normal,3
+223,UEA_TEST_PARTICIPANTS,UEA_TE_086,test,UEA,RUNNING,DominantWrist,Normal,4
+223,UEA_TEST_PARTICIPANTS,UEA_TE_086,test,UEA,RUNNING,DominantWrist,Normal,5
+223,UEA_TEST_PARTICIPANTS,UEA_TE_086,test,UEA,RUNNING,DominantWrist,Normal,6
+224,UEA_TEST_PARTICIPANTS,UEA_TE_087,test,UEA,RUNNING,DominantWrist,Normal,0
+224,UEA_TEST_PARTICIPANTS,UEA_TE_087,test,UEA,RUNNING,DominantWrist,Normal,1
+224,UEA_TEST_PARTICIPANTS,UEA_TE_087,test,UEA,RUNNING,DominantWrist,Normal,2
+224,UEA_TEST_PARTICIPANTS,UEA_TE_087,test,UEA,RUNNING,DominantWrist,Normal,3
+224,UEA_TEST_PARTICIPANTS,UEA_TE_087,test,UEA,RUNNING,DominantWrist,Normal,4
+224,UEA_TEST_PARTICIPANTS,UEA_TE_087,test,UEA,RUNNING,DominantWrist,Normal,5
+224,UEA_TEST_PARTICIPANTS,UEA_TE_087,test,UEA,RUNNING,DominantWrist,Normal,6
+225,UEA_TEST_PARTICIPANTS,UEA_TE_088,test,UEA,RUNNING,DominantWrist,Normal,0
+225,UEA_TEST_PARTICIPANTS,UEA_TE_088,test,UEA,RUNNING,DominantWrist,Normal,1
+225,UEA_TEST_PARTICIPANTS,UEA_TE_088,test,UEA,RUNNING,DominantWrist,Normal,2
+225,UEA_TEST_PARTICIPANTS,UEA_TE_088,test,UEA,RUNNING,DominantWrist,Normal,3
+225,UEA_TEST_PARTICIPANTS,UEA_TE_088,test,UEA,RUNNING,DominantWrist,Normal,4
+225,UEA_TEST_PARTICIPANTS,UEA_TE_088,test,UEA,RUNNING,DominantWrist,Normal,5
+225,UEA_TEST_PARTICIPANTS,UEA_TE_088,test,UEA,RUNNING,DominantWrist,Normal,6
+226,UEA_TEST_PARTICIPANTS,UEA_TE_089,test,UEA,RUNNING,DominantWrist,Normal,0
+226,UEA_TEST_PARTICIPANTS,UEA_TE_089,test,UEA,RUNNING,DominantWrist,Normal,1
+226,UEA_TEST_PARTICIPANTS,UEA_TE_089,test,UEA,RUNNING,DominantWrist,Normal,2
+226,UEA_TEST_PARTICIPANTS,UEA_TE_089,test,UEA,RUNNING,DominantWrist,Normal,3
+226,UEA_TEST_PARTICIPANTS,UEA_TE_089,test,UEA,RUNNING,DominantWrist,Normal,4
+226,UEA_TEST_PARTICIPANTS,UEA_TE_089,test,UEA,RUNNING,DominantWrist,Normal,5
+226,UEA_TEST_PARTICIPANTS,UEA_TE_089,test,UEA,RUNNING,DominantWrist,Normal,6
+227,UEA_TEST_PARTICIPANTS,UEA_TE_090,test,UEA,RUNNING,DominantWrist,Normal,0
+227,UEA_TEST_PARTICIPANTS,UEA_TE_090,test,UEA,RUNNING,DominantWrist,Normal,1
+227,UEA_TEST_PARTICIPANTS,UEA_TE_090,test,UEA,RUNNING,DominantWrist,Normal,2
+227,UEA_TEST_PARTICIPANTS,UEA_TE_090,test,UEA,RUNNING,DominantWrist,Normal,3
+227,UEA_TEST_PARTICIPANTS,UEA_TE_090,test,UEA,RUNNING,DominantWrist,Normal,4
+227,UEA_TEST_PARTICIPANTS,UEA_TE_090,test,UEA,RUNNING,DominantWrist,Normal,5
+227,UEA_TEST_PARTICIPANTS,UEA_TE_090,test,UEA,RUNNING,DominantWrist,Normal,6
+228,UEA_TEST_PARTICIPANTS,UEA_TE_091,test,UEA,RUNNING,DominantWrist,Normal,0
+228,UEA_TEST_PARTICIPANTS,UEA_TE_091,test,UEA,RUNNING,DominantWrist,Normal,1
+228,UEA_TEST_PARTICIPANTS,UEA_TE_091,test,UEA,RUNNING,DominantWrist,Normal,2
+228,UEA_TEST_PARTICIPANTS,UEA_TE_091,test,UEA,RUNNING,DominantWrist,Normal,3
+228,UEA_TEST_PARTICIPANTS,UEA_TE_091,test,UEA,RUNNING,DominantWrist,Normal,4
+228,UEA_TEST_PARTICIPANTS,UEA_TE_091,test,UEA,RUNNING,DominantWrist,Normal,5
+228,UEA_TEST_PARTICIPANTS,UEA_TE_091,test,UEA,RUNNING,DominantWrist,Normal,6
+229,UEA_TEST_PARTICIPANTS,UEA_TE_092,test,UEA,RUNNING,DominantWrist,Normal,0
+229,UEA_TEST_PARTICIPANTS,UEA_TE_092,test,UEA,RUNNING,DominantWrist,Normal,1
+229,UEA_TEST_PARTICIPANTS,UEA_TE_092,test,UEA,RUNNING,DominantWrist,Normal,2
+229,UEA_TEST_PARTICIPANTS,UEA_TE_092,test,UEA,RUNNING,DominantWrist,Normal,3
+229,UEA_TEST_PARTICIPANTS,UEA_TE_092,test,UEA,RUNNING,DominantWrist,Normal,4
+229,UEA_TEST_PARTICIPANTS,UEA_TE_092,test,UEA,RUNNING,DominantWrist,Normal,5
+229,UEA_TEST_PARTICIPANTS,UEA_TE_092,test,UEA,RUNNING,DominantWrist,Normal,6
+230,UEA_TEST_PARTICIPANTS,UEA_TE_093,test,UEA,RUNNING,DominantWrist,Normal,0
+230,UEA_TEST_PARTICIPANTS,UEA_TE_093,test,UEA,RUNNING,DominantWrist,Normal,1
+230,UEA_TEST_PARTICIPANTS,UEA_TE_093,test,UEA,RUNNING,DominantWrist,Normal,2
+230,UEA_TEST_PARTICIPANTS,UEA_TE_093,test,UEA,RUNNING,DominantWrist,Normal,3
+230,UEA_TEST_PARTICIPANTS,UEA_TE_093,test,UEA,RUNNING,DominantWrist,Normal,4
+230,UEA_TEST_PARTICIPANTS,UEA_TE_093,test,UEA,RUNNING,DominantWrist,Normal,5
+230,UEA_TEST_PARTICIPANTS,UEA_TE_093,test,UEA,RUNNING,DominantWrist,Normal,6
+231,UEA_TEST_PARTICIPANTS,UEA_TE_094,test,UEA,RUNNING,DominantWrist,Normal,0
+231,UEA_TEST_PARTICIPANTS,UEA_TE_094,test,UEA,RUNNING,DominantWrist,Normal,1
+231,UEA_TEST_PARTICIPANTS,UEA_TE_094,test,UEA,RUNNING,DominantWrist,Normal,2
+231,UEA_TEST_PARTICIPANTS,UEA_TE_094,test,UEA,RUNNING,DominantWrist,Normal,3
+231,UEA_TEST_PARTICIPANTS,UEA_TE_094,test,UEA,RUNNING,DominantWrist,Normal,4
+231,UEA_TEST_PARTICIPANTS,UEA_TE_094,test,UEA,RUNNING,DominantWrist,Normal,5
+231,UEA_TEST_PARTICIPANTS,UEA_TE_094,test,UEA,RUNNING,DominantWrist,Normal,6
+232,UEA_TEST_PARTICIPANTS,UEA_TE_095,test,UEA,RUNNING,DominantWrist,Normal,0
+232,UEA_TEST_PARTICIPANTS,UEA_TE_095,test,UEA,RUNNING,DominantWrist,Normal,1
+232,UEA_TEST_PARTICIPANTS,UEA_TE_095,test,UEA,RUNNING,DominantWrist,Normal,2
+232,UEA_TEST_PARTICIPANTS,UEA_TE_095,test,UEA,RUNNING,DominantWrist,Normal,3
+232,UEA_TEST_PARTICIPANTS,UEA_TE_095,test,UEA,RUNNING,DominantWrist,Normal,4
+232,UEA_TEST_PARTICIPANTS,UEA_TE_095,test,UEA,RUNNING,DominantWrist,Normal,5
+232,UEA_TEST_PARTICIPANTS,UEA_TE_095,test,UEA,RUNNING,DominantWrist,Normal,6
+233,UEA_TEST_PARTICIPANTS,UEA_TE_096,test,UEA,RUNNING,DominantWrist,Normal,0
+233,UEA_TEST_PARTICIPANTS,UEA_TE_096,test,UEA,RUNNING,DominantWrist,Normal,1
+233,UEA_TEST_PARTICIPANTS,UEA_TE_096,test,UEA,RUNNING,DominantWrist,Normal,2
+233,UEA_TEST_PARTICIPANTS,UEA_TE_096,test,UEA,RUNNING,DominantWrist,Normal,3
+233,UEA_TEST_PARTICIPANTS,UEA_TE_096,test,UEA,RUNNING,DominantWrist,Normal,4
+233,UEA_TEST_PARTICIPANTS,UEA_TE_096,test,UEA,RUNNING,DominantWrist,Normal,5
+233,UEA_TEST_PARTICIPANTS,UEA_TE_096,test,UEA,RUNNING,DominantWrist,Normal,6
+234,UEA_TEST_PARTICIPANTS,UEA_TE_097,test,UEA,RUNNING,DominantWrist,Normal,0
+234,UEA_TEST_PARTICIPANTS,UEA_TE_097,test,UEA,RUNNING,DominantWrist,Normal,1
+234,UEA_TEST_PARTICIPANTS,UEA_TE_097,test,UEA,RUNNING,DominantWrist,Normal,2
+234,UEA_TEST_PARTICIPANTS,UEA_TE_097,test,UEA,RUNNING,DominantWrist,Normal,3
+234,UEA_TEST_PARTICIPANTS,UEA_TE_097,test,UEA,RUNNING,DominantWrist,Normal,4
+234,UEA_TEST_PARTICIPANTS,UEA_TE_097,test,UEA,RUNNING,DominantWrist,Normal,5
+234,UEA_TEST_PARTICIPANTS,UEA_TE_097,test,UEA,RUNNING,DominantWrist,Normal,6
+235,UEA_TEST_PARTICIPANTS,UEA_TE_098,test,UEA,RUNNING,DominantWrist,Normal,0
+235,UEA_TEST_PARTICIPANTS,UEA_TE_098,test,UEA,RUNNING,DominantWrist,Normal,1
+235,UEA_TEST_PARTICIPANTS,UEA_TE_098,test,UEA,RUNNING,DominantWrist,Normal,2
+235,UEA_TEST_PARTICIPANTS,UEA_TE_098,test,UEA,RUNNING,DominantWrist,Normal,3
+235,UEA_TEST_PARTICIPANTS,UEA_TE_098,test,UEA,RUNNING,DominantWrist,Normal,4
+235,UEA_TEST_PARTICIPANTS,UEA_TE_098,test,UEA,RUNNING,DominantWrist,Normal,5
+235,UEA_TEST_PARTICIPANTS,UEA_TE_098,test,UEA,RUNNING,DominantWrist,Normal,6
+236,UEA_TEST_PARTICIPANTS,UEA_TE_099,test,UEA,RUNNING,DominantWrist,Normal,0
+236,UEA_TEST_PARTICIPANTS,UEA_TE_099,test,UEA,RUNNING,DominantWrist,Normal,1
+236,UEA_TEST_PARTICIPANTS,UEA_TE_099,test,UEA,RUNNING,DominantWrist,Normal,2
+236,UEA_TEST_PARTICIPANTS,UEA_TE_099,test,UEA,RUNNING,DominantWrist,Normal,3
+236,UEA_TEST_PARTICIPANTS,UEA_TE_099,test,UEA,RUNNING,DominantWrist,Normal,4
+236,UEA_TEST_PARTICIPANTS,UEA_TE_099,test,UEA,RUNNING,DominantWrist,Normal,5
+236,UEA_TEST_PARTICIPANTS,UEA_TE_099,test,UEA,RUNNING,DominantWrist,Normal,6
+237,UEA_TEST_PARTICIPANTS,UEA_TE_100,test,UEA,RUNNING,DominantWrist,Normal,0
+237,UEA_TEST_PARTICIPANTS,UEA_TE_100,test,UEA,RUNNING,DominantWrist,Normal,1
+237,UEA_TEST_PARTICIPANTS,UEA_TE_100,test,UEA,RUNNING,DominantWrist,Normal,2
+237,UEA_TEST_PARTICIPANTS,UEA_TE_100,test,UEA,RUNNING,DominantWrist,Normal,3
+237,UEA_TEST_PARTICIPANTS,UEA_TE_100,test,UEA,RUNNING,DominantWrist,Normal,4
+237,UEA_TEST_PARTICIPANTS,UEA_TE_100,test,UEA,RUNNING,DominantWrist,Normal,5
+237,UEA_TEST_PARTICIPANTS,UEA_TE_100,test,UEA,RUNNING,DominantWrist,Normal,6
+238,UEA_TEST_PARTICIPANTS,UEA_TE_101,test,UEA,RUNNING,DominantWrist,Normal,0
+238,UEA_TEST_PARTICIPANTS,UEA_TE_101,test,UEA,RUNNING,DominantWrist,Normal,1
+238,UEA_TEST_PARTICIPANTS,UEA_TE_101,test,UEA,RUNNING,DominantWrist,Normal,2
+238,UEA_TEST_PARTICIPANTS,UEA_TE_101,test,UEA,RUNNING,DominantWrist,Normal,3
+238,UEA_TEST_PARTICIPANTS,UEA_TE_101,test,UEA,RUNNING,DominantWrist,Normal,4
+238,UEA_TEST_PARTICIPANTS,UEA_TE_101,test,UEA,RUNNING,DominantWrist,Normal,5
+238,UEA_TEST_PARTICIPANTS,UEA_TE_101,test,UEA,RUNNING,DominantWrist,Normal,6
+239,UEA_TEST_PARTICIPANTS,UEA_TE_102,test,UEA,RUNNING,DominantWrist,Normal,0
+239,UEA_TEST_PARTICIPANTS,UEA_TE_102,test,UEA,RUNNING,DominantWrist,Normal,1
+239,UEA_TEST_PARTICIPANTS,UEA_TE_102,test,UEA,RUNNING,DominantWrist,Normal,2
+239,UEA_TEST_PARTICIPANTS,UEA_TE_102,test,UEA,RUNNING,DominantWrist,Normal,3
+239,UEA_TEST_PARTICIPANTS,UEA_TE_102,test,UEA,RUNNING,DominantWrist,Normal,4
+239,UEA_TEST_PARTICIPANTS,UEA_TE_102,test,UEA,RUNNING,DominantWrist,Normal,5
+239,UEA_TEST_PARTICIPANTS,UEA_TE_102,test,UEA,RUNNING,DominantWrist,Normal,6
+240,UEA_TEST_PARTICIPANTS,UEA_TE_103,test,UEA,RUNNING,DominantWrist,Normal,0
+240,UEA_TEST_PARTICIPANTS,UEA_TE_103,test,UEA,RUNNING,DominantWrist,Normal,1
+240,UEA_TEST_PARTICIPANTS,UEA_TE_103,test,UEA,RUNNING,DominantWrist,Normal,2
+240,UEA_TEST_PARTICIPANTS,UEA_TE_103,test,UEA,RUNNING,DominantWrist,Normal,3
+240,UEA_TEST_PARTICIPANTS,UEA_TE_103,test,UEA,RUNNING,DominantWrist,Normal,4
+240,UEA_TEST_PARTICIPANTS,UEA_TE_103,test,UEA,RUNNING,DominantWrist,Normal,5
+240,UEA_TEST_PARTICIPANTS,UEA_TE_103,test,UEA,RUNNING,DominantWrist,Normal,6
+241,UEA_TEST_PARTICIPANTS,UEA_TE_104,test,UEA,RUNNING,DominantWrist,Normal,0
+241,UEA_TEST_PARTICIPANTS,UEA_TE_104,test,UEA,RUNNING,DominantWrist,Normal,1
+241,UEA_TEST_PARTICIPANTS,UEA_TE_104,test,UEA,RUNNING,DominantWrist,Normal,2
+241,UEA_TEST_PARTICIPANTS,UEA_TE_104,test,UEA,RUNNING,DominantWrist,Normal,3
+241,UEA_TEST_PARTICIPANTS,UEA_TE_104,test,UEA,RUNNING,DominantWrist,Normal,4
+241,UEA_TEST_PARTICIPANTS,UEA_TE_104,test,UEA,RUNNING,DominantWrist,Normal,5
+241,UEA_TEST_PARTICIPANTS,UEA_TE_104,test,UEA,RUNNING,DominantWrist,Normal,6
+242,UEA_TEST_PARTICIPANTS,UEA_TE_105,test,UEA,RUNNING,DominantWrist,Normal,0
+242,UEA_TEST_PARTICIPANTS,UEA_TE_105,test,UEA,RUNNING,DominantWrist,Normal,1
+242,UEA_TEST_PARTICIPANTS,UEA_TE_105,test,UEA,RUNNING,DominantWrist,Normal,2
+242,UEA_TEST_PARTICIPANTS,UEA_TE_105,test,UEA,RUNNING,DominantWrist,Normal,3
+242,UEA_TEST_PARTICIPANTS,UEA_TE_105,test,UEA,RUNNING,DominantWrist,Normal,4
+242,UEA_TEST_PARTICIPANTS,UEA_TE_105,test,UEA,RUNNING,DominantWrist,Normal,5
+242,UEA_TEST_PARTICIPANTS,UEA_TE_105,test,UEA,RUNNING,DominantWrist,Normal,6
+243,UEA_TEST_PARTICIPANTS,UEA_TE_106,test,UEA,RUNNING,DominantWrist,Normal,0
+243,UEA_TEST_PARTICIPANTS,UEA_TE_106,test,UEA,RUNNING,DominantWrist,Normal,1
+243,UEA_TEST_PARTICIPANTS,UEA_TE_106,test,UEA,RUNNING,DominantWrist,Normal,2
+243,UEA_TEST_PARTICIPANTS,UEA_TE_106,test,UEA,RUNNING,DominantWrist,Normal,3
+243,UEA_TEST_PARTICIPANTS,UEA_TE_106,test,UEA,RUNNING,DominantWrist,Normal,4
+243,UEA_TEST_PARTICIPANTS,UEA_TE_106,test,UEA,RUNNING,DominantWrist,Normal,5
+243,UEA_TEST_PARTICIPANTS,UEA_TE_106,test,UEA,RUNNING,DominantWrist,Normal,6
+244,UEA_TEST_PARTICIPANTS,UEA_TE_107,test,UEA,RUNNING,DominantWrist,Normal,0
+244,UEA_TEST_PARTICIPANTS,UEA_TE_107,test,UEA,RUNNING,DominantWrist,Normal,1
+244,UEA_TEST_PARTICIPANTS,UEA_TE_107,test,UEA,RUNNING,DominantWrist,Normal,2
+244,UEA_TEST_PARTICIPANTS,UEA_TE_107,test,UEA,RUNNING,DominantWrist,Normal,3
+244,UEA_TEST_PARTICIPANTS,UEA_TE_107,test,UEA,RUNNING,DominantWrist,Normal,4
+244,UEA_TEST_PARTICIPANTS,UEA_TE_107,test,UEA,RUNNING,DominantWrist,Normal,5
+244,UEA_TEST_PARTICIPANTS,UEA_TE_107,test,UEA,RUNNING,DominantWrist,Normal,6
+245,UEA_TEST_PARTICIPANTS,UEA_TE_108,test,UEA,SAWING,DominantWrist,Normal,0
+245,UEA_TEST_PARTICIPANTS,UEA_TE_108,test,UEA,SAWING,DominantWrist,Normal,1
+245,UEA_TEST_PARTICIPANTS,UEA_TE_108,test,UEA,SAWING,DominantWrist,Normal,2
+245,UEA_TEST_PARTICIPANTS,UEA_TE_108,test,UEA,SAWING,DominantWrist,Normal,3
+245,UEA_TEST_PARTICIPANTS,UEA_TE_108,test,UEA,SAWING,DominantWrist,Normal,4
+245,UEA_TEST_PARTICIPANTS,UEA_TE_108,test,UEA,SAWING,DominantWrist,Normal,5
+245,UEA_TEST_PARTICIPANTS,UEA_TE_108,test,UEA,SAWING,DominantWrist,Normal,6
+246,UEA_TEST_PARTICIPANTS,UEA_TE_109,test,UEA,SAWING,DominantWrist,Normal,0
+246,UEA_TEST_PARTICIPANTS,UEA_TE_109,test,UEA,SAWING,DominantWrist,Normal,1
+246,UEA_TEST_PARTICIPANTS,UEA_TE_109,test,UEA,SAWING,DominantWrist,Normal,2
+246,UEA_TEST_PARTICIPANTS,UEA_TE_109,test,UEA,SAWING,DominantWrist,Normal,3
+246,UEA_TEST_PARTICIPANTS,UEA_TE_109,test,UEA,SAWING,DominantWrist,Normal,4
+246,UEA_TEST_PARTICIPANTS,UEA_TE_109,test,UEA,SAWING,DominantWrist,Normal,5
+246,UEA_TEST_PARTICIPANTS,UEA_TE_109,test,UEA,SAWING,DominantWrist,Normal,6
+247,UEA_TEST_PARTICIPANTS,UEA_TE_110,test,UEA,SAWING,DominantWrist,Normal,0
+247,UEA_TEST_PARTICIPANTS,UEA_TE_110,test,UEA,SAWING,DominantWrist,Normal,1
+247,UEA_TEST_PARTICIPANTS,UEA_TE_110,test,UEA,SAWING,DominantWrist,Normal,2
+247,UEA_TEST_PARTICIPANTS,UEA_TE_110,test,UEA,SAWING,DominantWrist,Normal,3
+247,UEA_TEST_PARTICIPANTS,UEA_TE_110,test,UEA,SAWING,DominantWrist,Normal,4
+247,UEA_TEST_PARTICIPANTS,UEA_TE_110,test,UEA,SAWING,DominantWrist,Normal,5
+247,UEA_TEST_PARTICIPANTS,UEA_TE_110,test,UEA,SAWING,DominantWrist,Normal,6
+248,UEA_TEST_PARTICIPANTS,UEA_TE_111,test,UEA,SAWING,DominantWrist,Normal,0
+248,UEA_TEST_PARTICIPANTS,UEA_TE_111,test,UEA,SAWING,DominantWrist,Normal,1
+248,UEA_TEST_PARTICIPANTS,UEA_TE_111,test,UEA,SAWING,DominantWrist,Normal,2
+248,UEA_TEST_PARTICIPANTS,UEA_TE_111,test,UEA,SAWING,DominantWrist,Normal,3
+248,UEA_TEST_PARTICIPANTS,UEA_TE_111,test,UEA,SAWING,DominantWrist,Normal,4
+248,UEA_TEST_PARTICIPANTS,UEA_TE_111,test,UEA,SAWING,DominantWrist,Normal,5
+248,UEA_TEST_PARTICIPANTS,UEA_TE_111,test,UEA,SAWING,DominantWrist,Normal,6
+249,UEA_TEST_PARTICIPANTS,UEA_TE_112,test,UEA,SAWING,DominantWrist,Normal,0
+249,UEA_TEST_PARTICIPANTS,UEA_TE_112,test,UEA,SAWING,DominantWrist,Normal,1
+249,UEA_TEST_PARTICIPANTS,UEA_TE_112,test,UEA,SAWING,DominantWrist,Normal,2
+249,UEA_TEST_PARTICIPANTS,UEA_TE_112,test,UEA,SAWING,DominantWrist,Normal,3
+249,UEA_TEST_PARTICIPANTS,UEA_TE_112,test,UEA,SAWING,DominantWrist,Normal,4
+249,UEA_TEST_PARTICIPANTS,UEA_TE_112,test,UEA,SAWING,DominantWrist,Normal,5
+249,UEA_TEST_PARTICIPANTS,UEA_TE_112,test,UEA,SAWING,DominantWrist,Normal,6
+250,UEA_TEST_PARTICIPANTS,UEA_TE_113,test,UEA,SAWING,DominantWrist,Normal,0
+250,UEA_TEST_PARTICIPANTS,UEA_TE_113,test,UEA,SAWING,DominantWrist,Normal,1
+250,UEA_TEST_PARTICIPANTS,UEA_TE_113,test,UEA,SAWING,DominantWrist,Normal,2
+250,UEA_TEST_PARTICIPANTS,UEA_TE_113,test,UEA,SAWING,DominantWrist,Normal,3
+250,UEA_TEST_PARTICIPANTS,UEA_TE_113,test,UEA,SAWING,DominantWrist,Normal,4
+250,UEA_TEST_PARTICIPANTS,UEA_TE_113,test,UEA,SAWING,DominantWrist,Normal,5
+250,UEA_TEST_PARTICIPANTS,UEA_TE_113,test,UEA,SAWING,DominantWrist,Normal,6
+251,UEA_TEST_PARTICIPANTS,UEA_TE_114,test,UEA,SAWING,DominantWrist,Normal,0
+251,UEA_TEST_PARTICIPANTS,UEA_TE_114,test,UEA,SAWING,DominantWrist,Normal,1
+251,UEA_TEST_PARTICIPANTS,UEA_TE_114,test,UEA,SAWING,DominantWrist,Normal,2
+251,UEA_TEST_PARTICIPANTS,UEA_TE_114,test,UEA,SAWING,DominantWrist,Normal,3
+251,UEA_TEST_PARTICIPANTS,UEA_TE_114,test,UEA,SAWING,DominantWrist,Normal,4
+251,UEA_TEST_PARTICIPANTS,UEA_TE_114,test,UEA,SAWING,DominantWrist,Normal,5
+251,UEA_TEST_PARTICIPANTS,UEA_TE_114,test,UEA,SAWING,DominantWrist,Normal,6
+252,UEA_TEST_PARTICIPANTS,UEA_TE_115,test,UEA,SAWING,DominantWrist,Normal,0
+252,UEA_TEST_PARTICIPANTS,UEA_TE_115,test,UEA,SAWING,DominantWrist,Normal,1
+252,UEA_TEST_PARTICIPANTS,UEA_TE_115,test,UEA,SAWING,DominantWrist,Normal,2
+252,UEA_TEST_PARTICIPANTS,UEA_TE_115,test,UEA,SAWING,DominantWrist,Normal,3
+252,UEA_TEST_PARTICIPANTS,UEA_TE_115,test,UEA,SAWING,DominantWrist,Normal,4
+252,UEA_TEST_PARTICIPANTS,UEA_TE_115,test,UEA,SAWING,DominantWrist,Normal,5
+252,UEA_TEST_PARTICIPANTS,UEA_TE_115,test,UEA,SAWING,DominantWrist,Normal,6
+253,UEA_TEST_PARTICIPANTS,UEA_TE_116,test,UEA,SAWING,DominantWrist,Normal,0
+253,UEA_TEST_PARTICIPANTS,UEA_TE_116,test,UEA,SAWING,DominantWrist,Normal,1
+253,UEA_TEST_PARTICIPANTS,UEA_TE_116,test,UEA,SAWING,DominantWrist,Normal,2
+253,UEA_TEST_PARTICIPANTS,UEA_TE_116,test,UEA,SAWING,DominantWrist,Normal,3
+253,UEA_TEST_PARTICIPANTS,UEA_TE_116,test,UEA,SAWING,DominantWrist,Normal,4
+253,UEA_TEST_PARTICIPANTS,UEA_TE_116,test,UEA,SAWING,DominantWrist,Normal,5
+253,UEA_TEST_PARTICIPANTS,UEA_TE_116,test,UEA,SAWING,DominantWrist,Normal,6
+254,UEA_TEST_PARTICIPANTS,UEA_TE_117,test,UEA,SAWING,DominantWrist,Normal,0
+254,UEA_TEST_PARTICIPANTS,UEA_TE_117,test,UEA,SAWING,DominantWrist,Normal,1
+254,UEA_TEST_PARTICIPANTS,UEA_TE_117,test,UEA,SAWING,DominantWrist,Normal,2
+254,UEA_TEST_PARTICIPANTS,UEA_TE_117,test,UEA,SAWING,DominantWrist,Normal,3
+254,UEA_TEST_PARTICIPANTS,UEA_TE_117,test,UEA,SAWING,DominantWrist,Normal,4
+254,UEA_TEST_PARTICIPANTS,UEA_TE_117,test,UEA,SAWING,DominantWrist,Normal,5
+254,UEA_TEST_PARTICIPANTS,UEA_TE_117,test,UEA,SAWING,DominantWrist,Normal,6
+255,UEA_TEST_PARTICIPANTS,UEA_TE_118,test,UEA,SAWING,DominantWrist,Normal,0
+255,UEA_TEST_PARTICIPANTS,UEA_TE_118,test,UEA,SAWING,DominantWrist,Normal,1
+255,UEA_TEST_PARTICIPANTS,UEA_TE_118,test,UEA,SAWING,DominantWrist,Normal,2
+255,UEA_TEST_PARTICIPANTS,UEA_TE_118,test,UEA,SAWING,DominantWrist,Normal,3
+255,UEA_TEST_PARTICIPANTS,UEA_TE_118,test,UEA,SAWING,DominantWrist,Normal,4
+255,UEA_TEST_PARTICIPANTS,UEA_TE_118,test,UEA,SAWING,DominantWrist,Normal,5
+255,UEA_TEST_PARTICIPANTS,UEA_TE_118,test,UEA,SAWING,DominantWrist,Normal,6
+256,UEA_TEST_PARTICIPANTS,UEA_TE_119,test,UEA,SAWING,DominantWrist,Normal,0
+256,UEA_TEST_PARTICIPANTS,UEA_TE_119,test,UEA,SAWING,DominantWrist,Normal,1
+256,UEA_TEST_PARTICIPANTS,UEA_TE_119,test,UEA,SAWING,DominantWrist,Normal,2
+256,UEA_TEST_PARTICIPANTS,UEA_TE_119,test,UEA,SAWING,DominantWrist,Normal,3
+256,UEA_TEST_PARTICIPANTS,UEA_TE_119,test,UEA,SAWING,DominantWrist,Normal,4
+256,UEA_TEST_PARTICIPANTS,UEA_TE_119,test,UEA,SAWING,DominantWrist,Normal,5
+256,UEA_TEST_PARTICIPANTS,UEA_TE_119,test,UEA,SAWING,DominantWrist,Normal,6
+257,UEA_TEST_PARTICIPANTS,UEA_TE_120,test,UEA,SAWING,DominantWrist,Normal,0
+257,UEA_TEST_PARTICIPANTS,UEA_TE_120,test,UEA,SAWING,DominantWrist,Normal,1
+257,UEA_TEST_PARTICIPANTS,UEA_TE_120,test,UEA,SAWING,DominantWrist,Normal,2
+257,UEA_TEST_PARTICIPANTS,UEA_TE_120,test,UEA,SAWING,DominantWrist,Normal,3
+257,UEA_TEST_PARTICIPANTS,UEA_TE_120,test,UEA,SAWING,DominantWrist,Normal,4
+257,UEA_TEST_PARTICIPANTS,UEA_TE_120,test,UEA,SAWING,DominantWrist,Normal,5
+257,UEA_TEST_PARTICIPANTS,UEA_TE_120,test,UEA,SAWING,DominantWrist,Normal,6
+258,UEA_TEST_PARTICIPANTS,UEA_TE_121,test,UEA,SAWING,DominantWrist,Normal,0
+258,UEA_TEST_PARTICIPANTS,UEA_TE_121,test,UEA,SAWING,DominantWrist,Normal,1
+258,UEA_TEST_PARTICIPANTS,UEA_TE_121,test,UEA,SAWING,DominantWrist,Normal,2
+258,UEA_TEST_PARTICIPANTS,UEA_TE_121,test,UEA,SAWING,DominantWrist,Normal,3
+258,UEA_TEST_PARTICIPANTS,UEA_TE_121,test,UEA,SAWING,DominantWrist,Normal,4
+258,UEA_TEST_PARTICIPANTS,UEA_TE_121,test,UEA,SAWING,DominantWrist,Normal,5
+258,UEA_TEST_PARTICIPANTS,UEA_TE_121,test,UEA,SAWING,DominantWrist,Normal,6
+259,UEA_TEST_PARTICIPANTS,UEA_TE_122,test,UEA,SAWING,DominantWrist,Normal,0
+259,UEA_TEST_PARTICIPANTS,UEA_TE_122,test,UEA,SAWING,DominantWrist,Normal,1
+259,UEA_TEST_PARTICIPANTS,UEA_TE_122,test,UEA,SAWING,DominantWrist,Normal,2
+259,UEA_TEST_PARTICIPANTS,UEA_TE_122,test,UEA,SAWING,DominantWrist,Normal,3
+259,UEA_TEST_PARTICIPANTS,UEA_TE_122,test,UEA,SAWING,DominantWrist,Normal,4
+259,UEA_TEST_PARTICIPANTS,UEA_TE_122,test,UEA,SAWING,DominantWrist,Normal,5
+259,UEA_TEST_PARTICIPANTS,UEA_TE_122,test,UEA,SAWING,DominantWrist,Normal,6
+260,UEA_TEST_PARTICIPANTS,UEA_TE_123,test,UEA,SAWING,DominantWrist,Normal,0
+260,UEA_TEST_PARTICIPANTS,UEA_TE_123,test,UEA,SAWING,DominantWrist,Normal,1
+260,UEA_TEST_PARTICIPANTS,UEA_TE_123,test,UEA,SAWING,DominantWrist,Normal,2
+260,UEA_TEST_PARTICIPANTS,UEA_TE_123,test,UEA,SAWING,DominantWrist,Normal,3
+260,UEA_TEST_PARTICIPANTS,UEA_TE_123,test,UEA,SAWING,DominantWrist,Normal,4
+260,UEA_TEST_PARTICIPANTS,UEA_TE_123,test,UEA,SAWING,DominantWrist,Normal,5
+260,UEA_TEST_PARTICIPANTS,UEA_TE_123,test,UEA,SAWING,DominantWrist,Normal,6
+261,UEA_TEST_PARTICIPANTS,UEA_TE_124,test,UEA,SAWING,DominantWrist,Normal,0
+261,UEA_TEST_PARTICIPANTS,UEA_TE_124,test,UEA,SAWING,DominantWrist,Normal,1
+261,UEA_TEST_PARTICIPANTS,UEA_TE_124,test,UEA,SAWING,DominantWrist,Normal,2
+261,UEA_TEST_PARTICIPANTS,UEA_TE_124,test,UEA,SAWING,DominantWrist,Normal,3
+261,UEA_TEST_PARTICIPANTS,UEA_TE_124,test,UEA,SAWING,DominantWrist,Normal,4
+261,UEA_TEST_PARTICIPANTS,UEA_TE_124,test,UEA,SAWING,DominantWrist,Normal,5
+261,UEA_TEST_PARTICIPANTS,UEA_TE_124,test,UEA,SAWING,DominantWrist,Normal,6
+262,UEA_TEST_PARTICIPANTS,UEA_TE_125,test,UEA,SAWING,DominantWrist,Normal,0
+262,UEA_TEST_PARTICIPANTS,UEA_TE_125,test,UEA,SAWING,DominantWrist,Normal,1
+262,UEA_TEST_PARTICIPANTS,UEA_TE_125,test,UEA,SAWING,DominantWrist,Normal,2
+262,UEA_TEST_PARTICIPANTS,UEA_TE_125,test,UEA,SAWING,DominantWrist,Normal,3
+262,UEA_TEST_PARTICIPANTS,UEA_TE_125,test,UEA,SAWING,DominantWrist,Normal,4
+262,UEA_TEST_PARTICIPANTS,UEA_TE_125,test,UEA,SAWING,DominantWrist,Normal,5
+262,UEA_TEST_PARTICIPANTS,UEA_TE_125,test,UEA,SAWING,DominantWrist,Normal,6
+263,UEA_TEST_PARTICIPANTS,UEA_TE_126,test,UEA,SAWING,DominantWrist,Normal,0
+263,UEA_TEST_PARTICIPANTS,UEA_TE_126,test,UEA,SAWING,DominantWrist,Normal,1
+263,UEA_TEST_PARTICIPANTS,UEA_TE_126,test,UEA,SAWING,DominantWrist,Normal,2
+263,UEA_TEST_PARTICIPANTS,UEA_TE_126,test,UEA,SAWING,DominantWrist,Normal,3
+263,UEA_TEST_PARTICIPANTS,UEA_TE_126,test,UEA,SAWING,DominantWrist,Normal,4
+263,UEA_TEST_PARTICIPANTS,UEA_TE_126,test,UEA,SAWING,DominantWrist,Normal,5
+263,UEA_TEST_PARTICIPANTS,UEA_TE_126,test,UEA,SAWING,DominantWrist,Normal,6
+264,UEA_TEST_PARTICIPANTS,UEA_TE_127,test,UEA,SAWING,DominantWrist,Normal,0
+264,UEA_TEST_PARTICIPANTS,UEA_TE_127,test,UEA,SAWING,DominantWrist,Normal,1
+264,UEA_TEST_PARTICIPANTS,UEA_TE_127,test,UEA,SAWING,DominantWrist,Normal,2
+264,UEA_TEST_PARTICIPANTS,UEA_TE_127,test,UEA,SAWING,DominantWrist,Normal,3
+264,UEA_TEST_PARTICIPANTS,UEA_TE_127,test,UEA,SAWING,DominantWrist,Normal,4
+264,UEA_TEST_PARTICIPANTS,UEA_TE_127,test,UEA,SAWING,DominantWrist,Normal,5
+264,UEA_TEST_PARTICIPANTS,UEA_TE_127,test,UEA,SAWING,DominantWrist,Normal,6
+265,UEA_TEST_PARTICIPANTS,UEA_TE_128,test,UEA,SAWING,DominantWrist,Normal,0
+265,UEA_TEST_PARTICIPANTS,UEA_TE_128,test,UEA,SAWING,DominantWrist,Normal,1
+265,UEA_TEST_PARTICIPANTS,UEA_TE_128,test,UEA,SAWING,DominantWrist,Normal,2
+265,UEA_TEST_PARTICIPANTS,UEA_TE_128,test,UEA,SAWING,DominantWrist,Normal,3
+265,UEA_TEST_PARTICIPANTS,UEA_TE_128,test,UEA,SAWING,DominantWrist,Normal,4
+265,UEA_TEST_PARTICIPANTS,UEA_TE_128,test,UEA,SAWING,DominantWrist,Normal,5
+265,UEA_TEST_PARTICIPANTS,UEA_TE_128,test,UEA,SAWING,DominantWrist,Normal,6
+266,UEA_TEST_PARTICIPANTS,UEA_TE_129,test,UEA,SAWING,DominantWrist,Normal,0
+266,UEA_TEST_PARTICIPANTS,UEA_TE_129,test,UEA,SAWING,DominantWrist,Normal,1
+266,UEA_TEST_PARTICIPANTS,UEA_TE_129,test,UEA,SAWING,DominantWrist,Normal,2
+266,UEA_TEST_PARTICIPANTS,UEA_TE_129,test,UEA,SAWING,DominantWrist,Normal,3
+266,UEA_TEST_PARTICIPANTS,UEA_TE_129,test,UEA,SAWING,DominantWrist,Normal,4
+266,UEA_TEST_PARTICIPANTS,UEA_TE_129,test,UEA,SAWING,DominantWrist,Normal,5
+266,UEA_TEST_PARTICIPANTS,UEA_TE_129,test,UEA,SAWING,DominantWrist,Normal,6
+267,UEA_TEST_PARTICIPANTS,UEA_TE_130,test,UEA,SAWING,DominantWrist,Normal,0
+267,UEA_TEST_PARTICIPANTS,UEA_TE_130,test,UEA,SAWING,DominantWrist,Normal,1
+267,UEA_TEST_PARTICIPANTS,UEA_TE_130,test,UEA,SAWING,DominantWrist,Normal,2
+267,UEA_TEST_PARTICIPANTS,UEA_TE_130,test,UEA,SAWING,DominantWrist,Normal,3
+267,UEA_TEST_PARTICIPANTS,UEA_TE_130,test,UEA,SAWING,DominantWrist,Normal,4
+267,UEA_TEST_PARTICIPANTS,UEA_TE_130,test,UEA,SAWING,DominantWrist,Normal,5
+267,UEA_TEST_PARTICIPANTS,UEA_TE_130,test,UEA,SAWING,DominantWrist,Normal,6
+268,UEA_TEST_PARTICIPANTS,UEA_TE_131,test,UEA,SAWING,DominantWrist,Normal,0
+268,UEA_TEST_PARTICIPANTS,UEA_TE_131,test,UEA,SAWING,DominantWrist,Normal,1
+268,UEA_TEST_PARTICIPANTS,UEA_TE_131,test,UEA,SAWING,DominantWrist,Normal,2
+268,UEA_TEST_PARTICIPANTS,UEA_TE_131,test,UEA,SAWING,DominantWrist,Normal,3
+268,UEA_TEST_PARTICIPANTS,UEA_TE_131,test,UEA,SAWING,DominantWrist,Normal,4
+268,UEA_TEST_PARTICIPANTS,UEA_TE_131,test,UEA,SAWING,DominantWrist,Normal,5
+268,UEA_TEST_PARTICIPANTS,UEA_TE_131,test,UEA,SAWING,DominantWrist,Normal,6
+269,UEA_TEST_PARTICIPANTS,UEA_TE_132,test,UEA,SAWING,DominantWrist,Normal,0
+269,UEA_TEST_PARTICIPANTS,UEA_TE_132,test,UEA,SAWING,DominantWrist,Normal,1
+269,UEA_TEST_PARTICIPANTS,UEA_TE_132,test,UEA,SAWING,DominantWrist,Normal,2
+269,UEA_TEST_PARTICIPANTS,UEA_TE_132,test,UEA,SAWING,DominantWrist,Normal,3
+269,UEA_TEST_PARTICIPANTS,UEA_TE_132,test,UEA,SAWING,DominantWrist,Normal,4
+269,UEA_TEST_PARTICIPANTS,UEA_TE_132,test,UEA,SAWING,DominantWrist,Normal,5
+269,UEA_TEST_PARTICIPANTS,UEA_TE_132,test,UEA,SAWING,DominantWrist,Normal,6
+270,UEA_TEST_PARTICIPANTS,UEA_TE_133,test,UEA,SAWING,DominantWrist,Normal,0
+270,UEA_TEST_PARTICIPANTS,UEA_TE_133,test,UEA,SAWING,DominantWrist,Normal,1
+270,UEA_TEST_PARTICIPANTS,UEA_TE_133,test,UEA,SAWING,DominantWrist,Normal,2
+270,UEA_TEST_PARTICIPANTS,UEA_TE_133,test,UEA,SAWING,DominantWrist,Normal,3
+270,UEA_TEST_PARTICIPANTS,UEA_TE_133,test,UEA,SAWING,DominantWrist,Normal,4
+270,UEA_TEST_PARTICIPANTS,UEA_TE_133,test,UEA,SAWING,DominantWrist,Normal,5
+270,UEA_TEST_PARTICIPANTS,UEA_TE_133,test,UEA,SAWING,DominantWrist,Normal,6
+271,UEA_TEST_PARTICIPANTS,UEA_TE_134,test,UEA,SAWING,DominantWrist,Normal,0
+271,UEA_TEST_PARTICIPANTS,UEA_TE_134,test,UEA,SAWING,DominantWrist,Normal,1
+271,UEA_TEST_PARTICIPANTS,UEA_TE_134,test,UEA,SAWING,DominantWrist,Normal,2
+271,UEA_TEST_PARTICIPANTS,UEA_TE_134,test,UEA,SAWING,DominantWrist,Normal,3
+271,UEA_TEST_PARTICIPANTS,UEA_TE_134,test,UEA,SAWING,DominantWrist,Normal,4
+271,UEA_TEST_PARTICIPANTS,UEA_TE_134,test,UEA,SAWING,DominantWrist,Normal,5
+271,UEA_TEST_PARTICIPANTS,UEA_TE_134,test,UEA,SAWING,DominantWrist,Normal,6
+272,UEA_TEST_PARTICIPANTS,UEA_TE_135,test,UEA,SAWING,DominantWrist,Normal,0
+272,UEA_TEST_PARTICIPANTS,UEA_TE_135,test,UEA,SAWING,DominantWrist,Normal,1
+272,UEA_TEST_PARTICIPANTS,UEA_TE_135,test,UEA,SAWING,DominantWrist,Normal,2
+272,UEA_TEST_PARTICIPANTS,UEA_TE_135,test,UEA,SAWING,DominantWrist,Normal,3
+272,UEA_TEST_PARTICIPANTS,UEA_TE_135,test,UEA,SAWING,DominantWrist,Normal,4
+272,UEA_TEST_PARTICIPANTS,UEA_TE_135,test,UEA,SAWING,DominantWrist,Normal,5
+272,UEA_TEST_PARTICIPANTS,UEA_TE_135,test,UEA,SAWING,DominantWrist,Normal,6
+273,UEA_TEST_PARTICIPANTS,UEA_TE_136,test,UEA,SAWING,DominantWrist,Normal,0
+273,UEA_TEST_PARTICIPANTS,UEA_TE_136,test,UEA,SAWING,DominantWrist,Normal,1
+273,UEA_TEST_PARTICIPANTS,UEA_TE_136,test,UEA,SAWING,DominantWrist,Normal,2
+273,UEA_TEST_PARTICIPANTS,UEA_TE_136,test,UEA,SAWING,DominantWrist,Normal,3
+273,UEA_TEST_PARTICIPANTS,UEA_TE_136,test,UEA,SAWING,DominantWrist,Normal,4
+273,UEA_TEST_PARTICIPANTS,UEA_TE_136,test,UEA,SAWING,DominantWrist,Normal,5
+273,UEA_TEST_PARTICIPANTS,UEA_TE_136,test,UEA,SAWING,DominantWrist,Normal,6
+274,UEA_TEST_PARTICIPANTS,UEA_TE_137,test,UEA,SAWING,DominantWrist,Normal,0
+274,UEA_TEST_PARTICIPANTS,UEA_TE_137,test,UEA,SAWING,DominantWrist,Normal,1
+274,UEA_TEST_PARTICIPANTS,UEA_TE_137,test,UEA,SAWING,DominantWrist,Normal,2
+274,UEA_TEST_PARTICIPANTS,UEA_TE_137,test,UEA,SAWING,DominantWrist,Normal,3
+274,UEA_TEST_PARTICIPANTS,UEA_TE_137,test,UEA,SAWING,DominantWrist,Normal,4
+274,UEA_TEST_PARTICIPANTS,UEA_TE_137,test,UEA,SAWING,DominantWrist,Normal,5
+274,UEA_TEST_PARTICIPANTS,UEA_TE_137,test,UEA,SAWING,DominantWrist,Normal,6

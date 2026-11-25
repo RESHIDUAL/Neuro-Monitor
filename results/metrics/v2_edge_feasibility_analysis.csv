@@ -1,0 +1,5 @@
+Component,Constraint,Specification,Status
+ESP32 Memory Layout,520 KB internal SRAM (320 KB usable DRAM),"468.5 KB flash model file, tensor arena in RAM (untested)",Planned / simulated on laptop: Model file resides in flash; tensor arena resides in RAM. On-device arena size and memory pressure are untested on physical hardware.
+Phone Companion Inference,BLE bridge to mobile app,0.63 ms CPU latency (<10 ms budget),Planned / simulated on laptop: Wristband samples IMU and streams via BLE; companion smartphone executes TFLite inference in real time.
+MPU6050 DLPF 100 Hz,DLPF_CFG=4 (21 Hz bandwidth),100 Hz sampling (50 Hz Nyquist rate),Hardware Anti-Aliasing Valid: Analog/digital bandwidth (21 Hz) is strictly below 50 Hz Nyquist limit.
+MPU6050 DLPF 16 Hz,DLPF_CFG=4 (21 Hz bandwidth),16 Hz sampling (8 Hz Nyquist rate),"Infeasible on-sensor: Sensor analog filter cannot cut off below 21 Hz, creating aliasing between 8-21 Hz. Requires 100 Hz acquisition with digital anti-aliasing filter before decimation."

@@ -1,0 +1,2 @@
+Model,Series_Detected,Seizure_Recall,Seizure_Precision,Macro_F1
+Strided Conv1D + BiLSTM,25 of 34,0.7352941176470589,1.0,0.9029914863703818
