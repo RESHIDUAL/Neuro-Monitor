@@ -116,8 +116,8 @@ Neuro Monitor/
 |
 |-- preprocessing/              # Signal preprocessing pipeline
 |   |-- features.py             # Handcrafted feature extraction
-|   |-- filters.py              # 65-tap FIR bandpass, DC removal
-|   |-- normalization.py        # Per-window z-score normalization
+|   |-- filters.py              # Resampling / anti-aliasing filter utilities (Track 2 check in NB 13)
+|   |-- normalization.py        # Fixed training-std scaling (divides by fixed training channel_std)
 |   |-- windowing.py            # 3-second sliding window segmentation
 |
 |-- data_loading/               # Dataset loaders
@@ -198,7 +198,7 @@ This architecture was selected for edge deployment based on the best balance of 
 ```
 Input(48, 3) -> Conv1D(32, stride=2) -> MaxPool(2)
             -> BiLSTM(32) -> BiLSTM(16) -> Dense(32) -> Dense(2)
-Total parameters: 28,482
+Total parameters: 28,450
 ```
 
 ### Other Evaluated Architectures
@@ -214,26 +214,27 @@ Total parameters: 28,482
 
 ---
 
+## Preprocessing Pipeline
+
+- **Track 1 (PADS, 100 Hz, 6-axis):** Uses no frequency filter at all. Each 3-second (300-sample) window is normalized by dividing by fixed training-set channel standard deviations (`channel_std`), not by each window's own spread.
+- **Track 2 (UEA Epilepsy, 16 Hz, 3-axis):** Normalized by dividing by fixed training-set channel standard deviations (`channel_std_uea`). The 65-tap FIR low-pass filter is only an anti-aliasing check in Notebook 13 for resampling 100 Hz telemetry down to 16 Hz.
+
+---
+
 ## Performance Results
 
-### Track 1: Tremor Classification (PADS, 100 Hz, 6-channel)
+**Track 1: Tremor (PADS), tested on unseen people, 5-fold x 3 seeds**
 
-Evaluation Protocol: 3 fold-split seeds (42, 43, 44) x 5 StratifiedGroupKFold splits = 15 folds total per model. Nested threshold/class-prior tuning optimized on training folds only.
+| Model | Macro F1 | Balanced Acc | AUROC |
+|-------|----------|--------------|-------|
+| Strided Conv1D + BiLSTM (deployed) | 0.498 [0.427, 0.564] | 0.595 | 0.785 |
+| Tuned Random Forest (30 features) | 0.594 | | |
 
-| Model | Subject Macro-F1 | Balanced Accuracy | AUROC Macro |
-|-------|------------------|-------------------|-------------|
-| **Strided Conv1D + BiLSTM** | **0.804** | **0.797** | **0.927** |
-| Strided Conv1D + BiGRU | 0.794 | 0.788 | 0.919 |
-| CNN-BiLSTM + RF Features | 0.790 | 0.783 | 0.916 |
-| Random Forest (tuned) | 0.753 | 0.741 | 0.903 |
+Normal recall 89.9%, PD 45.9%, ET 42.9%. Guessing = 0.33.
 
-### Track 2: Seizure Detection (UEA, 16 Hz, 3-channel)
+**Track 2: Seizure-like (UEA), 138 held-out series**
 
-| Metric | Value |
-|--------|-------|
-| Subject Macro-F1 | 0.971 |
-| Balanced Accuracy | 0.971 |
-| AUROC | 0.998 |
+Recall 85.3% (29/34), Precision 90.6%, Macro F1 0.920. Seizures were acted by volunteers.
 
 ---
 
